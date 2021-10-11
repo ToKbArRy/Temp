@@ -1,0 +1,53 @@
+<article class="index non-source sheet">
+
+	<table class="mapping" id="lang_ids">
+		<caption class="flush"><b>IDs of the languages for the language choice</b>. The ID should be an ISO 639-1 code. Every language must be supported in the translations provided by the backend (i.e. in the dictionary <i>glosses</i> of the data access object <i>dao.glosses</i>). The language with status <i>default</i> is chosen for requests which do not specify the language.</caption>
+		<thead>
+			<tr><th>id</th><th>status</th></tr>
+		</thead>
+		<tbody>
+			<tr><td>de</td><td></td></tr>
+			<tr><td>en</td><td></td></tr>
+			<tr><td>fr</td><td>default</td></tr>
+		</tbody>
+	</table>
+
+	<table class="mapping" id="shortcut_icon">
+		<caption class="flush"><b>Relative path to the shortcut icon</b>, e.g. <i>icons/shortcut.ico</i>: Here, <i>icons</i> is the name of a directory beside this file <i>_config</i> and <i>shortcut.ico</i> is the name of an icon file.</caption>
+		<thead>
+			<tr><th>path</th></tr>
+		</thead>
+		<tbody>
+			<tr><td>icons/shortcut.ico</td></tr>
+		</tbody>
+	</table>
+
+	<table class="mapping" id="main_icons">
+		<caption class="flush"><b>Relative paths to the main icons</b> (see table before). If you want more icons, copy a whole row in the body of the table; if you want less, delete a row or maybe all rows. If the image shall be clickable and linked with a homepage or so, specify a URL in the column <i>URL</i>. The column <i>flat?</i> specifies, whether the icon is shown flat on the background without shadow (write <i>yes</i>) or not (leave the field empty). The column <i>line break after?</i> specifies, whether the icon is to be separated from the next icon by a line break (write <i>yes</i>) or not (leave the field empty).</caption>
+		<thead>
+			<tr><th>path</th><th>URL</th><th>flat?</th><th>line break after?</th></tr>
+		</thead>
+		<tbody>
+			<tr><td>icons/main.png</td><td></td><td></td><td></td></tr>
+			<tr><td>icons/main_org.png</td><td>http://www.dtforum.org</td><td></td><td></td></tr>
+		</tbody>
+	</table>
+
+	<table class="mapping" id="menu_ids">
+		<caption class="flush"><b>IDs of the menu entries</b>. Every ID should occur in the translations provided by the backend (i.e. in the dictionary <i>glosses</i> of the data access object <i>dao.glosses</i>). And every ID must be equal to the name of an (actual or virtual) file, i.e. to the name of a page. The name is not the whole URL, but only the very part specifying the very page. The menu entry with status <i>default</i> is chosen for requests which do not specify the page.</caption>
+		<thead>
+			<tr><th>ID</th><th>status</th></tr>
+		</thead>
+		<tbody>
+			<tr><td>start</td><td>default</td></tr>
+			<tr><td>table_of_contents</td><td></td></tr>
+			<tr><td>introduction</td><td></td></tr>
+			<tr><td>index_of_bibliographic_abbreviations</td><td></td></tr>
+			<tr><td>index_of_letters</td><td></td></tr>
+			<tr><td>index_of_works</td><td></td></tr>
+			<tr><td>index_of_persons</td><td></td></tr>
+			<tr><td>index_of_places</td><td></td></tr>
+		</tbody>
+	</table>
+
+</article>

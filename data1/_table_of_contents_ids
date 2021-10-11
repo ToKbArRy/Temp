@@ -1,0 +1,19 @@
+<article class="index non-source sheet">
+
+<table class="mapping">
+	
+	<thead>
+		<tr><th>table_of_contents_id</th></tr>
+	</thead>
+	<tbody>
+		<tr><td>introduction</td></tr>
+		<tr><td>introduction+de</td></tr>
+		<tr><td>index_of_bibliographic_abbreviations</td></tr>
+		<tr><td>index_of_letters</td></tr>
+		<tr><td>index_of_works</td></tr>
+		<tr><td>index_of_persons</td></tr>
+		<tr><td>index_of_places</td></tr>
+	</tbody>
+</table>
+
+</article>
