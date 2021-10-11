@@ -1,0 +1,1833 @@
+<article class="index non-source" data-template_id="index.tpl" data-table_config_json='{"paging": false, "order": [[1, "asc"]]}'>
+<table class="cell-border order-column" id="index">
+	<thead>
+		<tr>
+			<th>ID</th>
+			<th>Nom</th>
+			<th>Renvoi dans lettre n<sup>o</sup></th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr about="#7513" id="7513">
+			<td><a class="local-row" href="#7513">#7513</a></td>
+			<td property="schema:name">Veronese, Paolo</td>
+			<td><a class="ref" href="1858_03">1858_03</a></td>
+		</tr>
+		<tr about="#10488" id="10488">
+			<td><a class="local-row" href="#10488">#10488</a></td>
+			<td property="schema:name">Normand Saint-Marcel, Emile</td>
+			<td><a class="ref" href="1858_03">1858_03</a></td>
+		</tr>
+		<tr about="#7495" id="7495">
+			<td><a class="local-row" href="#7495">#7495</a></td>
+			<td property="schema:name">Ribeira, Jusepe de, gen. lo Spagnoletto</td>
+			<td><a class="ref" href="1858_04">1858_04</a></td>
+		</tr>
+		<tr about="#8319" id="8319">
+			<td><a class="local-row" href="#8319">#8319</a></td>
+			<td property="schema:name">Titien</td>
+			<td><a class="ref" href="1858_04">1858_04</a> <a class="ref" href="1859_02">1859_02</a> <a class="ref" href="1871_05">1871_05</a> <a class="ref" href="1871_09">1871_09</a></td>
+		</tr>
+		<tr about="#9331" id="9331">
+			<td><a class="local-row" href="#9331">#9331</a></td>
+			<td property="schema:name">Le Corrège</td>
+			<td><a class="ref" href="1858_04">1858_04</a> <a class="ref" href="1858_05">1858_05</a> <a class="ref" href="1871_09">1871_09</a></td>
+		</tr>
+		<tr about="#10585" id="10585">
+			<td><a class="local-row" href="#10585">#10585</a></td>
+			<td property="schema:name">Willems, Florent</td>
+			<td><a class="ref" href="1858_05">1858_05</a></td>
+		</tr>
+		<tr about="#1298" id="1298">
+			<td><a class="local-row" href="#1298">#1298</a></td>
+			<td property="schema:name">Vernier, Émile Séraphin</td>
+			<td><a class="ref" href="1858_05">1858_05</a></td>
+		</tr>
+		<tr about="#10514" id="10514">
+			<td><a class="local-row" href="#10514">#10514</a></td>
+			<td property="schema:name">Régamey, Guillaume</td>
+			<td><a class="ref" href="1858_05">1858_05</a></td>
+		</tr>
+		<tr about="#6969" id="6969">
+			<td><a class="local-row" href="#6969">#6969</a></td>
+			<td property="schema:name">Leys</td>
+			<td><a class="ref" href="1858_05">1858_05</a></td>
+		</tr>
+		<tr about="#11798" id="11798">
+			<td><a class="local-row" href="#11798">#11798</a></td>
+			<td property="schema:name">Erlanger</td>
+			<td><a class="ref" href="1859_01">1859_01</a></td>
+		</tr>
+		<tr about="#1499" id="1499">
+			<td><a class="local-row" href="#1499">#1499</a></td>
+			<td property="schema:name">Holbein</td>
+			<td><a class="ref" href="1858_04">1858_04</a> <a class="ref" href="1859_03">1859_03</a> <a class="ref" href="1879_07">1879_07</a></td>
+		</tr>
+		<tr about="#7887" id="7887">
+			<td><a class="local-row" href="#7887">#7887</a></td>
+			<td property="schema:name">Le Sueur, Eustache</td>
+			<td><a class="ref" href="1860_01">1860_01</a></td>
+		</tr>
+		<tr about="#10493" id="10493">
+			<td><a class="local-row" href="#10493">#10493</a></td>
+			<td property="schema:name">Ottin, Léon</td>
+			<td><a class="ref" href="1858_01">1858_01</a> <a class="ref" href="1858_02">1858_02</a> <a class="ref" href="1858_03">1858_03</a> <a class="ref" href="1858_04">1858_04</a> <a class="ref" href="1858_05">1858_05</a> <a class="ref" href="1859_02">1859_02</a> <a class="ref" href="1859_03">1859_03</a> <a class="ref" href="1860_01">1860_01</a> <a class="ref" href="1862_01">1862_01</a> <a class="ref" href="1863_01">1863_01</a></td>
+		</tr>
+		<tr about="#10555" id="10555">
+			<td><a class="local-row" href="#10555">#10555</a></td>
+			<td property="schema:name">Solon, Marc Louis Emanuel</td>
+			<td><a class="ref" href="1858_02">1858_02</a> <a class="ref" href="1858_03">1858_03</a> <a class="ref" href="1858_04">1858_04</a> <a class="ref" href="1858_05">1858_05</a> <a class="ref" href="1859_02">1859_02</a> <a class="ref" href="1859_03">1859_03</a> <a class="ref" href="1860_01">1860_01</a> <a class="ref" href="1862_01">1862_01</a> <a class="ref" href="1863_01">1863_01</a></td>
+		</tr>
+		<tr about="#10370" id="10370">
+			<td><a class="local-row" href="#10370">#10370</a></td>
+			<td property="schema:name">Ferlet, Guillaume</td>
+			<td><a class="ref" href="1858_02">1858_02</a> <a class="ref" href="1858_03">1858_03</a> <a class="ref" href="1858_04">1858_04</a> <a class="ref" href="1858_05">1858_05</a> <a class="ref" href="1860_01">1860_01</a> <a class="ref" href="1863_01">1863_01</a></td>
+		</tr>
+		<tr about="#10525" id="10525">
+			<td><a class="local-row" href="#10525">#10525</a></td>
+			<td property="schema:name">Ritter, Francine</td>
+			<td><a class="ref" href="1858_01">1858_01</a> <a class="ref" href="1858_04">1858_04</a> <a class="ref" href="1859_02">1859_02</a> <a class="ref" href="1860_01">1860_01</a> <a class="ref" href="1863_01">1863_01</a> <a class="ref" href="1865_02">1865_02</a> <a class="ref" href="1865_10">1865_10</a> <a class="ref" href="1867_03">1867_03</a> <a class="ref" href="1870_01">1870_01</a> <a class="ref" href="1871_06">1871_06</a> <a class="ref" href="1871_08">1871_08</a> <a class="ref" href="1871_09">1871_09</a> <a class="ref" href="1873_03">1873_03</a> <a class="ref" href="1873_04">1873_04</a></td>
+		</tr>
+		<tr about="#10526" id="10526">
+			<td><a class="local-row" href="#10526">#10526</a></td>
+			<td property="schema:name">Ritter, Monsieur</td>
+			<td><a class="ref" href="1858_05">1858_05</a> <a class="ref" href="1860_01">1860_01</a> <a class="ref" href="1867_03">1867_03</a> <a class="ref" href="1870_01">1870_01</a> <a class="ref" href="1871_08">1871_08</a> <a class="ref" href="1871_09">1871_09</a> <a class="ref" href="1873_04">1873_04</a></td>
+		</tr>
+		<tr about="#10338" id="10338">
+			<td><a class="local-row" href="#10338">#10338</a></td>
+			<td property="schema:name">Desportes, Alexandre-François</td>
+			<td><a class="ref" href="1862_01">1862_01</a></td>
+		</tr>
+		<tr about="#10553" id="10553">
+			<td><a class="local-row" href="#10553">#10553</a></td>
+			<td property="schema:name">Snyers, Pieter</td>
+			<td><a class="ref" href="1863_01">1863_01</a></td>
+		</tr>
+		<tr about="#10540" id="10540">
+			<td><a class="local-row" href="#10540">#10540</a></td>
+			<td property="schema:name">Scholderer, Emil</td>
+			<td><a class="ref" href="1862_02">1862_02</a> <a class="ref" href="1863_01">1863_01</a> <a class="ref" href="1865_01">1865_01</a> <a class="ref" href="1874_01">1874_01</a> <a class="ref" href="1875_15">1875_15</a> <a class="ref" href="1878_01">1878_01</a> <a class="ref" href="1878_11">1878_11</a> <a class="ref" href="1886_06">1886_06</a> <a class="ref" href="1887_09">1887_09</a> <a class="ref" href="1888_01">1888_01</a> <a class="ref" href="1892_02">1892_02</a> <a class="ref" href="1897_01">1897_01</a></td>
+		</tr>
+		<tr about="#1181" id="1181">
+			<td><a class="local-row" href="#1181">#1181</a></td>
+			<td property="schema:name">Géricault, Théodore</td>
+			<td><a class="ref" href="1865_02">1865_02</a></td>
+		</tr>
+		<tr about="#2115" id="2115">
+			<td><a class="local-row" href="#2115">#2115</a></td>
+			<td property="schema:name">Courbet</td>
+			<td><a class="ref" href="1865_02">1865_02</a></td>
+		</tr>
+		<tr about="#10382" id="10382">
+			<td><a class="local-row" href="#10382">#10382</a></td>
+			<td property="schema:name">Gerson, Bertha</td>
+			<td><a class="ref" href="1865_02">1865_02</a> <a class="ref" href="1865_03">1865_03</a></td>
+		</tr>
+		<tr about="#2400" id="2400">
+			<td><a class="local-row" href="#2400">#2400</a></td>
+			<td property="schema:name">Hals, Frans</td>
+			<td><a class="ref" href="1865_03">1865_03</a> <a class="ref" href="1877_01">1877_01</a></td>
+		</tr>
+		<tr about="#1163" id="1163">
+			<td><a class="local-row" href="#1163">#1163</a></td>
+			<td property="schema:name">Chardin, Jean-Baptiste Siméon</td>
+			<td><a class="ref" href="1862_01">1862_01</a> <a class="ref" href="1863_01">1863_01</a> <a class="ref" href="1865_03">1865_03</a> <a class="ref" href="1865_16">1865_16</a> <a class="ref" href="1866_01">1866_01</a> <a class="ref" href="1875_15">1875_15</a> <a class="ref" href="1882_04">1882_04</a> <a class="ref" href="1884_11">1884_11</a> <a class="ref" href="1884_12">1884_12</a> <a class="ref" href="1890_01">1890_01</a> <a class="ref" href="1896_11">1896_11</a></td>
+		</tr>
+		<tr about="#10497" id="10497">
+			<td><a class="local-row" href="#10497">#10497</a></td>
+			<td property="schema:name">Peipers,</td>
+			<td><a class="ref" href="1865_05">1865_05</a></td>
+		</tr>
+		<tr about="#1455" id="1455">
+			<td><a class="local-row" href="#1455">#1455</a></td>
+			<td property="schema:name">Heilbuth, Ferdinand</td>
+			<td><a class="ref" href="1865_01">1865_01</a> <a class="ref" href="1865_05">1865_05</a></td>
+		</tr>
+		<tr about="#10332" id="10332">
+			<td><a class="local-row" href="#10332">#10332</a></td>
+			<td property="schema:name">Deforge,</td>
+			<td><a class="ref" href="1865_05">1865_05</a> <a class="ref" href="1865_06">1865_06</a></td>
+		</tr>
+		<tr about="#4472" id="4472">
+			<td><a class="local-row" href="#4472">#4472</a></td>
+			<td property="schema:name">Giorgione</td>
+			<td><a class="ref" href="1858_05">1858_05</a> <a class="ref" href="1865_01">1865_01</a> <a class="ref" href="1865_05">1865_05</a> <a class="ref" href="1865_07">1865_07</a> <a class="ref" href="1871_02">1871_02</a> <a class="ref" href="1871_09">1871_09</a> <a class="ref" href="1877_01">1877_01</a> <a class="ref" href="1879_07">1879_07</a></td>
+		</tr>
+		<tr about="#1197" id="1197">
+			<td><a class="local-row" href="#1197">#1197</a></td>
+			<td property="schema:name">David, Jacques-Louis</td>
+			<td><a class="ref" href="1865_05">1865_05</a> <a class="ref" href="1879_07">1879_07</a></td>
+		</tr>
+		<tr about="#10383" id="10383">
+			<td><a class="local-row" href="#10383">#10383</a></td>
+			<td property="schema:name">Gerson, famille</td>
+			<td><a class="ref" href="1865_02">1865_02</a> <a class="ref" href="1865_06">1865_06</a> <a class="ref" href="1865_07">1865_07</a></td>
+		</tr>
+		<tr about="#7134" id="7134">
+			<td><a class="local-row" href="#7134">#7134</a></td>
+			<td property="schema:name">Schrecker, Otto</td>
+			<td><a class="ref" href="1865_10">1865_10</a></td>
+		</tr>
+		<tr about="#11799" id="11799">
+			<td><a class="local-row" href="#11799">#11799</a></td>
+			<td property="schema:name">Schreyer, Adolphe</td>
+			<td><a class="ref" href="1865_10">1865_10</a> <a class="ref" href="1865_16">1865_16</a> <a class="ref" href="1868_01">1868_01</a> <a class="ref" href="1871_05">1871_05</a> <a class="ref" href="1874_01">1874_01</a></td>
+		</tr>
+		<tr about="#10400" id="10400">
+			<td><a class="local-row" href="#10400">#10400</a></td>
+			<td property="schema:name">Hardy -Alan,</td>
+			<td><a class="ref" href="1865_02">1865_02</a> <a class="ref" href="1865_13">1865_13</a> <a class="ref" href="1865_15">1865_15</a> <a class="ref" href="1865_16">1865_16</a> <a class="ref" href="1866_01">1866_01</a></td>
+		</tr>
+		<tr about="#9194" id="9194">
+			<td><a class="local-row" href="#9194">#9194</a></td>
+			<td property="schema:name">Rotschild, Famille</td>
+			<td><a class="ref" href="1865_14">1865_14</a></td>
+		</tr>
+		<tr about="#1330" id="1330">
+			<td><a class="local-row" href="#1330">#1330</a></td>
+			<td property="schema:name">Proudhon, Pierre-Joseph</td>
+			<td><a class="ref" href="1865_14">1865_14</a> <a class="ref" href="1865_15">1865_15</a> <a class="ref" href="1865_16">1865_16</a></td>
+		</tr>
+		<tr about="#11802" id="11802">
+			<td><a class="local-row" href="#11802">#11802</a></td>
+			<td property="schema:name">Reiß, Jacques</td>
+			<td><a class="ref" href="1865_16">1865_16</a></td>
+		</tr>
+		<tr about="#7480" id="7480">
+			<td><a class="local-row" href="#7480">#7480</a></td>
+			<td property="schema:name">Watteau, Antoine</td>
+			<td><a class="ref" href="1866_01">1866_01</a></td>
+		</tr>
+		<tr about="#9055" id="9055">
+			<td><a class="local-row" href="#9055">#9055</a></td>
+			<td property="schema:name">Rothschild, Famille</td>
+			<td><a class="ref" href="1865_16">1865_16</a> <a class="ref" href="1866_01">1866_01</a></td>
+		</tr>
+		<tr about="#10270" id="10270">
+			<td><a class="local-row" href="#10270">#10270</a></td>
+			<td property="schema:name">Achenbach, Oswald</td>
+			<td><a class="ref" href="1866_02">1866_02</a> <a class="ref" href="1886_06">1886_06</a></td>
+		</tr>
+		<tr about="#1301" id="1301">
+			<td><a class="local-row" href="#1301">#1301</a></td>
+			<td property="schema:name">Couture, Thomas</td>
+			<td><a class="ref" href="1865_14">1865_14</a> <a class="ref" href="1867_01">1867_01</a> <a class="ref" href="1884_07">1884_07</a> <a class="ref" href="1884_08">1884_08</a></td>
+		</tr>
+		<tr about="#1504" id="1504">
+			<td><a class="local-row" href="#1504">#1504</a></td>
+			<td property="schema:name">Achenbach, Andreas</td>
+			<td><a class="ref" href="1866_02">1866_02</a> <a class="ref" href="1867_01">1867_01</a> <a class="ref" href="1886_06">1886_06</a></td>
+		</tr>
+		<tr about="#10365" id="10365">
+			<td><a class="local-row" href="#10365">#10365</a></td>
+			<td property="schema:name">Fantin-Latour, Hélène</td>
+			<td><a class="ref" href="1862_01">1862_01</a> <a class="ref" href="1867_01">1867_01</a> <a class="ref" href="1867_02">1867_02</a></td>
+		</tr>
+		<tr about="#10534" id="10534">
+			<td><a class="local-row" href="#10534">#10534</a></td>
+			<td property="schema:name">Röth, Philipp</td>
+			<td><a class="ref" href="1867_01">1867_01</a> <a class="ref" href="1867_03">1867_03</a></td>
+		</tr>
+		<tr about="#2798" id="2798">
+			<td><a class="local-row" href="#2798">#2798</a></td>
+			<td property="schema:name">Daubigny, Charles-François</td>
+			<td><a class="ref" href="1867_01">1867_01</a> <a class="ref" href="1867_03">1867_03</a> <a class="ref" href="1871_02">1871_02</a> <a class="ref" href="1878_07">1878_07</a> <a class="ref" href="1878_12">1878_12</a> <a class="ref" href="1878_13">1878_13</a> <a class="ref" href="1878_14">1878_14</a> <a class="ref" href="1878_15">1878_15</a></td>
+		</tr>
+		<tr about="#11656" id="11656">
+			<td><a class="local-row" href="#11656">#11656</a></td>
+			<td property="schema:name">Knaus, Ludwig</td>
+			<td><a class="ref" href="1867_03">1867_03</a></td>
+		</tr>
+		<tr about="#1069" id="1069">
+			<td><a class="local-row" href="#1069">#1069</a></td>
+			<td property="schema:name">Gérôme, Jean-Léon</td>
+			<td><a class="ref" href="1867_03">1867_03</a> <a class="ref" href="1878_05">1878_05</a></td>
+		</tr>
+		<tr about="#8888" id="8888">
+			<td><a class="local-row" href="#8888">#8888</a></td>
+			<td property="schema:name">Colin</td>
+			<td><a class="ref" href="1863_01">1863_01</a> <a class="ref" href="1868_01">1868_01</a></td>
+		</tr>
+		<tr about="#6162" id="6162">
+			<td><a class="local-row" href="#6162">#6162</a></td>
+			<td property="schema:name">Ritter</td>
+			<td><a class="ref" href="1862_02">1862_02</a> <a class="ref" href="1865_07">1865_07</a> <a class="ref" href="1865_14">1865_14</a> <a class="ref" href="1865_15">1865_15</a> <a class="ref" href="1865_16">1865_16</a> <a class="ref" href="1867_01">1867_01</a> <a class="ref" href="1868_01">1868_01</a> <a class="ref" href="1871_01">1871_01</a> <a class="ref" href="1871_02">1871_02</a></td>
+		</tr>
+		<tr about="#10560" id="10560">
+			<td><a class="local-row" href="#10560">#10560</a></td>
+			<td property="schema:name">Steinhardt, Karl-Friedrich</td>
+			<td><a class="ref" href="1866_02">1866_02</a> <a class="ref" href="1868_01">1868_01</a> <a class="ref" href="1870_01">1870_01</a> <a class="ref" href="1870_02">1870_02</a> <a class="ref" href="1870_03">1870_03</a> <a class="ref" href="1870_04">1870_04</a> <a class="ref" href="1871_01">1871_01</a> <a class="ref" href="1871_09">1871_09</a> <a class="ref" href="1874_02">1874_02</a> <a class="ref" href="1884_07">1884_07</a> <a class="ref" href="1884_08">1884_08</a></td>
+		</tr>
+		<tr about="#2393" id="2393">
+			<td><a class="local-row" href="#2393">#2393</a></td>
+			<td property="schema:name">Mozart, Wolfgang Amadeus</td>
+			<td><a class="ref" href="1858_03">1858_03</a> <a class="ref" href="1868_01">1868_01</a> <a class="ref" href="1879_05">1879_05</a> <a class="ref" href="1879_21">1879_21</a> <a class="ref" href="1884_10">1884_10</a></td>
+		</tr>
+		<tr about="#10378" id="10378">
+			<td><a class="local-row" href="#10378">#10378</a></td>
+			<td property="schema:name">Fry, Clarence Edmund</td>
+			<td><a class="ref" href="1869_01">1869_01</a></td>
+		</tr>
+		<tr about="#11945" id="11945">
+			<td><a class="local-row" href="#11945">#11945</a></td>
+			<td property="schema:name">Du Maurier, Georges Louis Palmella Busson</td>
+			<td><a class="ref" href="1869_01">1869_01</a></td>
+		</tr>
+		<tr about="#1338" id="1338">
+			<td><a class="local-row" href="#1338">#1338</a></td>
+			<td property="schema:name">Doré, Gustave</td>
+			<td><a class="ref" href="1869_01">1869_01</a></td>
+		</tr>
+		<tr about="#10429" id="10429">
+			<td><a class="local-row" href="#10429">#10429</a></td>
+			<td property="schema:name">La Caze, Louis</td>
+			<td><a class="ref" href="1860_01">1860_01</a> <a class="ref" href="1865_03">1865_03</a> <a class="ref" href="1866_01">1866_01</a> <a class="ref" href="1869_01">1869_01</a> <a class="ref" href="1875_15">1875_15</a></td>
+		</tr>
+		<tr about="#7494" id="7494">
+			<td><a class="local-row" href="#7494">#7494</a></td>
+			<td property="schema:name">Vélasquez, Diego</td>
+			<td><a class="ref" href="1859_01">1859_01</a> <a class="ref" href="1859_03">1859_03</a> <a class="ref" href="1860_01">1860_01</a> <a class="ref" href="1865_05">1865_05</a> <a class="ref" href="1865_15">1865_15</a> <a class="ref" href="1866_01">1866_01</a> <a class="ref" href="1869_01">1869_01</a> <a class="ref" href="1871_05">1871_05</a> <a class="ref" href="1874_05">1874_05</a> <a class="ref" href="1890_06">1890_06</a> <a class="ref" href="1894_02">1894_02</a> <a class="ref" href="1894_03">1894_03</a> <a class="ref" href="1895_02">1895_02</a> <a class="ref" href="1896_01">1896_01</a> <a class="ref" href="1896_02">1896_02</a> <a class="ref" href="1896_03">1896_03</a> <a class="ref" href="1896_04">1896_04</a> <a class="ref" href="1896_11">1896_11</a></td>
+		</tr>
+		<tr about="#1116" id="1116">
+			<td><a class="local-row" href="#1116">#1116</a></td>
+			<td property="schema:name">Courbet, Gustave</td>
+			<td><a class="ref" href="1858_04">1858_04</a> <a class="ref" href="1858_05">1858_05</a> <a class="ref" href="1859_01">1859_01</a> <a class="ref" href="1859_02">1859_02</a> <a class="ref" href="1859_03">1859_03</a> <a class="ref" href="1860_01">1860_01</a> <a class="ref" href="1862_01">1862_01</a> <a class="ref" href="1865_02">1865_02</a> <a class="ref" href="1865_03">1865_03</a> <a class="ref" href="1865_05">1865_05</a> <a class="ref" href="1865_07">1865_07</a> <a class="ref" href="1865_08">1865_08</a> <a class="ref" href="1866_02">1866_02</a> <a class="ref" href="1867_01">1867_01</a> <a class="ref" href="1867_03">1867_03</a> <a class="ref" href="1868_01">1868_01</a> <a class="ref" href="1869_01">1869_01</a> <a class="ref" href="1871_01">1871_01</a> <a class="ref" href="1871_02">1871_02</a> <a class="ref" href="1871_03">1871_03</a> <a class="ref" href="1871_04">1871_04</a> <a class="ref" href="1871_05">1871_05</a> <a class="ref" href="1871_08">1871_08</a> <a class="ref" href="1872_01">1872_01</a> <a class="ref" href="1872_04">1872_04</a> <a class="ref" href="1873_01">1873_01</a> <a class="ref" href="1875_04">1875_04</a> <a class="ref" href="1878_01">1878_01</a> <a class="ref" href="1878_07">1878_07</a> <a class="ref" href="1878_08">1878_08</a> <a class="ref" href="1878_12">1878_12</a> <a class="ref" href="1878_13">1878_13</a> <a class="ref" href="1878_14">1878_14</a> <a class="ref" href="1878_15">1878_15</a> <a class="ref" href="1879_13">1879_13</a> <a class="ref" href="1890_04">1890_04</a> <a class="ref" href="1892_02">1892_02</a> <a class="ref" href="1896_11">1896_11</a></td>
+		</tr>
+		<tr about="#3352" id="3352">
+			<td><a class="local-row" href="#3352">#3352</a></td>
+			<td property="schema:name">Müller, Victor</td>
+			<td><a class="ref" href="1859_02">1859_02</a> <a class="ref" href="1859_03">1859_03</a> <a class="ref" href="1860_01">1860_01</a> <a class="ref" href="1862_01">1862_01</a> <a class="ref" href="1863_01">1863_01</a> <a class="ref" href="1865_01">1865_01</a> <a class="ref" href="1865_02">1865_02</a> <a class="ref" href="1865_03">1865_03</a> <a class="ref" href="1865_05">1865_05</a> <a class="ref" href="1865_06">1865_06</a> <a class="ref" href="1865_07">1865_07</a> <a class="ref" href="1865_10">1865_10</a> <a class="ref" href="1865_12">1865_12</a> <a class="ref" href="1865_13">1865_13</a> <a class="ref" href="1865_15">1865_15</a> <a class="ref" href="1865_16">1865_16</a> <a class="ref" href="1866_01">1866_01</a> <a class="ref" href="1868_01">1868_01</a> <a class="ref" href="1869_01">1869_01</a> <a class="ref" href="1869_02">1869_02</a> <a class="ref" href="1870_02">1870_02</a> <a class="ref" href="1871_02">1871_02</a> <a class="ref" href="1871_04">1871_04</a> <a class="ref" href="1871_06">1871_06</a> <a class="ref" href="1871_07">1871_07</a> <a class="ref" href="1872_01">1872_01</a> <a class="ref" href="1878_08">1878_08</a> <a class="ref" href="1879_08">1879_08</a> <a class="ref" href="1892_02">1892_02</a></td>
+		</tr>
+		<tr about="#1086" id="1086">
+			<td><a class="local-row" href="#1086">#1086</a></td>
+			<td property="schema:name">Manet, Edouard</td>
+			<td><a class="ref" href="1865_12">1865_12</a> <a class="ref" href="1865_14">1865_14</a> <a class="ref" href="1865_15">1865_15</a> <a class="ref" href="1866_02">1866_02</a> <a class="ref" href="1868_01">1868_01</a> <a class="ref" href="1869_01">1869_01</a> <a class="ref" href="1869_02">1869_02</a> <a class="ref" href="1870_02">1870_02</a> <a class="ref" href="1870_03">1870_03</a> <a class="ref" href="1870_04">1870_04</a> <a class="ref" href="1871_01">1871_01</a> <a class="ref" href="1871_02">1871_02</a> <a class="ref" href="1871_04">1871_04</a> <a class="ref" href="1871_05">1871_05</a> <a class="ref" href="1871_06">1871_06</a> <a class="ref" href="1871_08">1871_08</a> <a class="ref" href="1871_09">1871_09</a> <a class="ref" href="1872_01">1872_01</a> <a class="ref" href="1872_02">1872_02</a> <a class="ref" href="1872_03">1872_03</a> <a class="ref" href="1872_04">1872_04</a> <a class="ref" href="1873_01">1873_01</a> <a class="ref" href="1873_02">1873_02</a> <a class="ref" href="1873_03">1873_03</a> <a class="ref" href="1873_04">1873_04</a> <a class="ref" href="1874_01">1874_01</a> <a class="ref" href="1874_02">1874_02</a> <a class="ref" href="1874_03">1874_03</a> <a class="ref" href="1874_04">1874_04</a> <a class="ref" href="1874_06">1874_06</a> <a class="ref" href="1874_07">1874_07</a> <a class="ref" href="1875_02">1875_02</a> <a class="ref" href="1875_03">1875_03</a> <a class="ref" href="1875_04">1875_04</a> <a class="ref" href="1875_05">1875_05</a> <a class="ref" href="1875_11">1875_11</a> <a class="ref" href="1876_02">1876_02</a> <a class="ref" href="1876_03">1876_03</a> <a class="ref" href="1876_04">1876_04</a> <a class="ref" href="1876_07">1876_07</a> <a class="ref" href="1876_08">1876_08</a> <a class="ref" href="1876_15">1876_15</a> <a class="ref" href="1877_02">1877_02</a> <a class="ref" href="1877_04">1877_04</a> <a class="ref" href="1877_08">1877_08</a> <a class="ref" href="1878_01">1878_01</a> <a class="ref" href="1878_02">1878_02</a> <a class="ref" href="1878_08">1878_08</a> <a class="ref" href="1878_09">1878_09</a> <a class="ref" href="1879_11">1879_11</a> <a class="ref" href="1879_14">1879_14</a> <a class="ref" href="1880_17">1880_17</a> <a class="ref" href="1881_14">1881_14</a> <a class="ref" href="1883_02">1883_02</a> <a class="ref" href="1883_03">1883_03</a> <a class="ref" href="1883_05">1883_05</a> <a class="ref" href="1884_03">1884_03</a> <a class="ref" href="1891_04">1891_04</a> <a class="ref" href="1892_01">1892_01</a> <a class="ref" href="1892_02">1892_02</a> <a class="ref" href="1892_04">1892_04</a> <a class="ref" href="1894_03">1894_03</a> <a class="ref" href="1894_04">1894_04</a> <a class="ref" href="1898_01">1898_01</a> <a class="ref" href="1898_05">1898_05</a></td>
+		</tr>
+		<tr about="#640" id="640">
+			<td><a class="local-row" href="#640">#640</a></td>
+			<td property="schema:name">Corot, Jean-Baptiste Camille</td>
+			<td><a class="ref" href="1858_04">1858_04</a> <a class="ref" href="1859_02">1859_02</a> <a class="ref" href="1862_01">1862_01</a> <a class="ref" href="1865_05">1865_05</a> <a class="ref" href="1865_07">1865_07</a> <a class="ref" href="1865_08">1865_08</a> <a class="ref" href="1865_12">1865_12</a> <a class="ref" href="1867_01">1867_01</a> <a class="ref" href="1867_03">1867_03</a> <a class="ref" href="1868_01">1868_01</a> <a class="ref" href="1869_01">1869_01</a> <a class="ref" href="1871_02">1871_02</a> <a class="ref" href="1871_04">1871_04</a> <a class="ref" href="1874_07">1874_07</a> <a class="ref" href="1875_01">1875_01</a> <a class="ref" href="1875_02">1875_02</a> <a class="ref" href="1875_03">1875_03</a> <a class="ref" href="1875_04">1875_04</a> <a class="ref" href="1875_05">1875_05</a> <a class="ref" href="1875_09">1875_09</a> <a class="ref" href="1875_10">1875_10</a> <a class="ref" href="1875_11">1875_11</a> <a class="ref" href="1877_04">1877_04</a> <a class="ref" href="1877_07">1877_07</a> <a class="ref" href="1877_08">1877_08</a> <a class="ref" href="1878_07">1878_07</a> <a class="ref" href="1878_12">1878_12</a> <a class="ref" href="1878_13">1878_13</a> <a class="ref" href="1878_14">1878_14</a> <a class="ref" href="1878_15">1878_15</a> <a class="ref" href="1881_07">1881_07</a> <a class="ref" href="1886_04">1886_04</a> <a class="ref" href="1886_05">1886_05</a> <a class="ref" href="1896_02">1896_02</a> <a class="ref" href="1896_03">1896_03</a> <a class="ref" href="1898_03">1898_03</a></td>
+		</tr>
+		<tr about="#6708" id="6708">
+			<td><a class="local-row" href="#6708">#6708</a></td>
+			<td property="schema:name">Scholderer, Otto</td>
+			<td><a class="ref" href="1858_01">1858_01</a> <a class="ref" href="1858_02">1858_02</a> <a class="ref" href="1858_03">1858_03</a> <a class="ref" href="1858_05">1858_05</a> <a class="ref" href="1859_01">1859_01</a> <a class="ref" href="1859_02">1859_02</a> <a class="ref" href="1859_03">1859_03</a> <a class="ref" href="1860_01">1860_01</a> <a class="ref" href="1862_01">1862_01</a> <a class="ref" href="1862_02">1862_02</a> <a class="ref" href="1863_01">1863_01</a> <a class="ref" href="1865_02">1865_02</a> <a class="ref" href="1865_03">1865_03</a> <a class="ref" href="1865_04">1865_04</a> <a class="ref" href="1865_05">1865_05</a> <a class="ref" href="1865_06">1865_06</a> <a class="ref" href="1865_07">1865_07</a> <a class="ref" href="1865_08">1865_08</a> <a class="ref" href="1865_09">1865_09</a> <a class="ref" href="1865_10">1865_10</a> <a class="ref" href="1865_11">1865_11</a> <a class="ref" href="1865_12">1865_12</a> <a class="ref" href="1865_13">1865_13</a> <a class="ref" href="1865_14">1865_14</a> <a class="ref" href="1865_15">1865_15</a> <a class="ref" href="1865_16">1865_16</a> <a class="ref" href="1866_01">1866_01</a> <a class="ref" href="1866_02">1866_02</a> <a class="ref" href="1867_01">1867_01</a> <a class="ref" href="1867_02">1867_02</a> <a class="ref" href="1867_03">1867_03</a> <a class="ref" href="1868_01">1868_01</a> <a class="ref" href="1869_01">1869_01</a> <a class="ref" href="1869_02">1869_02</a> <a class="ref" href="1870_01">1870_01</a> <a class="ref" href="1870_02">1870_02</a> <a class="ref" href="1870_03">1870_03</a> <a class="ref" href="1870_04">1870_04</a> <a class="ref" href="1871_01">1871_01</a> <a class="ref" href="1871_02">1871_02</a> <a class="ref" href="1871_03">1871_03</a> <a class="ref" href="1871_04">1871_04</a> <a class="ref" href="1871_05">1871_05</a> <a class="ref" href="1871_06">1871_06</a> <a class="ref" href="1871_07">1871_07</a> <a class="ref" href="1871_08">1871_08</a> <a class="ref" href="1871_09">1871_09</a> <a class="ref" href="1872_01">1872_01</a> <a class="ref" href="1872_02">1872_02</a> <a class="ref" href="1872_03">1872_03</a> <a class="ref" href="1872_04">1872_04</a> <a class="ref" href="1873_01">1873_01</a> <a class="ref" href="1873_02">1873_02</a> <a class="ref" href="1873_03">1873_03</a> <a class="ref" href="1873_04">1873_04</a> <a class="ref" href="1873_05">1873_05</a> <a class="ref" href="1874_01">1874_01</a> <a class="ref" href="1874_02">1874_02</a> <a class="ref" href="1874_03">1874_03</a> <a class="ref" href="1874_04">1874_04</a> <a class="ref" href="1874_05">1874_05</a> <a class="ref" href="1874_06">1874_06</a> <a class="ref" href="1874_07">1874_07</a> <a class="ref" href="1874_08">1874_08</a> <a class="ref" href="1875_01">1875_01</a> <a class="ref" href="1875_02">1875_02</a> <a class="ref" href="1875_03">1875_03</a> <a class="ref" href="1875_04">1875_04</a> <a class="ref" href="1875_05">1875_05</a> <a class="ref" href="1875_06">1875_06</a> <a class="ref" href="1875_07">1875_07</a> <a class="ref" href="1875_08">1875_08</a> <a class="ref" href="1875_09">1875_09</a> <a class="ref" href="1875_10">1875_10</a> <a class="ref" href="1875_11">1875_11</a> <a class="ref" href="1875_12">1875_12</a> <a class="ref" href="1875_13">1875_13</a> <a class="ref" href="1875_14">1875_14</a> <a class="ref" href="1875_15">1875_15</a> <a class="ref" href="1875_16">1875_16</a> <a class="ref" href="1875_17">1875_17</a> <a class="ref" href="1875_18">1875_18</a> <a class="ref" href="1876_01">1876_01</a> <a class="ref" href="1876_02">1876_02</a> <a class="ref" href="1876_03">1876_03</a> <a class="ref" href="1876_04">1876_04</a> <a class="ref" href="1876_05">1876_05</a> <a class="ref" href="1876_06">1876_06</a> <a class="ref" href="1876_07">1876_07</a> <a class="ref" href="1876_08">1876_08</a> <a class="ref" href="1876_09">1876_09</a> <a class="ref" href="1876_10">1876_10</a> <a class="ref" href="1876_11">1876_11</a> <a class="ref" href="1876_12">1876_12</a> <a class="ref" href="1876_13">1876_13</a> <a class="ref" href="1876_14">1876_14</a> <a class="ref" href="1876_15">1876_15</a> <a class="ref" href="1876_16">1876_16</a> <a class="ref" href="1876_17">1876_17</a> <a class="ref" href="1876_18">1876_18</a> <a class="ref" href="1877_01">1877_01</a> <a class="ref" href="1877_02">1877_02</a> <a class="ref" href="1877_03">1877_03</a> <a class="ref" href="1877_04">1877_04</a> <a class="ref" href="1877_05">1877_05</a> <a class="ref" href="1877_06">1877_06</a> <a class="ref" href="1877_07">1877_07</a> <a class="ref" href="1877_08">1877_08</a> <a class="ref" href="1877_09">1877_09</a> <a class="ref" href="1878_01">1878_01</a> <a class="ref" href="1878_02">1878_02</a> <a class="ref" href="1878_03">1878_03</a> <a class="ref" href="1878_04">1878_04</a> <a class="ref" href="1878_05">1878_05</a> <a class="ref" href="1878_06">1878_06</a> <a class="ref" href="1878_07">1878_07</a> <a class="ref" href="1878_08">1878_08</a> <a class="ref" href="1878_09">1878_09</a> <a class="ref" href="1878_10">1878_10</a> <a class="ref" href="1878_11">1878_11</a> <a class="ref" href="1878_12">1878_12</a> <a class="ref" href="1878_13">1878_13</a> <a class="ref" href="1878_14">1878_14</a> <a class="ref" href="1878_15">1878_15</a> <a class="ref" href="1878_16">1878_16</a> <a class="ref" href="1878_17">1878_17</a> <a class="ref" href="1878_18">1878_18</a> <a class="ref" href="1878_19">1878_19</a> <a class="ref" href="1879_01">1879_01</a> <a class="ref" href="1879_02">1879_02</a> <a class="ref" href="1879_03">1879_03</a> <a class="ref" href="1879_04">1879_04</a> <a class="ref" href="1879_05">1879_05</a> <a class="ref" href="1879_06">1879_06</a> <a class="ref" href="1879_07">1879_07</a> <a class="ref" href="1879_08">1879_08</a> <a class="ref" href="1879_09">1879_09</a> <a class="ref" href="1879_10">1879_10</a> <a class="ref" href="1879_11">1879_11</a> <a class="ref" href="1879_12">1879_12</a> <a class="ref" href="1879_13">1879_13</a> <a class="ref" href="1879_14">1879_14</a> <a class="ref" href="1879_15">1879_15</a> <a class="ref" href="1879_16">1879_16</a> <a class="ref" href="1879_17">1879_17</a> <a class="ref" href="1879_18">1879_18</a> <a class="ref" href="1879_19">1879_19</a> <a class="ref" href="1879_20">1879_20</a> <a class="ref" href="1879_21">1879_21</a> <a class="ref" href="1879_22">1879_22</a> <a class="ref" href="1880_01">1880_01</a> <a class="ref" href="1880_02">1880_02</a> <a class="ref" href="1880_03">1880_03</a> <a class="ref" href="1880_04">1880_04</a> <a class="ref" href="1880_05">1880_05</a> <a class="ref" href="1880_06">1880_06</a> <a class="ref" href="1880_07">1880_07</a> <a class="ref" href="1880_08">1880_08</a> <a class="ref" href="1880_09">1880_09</a> <a class="ref" href="1880_10">1880_10</a> <a class="ref" href="1880_11">1880_11</a> <a class="ref" href="1880_12">1880_12</a> <a class="ref" href="1880_13">1880_13</a> <a class="ref" href="1880_14">1880_14</a> <a class="ref" href="1880_15">1880_15</a> <a class="ref" href="1880_16">1880_16</a> <a class="ref" href="1880_17">1880_17</a> <a class="ref" href="1880_18">1880_18</a> <a class="ref" href="1880_19">1880_19</a> <a class="ref" href="1881_01">1881_01</a> <a class="ref" href="1881_02">1881_02</a> <a class="ref" href="1881_03">1881_03</a> <a class="ref" href="1881_04">1881_04</a> <a class="ref" href="1881_05">1881_05</a> <a class="ref" href="1881_06">1881_06</a> <a class="ref" href="1881_07">1881_07</a> <a class="ref" href="1881_08">1881_08</a> <a class="ref" href="1881_09">1881_09</a> <a class="ref" href="1881_10">1881_10</a> <a class="ref" href="1881_11">1881_11</a> <a class="ref" href="1881_12">1881_12</a> <a class="ref" href="1881_13">1881_13</a> <a class="ref" href="1881_14">1881_14</a> <a class="ref" href="1882_01">1882_01</a> <a class="ref" href="1882_02">1882_02</a> <a class="ref" href="1882_03">1882_03</a> <a class="ref" href="1882_04">1882_04</a> <a class="ref" href="1882_05">1882_05</a> <a class="ref" href="1882_06">1882_06</a> <a class="ref" href="1883_01">1883_01</a> <a class="ref" href="1883_02">1883_02</a> <a class="ref" href="1883_03">1883_03</a> <a class="ref" href="1883_04">1883_04</a> <a class="ref" href="1883_05">1883_05</a> <a class="ref" href="1884_01">1884_01</a> <a class="ref" href="1884_02">1884_02</a> <a class="ref" href="1884_03">1884_03</a> <a class="ref" href="1884_04">1884_04</a> <a class="ref" href="1884_05">1884_05</a> <a class="ref" href="1884_06">1884_06</a> <a class="ref" href="1884_07">1884_07</a> <a class="ref" href="1884_08">1884_08</a> <a class="ref" href="1884_09">1884_09</a> <a class="ref" href="1884_10">1884_10</a> <a class="ref" href="1884_11">1884_11</a> <a class="ref" href="1884_12">1884_12</a> <a class="ref" href="1884_13">1884_13</a> <a class="ref" href="1885_01">1885_01</a> <a class="ref" href="1885_02">1885_02</a> <a class="ref" href="1885_03">1885_03</a> <a class="ref" href="1886_01">1886_01</a> <a class="ref" href="1886_02">1886_02</a> <a class="ref" href="1886_03">1886_03</a> <a class="ref" href="1886_04">1886_04</a> <a class="ref" href="1886_05">1886_05</a> <a class="ref" href="1886_06">1886_06</a> <a class="ref" href="1887_01">1887_01</a> <a class="ref" href="1887_02">1887_02</a> <a class="ref" href="1887_03">1887_03</a> <a class="ref" href="1887_04">1887_04</a> <a class="ref" href="1887_05">1887_05</a> <a class="ref" href="1887_06">1887_06</a> <a class="ref" href="1887_07">1887_07</a> <a class="ref" href="1887_08">1887_08</a> <a class="ref" href="1887_09">1887_09</a> <a class="ref" href="1888_01">1888_01</a> <a class="ref" href="1888_02">1888_02</a> <a class="ref" href="1888_03">1888_03</a> <a class="ref" href="1888_04">1888_04</a> <a class="ref" href="1888_05">1888_05</a> <a class="ref" href="1888_06">1888_06</a> <a class="ref" href="1888_07">1888_07</a> <a class="ref" href="1889_01">1889_01</a> <a class="ref" href="1889_02">1889_02</a> <a class="ref" href="1889_03">1889_03</a> <a class="ref" href="1889_04">1889_04</a> <a class="ref" href="1889_05">1889_05</a> <a class="ref" href="1889_06">1889_06</a> <a class="ref" href="1890_01">1890_01</a> <a class="ref" href="1890_02">1890_02</a> <a class="ref" href="1890_03">1890_03</a> <a class="ref" href="1890_04">1890_04</a> <a class="ref" href="1890_05">1890_05</a> <a class="ref" href="1890_06">1890_06</a> <a class="ref" href="1891_01">1891_01</a> <a class="ref" href="1891_02">1891_02</a> <a class="ref" href="1891_03">1891_03</a> <a class="ref" href="1891_04">1891_04</a> <a class="ref" href="1891_05">1891_05</a> <a class="ref" href="1892_01">1892_01</a> <a class="ref" href="1892_02">1892_02</a> <a class="ref" href="1892_03">1892_03</a> <a class="ref" href="1892_04">1892_04</a> <a class="ref" href="1892_05">1892_05</a> <a class="ref" href="1893_01">1893_01</a> <a class="ref" href="1893_02">1893_02</a> <a class="ref" href="1894_01">1894_01</a> <a class="ref" href="1894_02">1894_02</a> <a class="ref" href="1894_03">1894_03</a> <a class="ref" href="1894_04">1894_04</a> <a class="ref" href="1894_05">1894_05</a> <a class="ref" href="1894_06">1894_06</a> <a class="ref" href="1895_01">1895_01</a> <a class="ref" href="1895_02">1895_02</a> <a class="ref" href="1895_03">1895_03</a> <a class="ref" href="1896_01">1896_01</a> <a class="ref" href="1896_02">1896_02</a> <a class="ref" href="1896_03">1896_03</a> <a class="ref" href="1896_04">1896_04</a> <a class="ref" href="1896_05">1896_05</a> <a class="ref" href="1896_06">1896_06</a> <a class="ref" href="1896_07">1896_07</a> <a class="ref" href="1896_08">1896_08</a> <a class="ref" href="1896_09">1896_09</a> <a class="ref" href="1896_10">1896_10</a> <a class="ref" href="1896_11">1896_11</a> <a class="ref" href="1896_12">1896_12</a> <a class="ref" href="1897_01">1897_01</a> <a class="ref" href="1897_02">1897_02</a> <a class="ref" href="1898_01">1898_01</a> <a class="ref" href="1898_02">1898_02</a> <a class="ref" href="1898_03">1898_03</a> <a class="ref" href="1898_04">1898_04</a> <a class="ref" href="1898_05">1898_05</a> <a class="ref" href="1898_06">1898_06</a> <a class="ref" href="1898_07">1898_07</a> <a class="ref" href="1899_01">1899_01</a> <a class="ref" href="1899_02">1899_02</a> <a class="ref" href="1899_03">1899_03</a> <a class="ref" href="1899_04">1899_04</a> <a class="ref" href="1899_05">1899_05</a> <a class="ref" href="1900_01">1900_01</a> <a class="ref" href="1900_02">1900_02</a> <a class="ref" href="1900_03">1900_03</a> <a class="ref" href="1900_04">1900_04</a> <a class="ref" href="1901_01">1901_01</a> <a class="ref" href="1901_02">1901_02</a> <a class="ref" href="1901_03">1901_03</a> <a class="ref" href="1901_04">1901_04</a> <a class="ref" href="1901_05">1901_05</a> <a class="ref" href="1901_06">1901_06</a> <a class="ref" href="1901_07">1901_07</a> <a class="ref" href="1901_08">1901_08</a></td>
+		</tr>
+		<tr about="#1127" id="1127">
+			<td><a class="local-row" href="#1127">#1127</a></td>
+			<td property="schema:name">Fantin-Latour, Henri</td>
+			<td><a class="ref" href="1858_01">1858_01</a> <a class="ref" href="1858_02">1858_02</a> <a class="ref" href="1858_03">1858_03</a> <a class="ref" href="1858_04">1858_04</a> <a class="ref" href="1858_05">1858_05</a> <a class="ref" href="1859_01">1859_01</a> <a class="ref" href="1859_02">1859_02</a> <a class="ref" href="1859_03">1859_03</a> <a class="ref" href="1860_01">1860_01</a> <a class="ref" href="1862_01">1862_01</a> <a class="ref" href="1862_02">1862_02</a> <a class="ref" href="1863_01">1863_01</a> <a class="ref" href="1865_01">1865_01</a> <a class="ref" href="1865_02">1865_02</a> <a class="ref" href="1865_03">1865_03</a> <a class="ref" href="1865_04">1865_04</a> <a class="ref" href="1865_05">1865_05</a> <a class="ref" href="1865_06">1865_06</a> <a class="ref" href="1865_07">1865_07</a> <a class="ref" href="1865_08">1865_08</a> <a class="ref" href="1865_09">1865_09</a> <a class="ref" href="1865_10">1865_10</a> <a class="ref" href="1865_11">1865_11</a> <a class="ref" href="1865_12">1865_12</a> <a class="ref" href="1865_13">1865_13</a> <a class="ref" href="1865_14">1865_14</a> <a class="ref" href="1865_15">1865_15</a> <a class="ref" href="1865_16">1865_16</a> <a class="ref" href="1866_01">1866_01</a> <a class="ref" href="1866_02">1866_02</a> <a class="ref" href="1867_01">1867_01</a> <a class="ref" href="1867_02">1867_02</a> <a class="ref" href="1867_03">1867_03</a> <a class="ref" href="1868_01">1868_01</a> <a class="ref" href="1869_01">1869_01</a> <a class="ref" href="1869_02">1869_02</a> <a class="ref" href="1870_01">1870_01</a> <a class="ref" href="1870_02">1870_02</a> <a class="ref" href="1870_03">1870_03</a> <a class="ref" href="1870_04">1870_04</a> <a class="ref" href="1871_01">1871_01</a> <a class="ref" href="1871_02">1871_02</a> <a class="ref" href="1871_03">1871_03</a> <a class="ref" href="1871_04">1871_04</a> <a class="ref" href="1871_05">1871_05</a> <a class="ref" href="1871_06">1871_06</a> <a class="ref" href="1871_07">1871_07</a> <a class="ref" href="1871_08">1871_08</a> <a class="ref" href="1871_09">1871_09</a> <a class="ref" href="1872_01">1872_01</a> <a class="ref" href="1872_02">1872_02</a> <a class="ref" href="1872_03">1872_03</a> <a class="ref" href="1872_04">1872_04</a> <a class="ref" href="1873_01">1873_01</a> <a class="ref" href="1873_02">1873_02</a> <a class="ref" href="1873_03">1873_03</a> <a class="ref" href="1873_04">1873_04</a> <a class="ref" href="1873_05">1873_05</a> <a class="ref" href="1874_01">1874_01</a> <a class="ref" href="1874_02">1874_02</a> <a class="ref" href="1874_03">1874_03</a> <a class="ref" href="1874_04">1874_04</a> <a class="ref" href="1874_05">1874_05</a> <a class="ref" href="1874_06">1874_06</a> <a class="ref" href="1874_07">1874_07</a> <a class="ref" href="1874_08">1874_08</a> <a class="ref" href="1875_01">1875_01</a> <a class="ref" href="1875_02">1875_02</a> <a class="ref" href="1875_03">1875_03</a> <a class="ref" href="1875_04">1875_04</a> <a class="ref" href="1875_05">1875_05</a> <a class="ref" href="1875_06">1875_06</a> <a class="ref" href="1875_07">1875_07</a> <a class="ref" href="1875_08">1875_08</a> <a class="ref" href="1875_09">1875_09</a> <a class="ref" href="1875_10">1875_10</a> <a class="ref" href="1875_11">1875_11</a> <a class="ref" href="1875_12">1875_12</a> <a class="ref" href="1875_13">1875_13</a> <a class="ref" href="1875_14">1875_14</a> <a class="ref" href="1875_15">1875_15</a> <a class="ref" href="1875_16">1875_16</a> <a class="ref" href="1875_17">1875_17</a> <a class="ref" href="1875_18">1875_18</a> <a class="ref" href="1876_01">1876_01</a> <a class="ref" href="1876_02">1876_02</a> <a class="ref" href="1876_03">1876_03</a> <a class="ref" href="1876_04">1876_04</a> <a class="ref" href="1876_05">1876_05</a> <a class="ref" href="1876_06">1876_06</a> <a class="ref" href="1876_07">1876_07</a> <a class="ref" href="1876_08">1876_08</a> <a class="ref" href="1876_09">1876_09</a> <a class="ref" href="1876_10">1876_10</a> <a class="ref" href="1876_11">1876_11</a> <a class="ref" href="1876_12">1876_12</a> <a class="ref" href="1876_13">1876_13</a> <a class="ref" href="1876_14">1876_14</a> <a class="ref" href="1876_15">1876_15</a> <a class="ref" href="1876_16">1876_16</a> <a class="ref" href="1876_17">1876_17</a> <a class="ref" href="1876_18">1876_18</a> <a class="ref" href="1877_01">1877_01</a> <a class="ref" href="1877_02">1877_02</a> <a class="ref" href="1877_03">1877_03</a> <a class="ref" href="1877_04">1877_04</a> <a class="ref" href="1877_05">1877_05</a> <a class="ref" href="1877_06">1877_06</a> <a class="ref" href="1877_07">1877_07</a> <a class="ref" href="1877_08">1877_08</a> <a class="ref" href="1877_09">1877_09</a> <a class="ref" href="1878_01">1878_01</a> <a class="ref" href="1878_02">1878_02</a> <a class="ref" href="1878_03">1878_03</a> <a class="ref" href="1878_04">1878_04</a> <a class="ref" href="1878_05">1878_05</a> <a class="ref" href="1878_06">1878_06</a> <a class="ref" href="1878_07">1878_07</a> <a class="ref" href="1878_08">1878_08</a> <a class="ref" href="1878_09">1878_09</a> <a class="ref" href="1878_10">1878_10</a> <a class="ref" href="1878_11">1878_11</a> <a class="ref" href="1878_12">1878_12</a> <a class="ref" href="1878_13">1878_13</a> <a class="ref" href="1878_14">1878_14</a> <a class="ref" href="1878_15">1878_15</a> <a class="ref" href="1878_16">1878_16</a> <a class="ref" href="1878_17">1878_17</a> <a class="ref" href="1878_18">1878_18</a> <a class="ref" href="1878_19">1878_19</a> <a class="ref" href="1879_01">1879_01</a> <a class="ref" href="1879_02">1879_02</a> <a class="ref" href="1879_03">1879_03</a> <a class="ref" href="1879_04">1879_04</a> <a class="ref" href="1879_05">1879_05</a> <a class="ref" href="1879_06">1879_06</a> <a class="ref" href="1879_07">1879_07</a> <a class="ref" href="1879_08">1879_08</a> <a class="ref" href="1879_09">1879_09</a> <a class="ref" href="1879_10">1879_10</a> <a class="ref" href="1879_11">1879_11</a> <a class="ref" href="1879_12">1879_12</a> <a class="ref" href="1879_13">1879_13</a> <a class="ref" href="1879_14">1879_14</a> <a class="ref" href="1879_15">1879_15</a> <a class="ref" href="1879_16">1879_16</a> <a class="ref" href="1879_17">1879_17</a> <a class="ref" href="1879_18">1879_18</a> <a class="ref" href="1879_19">1879_19</a> <a class="ref" href="1879_20">1879_20</a> <a class="ref" href="1879_21">1879_21</a> <a class="ref" href="1879_22">1879_22</a> <a class="ref" href="1880_01">1880_01</a> <a class="ref" href="1880_02">1880_02</a> <a class="ref" href="1880_03">1880_03</a> <a class="ref" href="1880_04">1880_04</a> <a class="ref" href="1880_05">1880_05</a> <a class="ref" href="1880_06">1880_06</a> <a class="ref" href="1880_07">1880_07</a> <a class="ref" href="1880_08">1880_08</a> <a class="ref" href="1880_09">1880_09</a> <a class="ref" href="1880_10">1880_10</a> <a class="ref" href="1880_11">1880_11</a> <a class="ref" href="1880_12">1880_12</a> <a class="ref" href="1880_13">1880_13</a> <a class="ref" href="1880_14">1880_14</a> <a class="ref" href="1880_15">1880_15</a> <a class="ref" href="1880_16">1880_16</a> <a class="ref" href="1880_17">1880_17</a> <a class="ref" href="1880_18">1880_18</a> <a class="ref" href="1880_19">1880_19</a> <a class="ref" href="1881_01">1881_01</a> <a class="ref" href="1881_02">1881_02</a> <a class="ref" href="1881_03">1881_03</a> <a class="ref" href="1881_04">1881_04</a> <a class="ref" href="1881_05">1881_05</a> <a class="ref" href="1881_06">1881_06</a> <a class="ref" href="1881_07">1881_07</a> <a class="ref" href="1881_08">1881_08</a> <a class="ref" href="1881_09">1881_09</a> <a class="ref" href="1881_10">1881_10</a> <a class="ref" href="1881_11">1881_11</a> <a class="ref" href="1881_12">1881_12</a> <a class="ref" href="1881_13">1881_13</a> <a class="ref" href="1881_14">1881_14</a> <a class="ref" href="1882_01">1882_01</a> <a class="ref" href="1882_02">1882_02</a> <a class="ref" href="1882_03">1882_03</a> <a class="ref" href="1882_04">1882_04</a> <a class="ref" href="1882_05">1882_05</a> <a class="ref" href="1882_06">1882_06</a> <a class="ref" href="1883_01">1883_01</a> <a class="ref" href="1883_02">1883_02</a> <a class="ref" href="1883_03">1883_03</a> <a class="ref" href="1883_04">1883_04</a> <a class="ref" href="1883_05">1883_05</a> <a class="ref" href="1884_01">1884_01</a> <a class="ref" href="1884_02">1884_02</a> <a class="ref" href="1884_03">1884_03</a> <a class="ref" href="1884_04">1884_04</a> <a class="ref" href="1884_05">1884_05</a> <a class="ref" href="1884_06">1884_06</a> <a class="ref" href="1884_07">1884_07</a> <a class="ref" href="1884_08">1884_08</a> <a class="ref" href="1884_09">1884_09</a> <a class="ref" href="1884_10">1884_10</a> <a class="ref" href="1884_11">1884_11</a> <a class="ref" href="1884_12">1884_12</a> <a class="ref" href="1884_13">1884_13</a> <a class="ref" href="1885_01">1885_01</a> <a class="ref" href="1885_02">1885_02</a> <a class="ref" href="1885_03">1885_03</a> <a class="ref" href="1886_01">1886_01</a> <a class="ref" href="1886_02">1886_02</a> <a class="ref" href="1886_03">1886_03</a> <a class="ref" href="1886_04">1886_04</a> <a class="ref" href="1886_05">1886_05</a> <a class="ref" href="1886_06">1886_06</a> <a class="ref" href="1887_01">1887_01</a> <a class="ref" href="1887_02">1887_02</a> <a class="ref" href="1887_03">1887_03</a> <a class="ref" href="1887_04">1887_04</a> <a class="ref" href="1887_05">1887_05</a> <a class="ref" href="1887_06">1887_06</a> <a class="ref" href="1887_07">1887_07</a> <a class="ref" href="1887_08">1887_08</a> <a class="ref" href="1887_09">1887_09</a> <a class="ref" href="1888_01">1888_01</a> <a class="ref" href="1888_02">1888_02</a> <a class="ref" href="1888_03">1888_03</a> <a class="ref" href="1888_04">1888_04</a> <a class="ref" href="1888_05">1888_05</a> <a class="ref" href="1888_06">1888_06</a> <a class="ref" href="1888_07">1888_07</a> <a class="ref" href="1889_01">1889_01</a> <a class="ref" href="1889_02">1889_02</a> <a class="ref" href="1889_03">1889_03</a> <a class="ref" href="1889_04">1889_04</a> <a class="ref" href="1889_05">1889_05</a> <a class="ref" href="1889_06">1889_06</a> <a class="ref" href="1890_01">1890_01</a> <a class="ref" href="1890_02">1890_02</a> <a class="ref" href="1890_03">1890_03</a> <a class="ref" href="1890_04">1890_04</a> <a class="ref" href="1890_05">1890_05</a> <a class="ref" href="1890_06">1890_06</a> <a class="ref" href="1891_01">1891_01</a> <a class="ref" href="1891_02">1891_02</a> <a class="ref" href="1891_03">1891_03</a> <a class="ref" href="1891_04">1891_04</a> <a class="ref" href="1891_05">1891_05</a> <a class="ref" href="1892_01">1892_01</a> <a class="ref" href="1892_02">1892_02</a> <a class="ref" href="1892_03">1892_03</a> <a class="ref" href="1892_04">1892_04</a> <a class="ref" href="1892_05">1892_05</a> <a class="ref" href="1893_01">1893_01</a> <a class="ref" href="1893_02">1893_02</a> <a class="ref" href="1894_01">1894_01</a> <a class="ref" href="1894_02">1894_02</a> <a class="ref" href="1894_03">1894_03</a> <a class="ref" href="1894_04">1894_04</a> <a class="ref" href="1894_05">1894_05</a> <a class="ref" href="1894_06">1894_06</a> <a class="ref" href="1895_01">1895_01</a> <a class="ref" href="1895_02">1895_02</a> <a class="ref" href="1895_03">1895_03</a> <a class="ref" href="1896_01">1896_01</a> <a class="ref" href="1896_02">1896_02</a> <a class="ref" href="1896_03">1896_03</a> <a class="ref" href="1896_04">1896_04</a> <a class="ref" href="1896_05">1896_05</a> <a class="ref" href="1896_06">1896_06</a> <a class="ref" href="1896_07">1896_07</a> <a class="ref" href="1896_08">1896_08</a> <a class="ref" href="1896_09">1896_09</a> <a class="ref" href="1896_10">1896_10</a> <a class="ref" href="1896_11">1896_11</a> <a class="ref" href="1896_12">1896_12</a> <a class="ref" href="1897_01">1897_01</a> <a class="ref" href="1897_02">1897_02</a> <a class="ref" href="1898_01">1898_01</a> <a class="ref" href="1898_02">1898_02</a> <a class="ref" href="1898_03">1898_03</a> <a class="ref" href="1898_04">1898_04</a> <a class="ref" href="1898_05">1898_05</a> <a class="ref" href="1898_06">1898_06</a> <a class="ref" href="1898_07">1898_07</a> <a class="ref" href="1899_01">1899_01</a> <a class="ref" href="1899_02">1899_02</a> <a class="ref" href="1899_03">1899_03</a> <a class="ref" href="1899_04">1899_04</a> <a class="ref" href="1899_05">1899_05</a> <a class="ref" href="1900_01">1900_01</a> <a class="ref" href="1900_02">1900_02</a> <a class="ref" href="1900_03">1900_03</a> <a class="ref" href="1900_04">1900_04</a> <a class="ref" href="1901_01">1901_01</a> <a class="ref" href="1901_02">1901_02</a> <a class="ref" href="1901_03">1901_03</a> <a class="ref" href="1901_04">1901_04</a> <a class="ref" href="1901_05">1901_05</a> <a class="ref" href="1901_06">1901_06</a> <a class="ref" href="1901_07">1901_07</a> <a class="ref" href="1901_08">1901_08</a> <a class="ref" href="1902_01">1902_01</a></td>
+		</tr>
+		<tr about="#10542" id="10542">
+			<td><a class="local-row" href="#10542">#10542</a></td>
+			<td property="schema:name">Scholderer, Ida</td>
+			<td><a class="ref" href="1863_01">1863_01</a> <a class="ref" href="1865_01">1865_01</a> <a class="ref" href="1868_01">1868_01</a> <a class="ref" href="1869_01">1869_01</a> <a class="ref" href="1870_02">1870_02</a> <a class="ref" href="1871_06">1871_06</a> <a class="ref" href="1872_01">1872_01</a> <a class="ref" href="1875_14">1875_14</a> <a class="ref" href="1875_15">1875_15</a> <a class="ref" href="1878_08">1878_08</a> <a class="ref" href="1878_11">1878_11</a> <a class="ref" href="1878_13">1878_13</a> <a class="ref" href="1878_14">1878_14</a> <a class="ref" href="1879_02">1879_02</a> <a class="ref" href="1886_06">1886_06</a> <a class="ref" href="1888_01">1888_01</a> <a class="ref" href="1892_02">1892_02</a> <a class="ref" href="1897_01">1897_01</a> <a class="ref" href="1898_07">1898_07</a> <a class="ref" href="1900_02">1900_02</a> <a class="ref" href="1900_04">1900_04</a></td>
+		</tr>
+		<tr about="#10366" id="10366">
+			<td><a class="local-row" href="#10366">#10366</a></td>
+			<td property="schema:name">Fantin-Latour, Jean-Théodore</td>
+			<td><a class="ref" href="1862_01">1862_01</a> <a class="ref" href="1869_01">1869_01</a> <a class="ref" href="1869_02">1869_02</a> <a class="ref" href="1870_02">1870_02</a> <a class="ref" href="1870_03">1870_03</a> <a class="ref" href="1870_04">1870_04</a> <a class="ref" href="1871_01">1871_01</a> <a class="ref" href="1871_02">1871_02</a> <a class="ref" href="1871_05">1871_05</a> <a class="ref" href="1871_08">1871_08</a> <a class="ref" href="1872_02">1872_02</a> <a class="ref" href="1872_04">1872_04</a> <a class="ref" href="1873_02">1873_02</a> <a class="ref" href="1873_04">1873_04</a> <a class="ref" href="1873_05">1873_05</a> <a class="ref" href="1874_01">1874_01</a> <a class="ref" href="1874_02">1874_02</a> <a class="ref" href="1874_03">1874_03</a> <a class="ref" href="1874_04">1874_04</a> <a class="ref" href="1874_06">1874_06</a> <a class="ref" href="1874_07">1874_07</a> <a class="ref" href="1874_08">1874_08</a> <a class="ref" href="1875_01">1875_01</a> <a class="ref" href="1875_06">1875_06</a> <a class="ref" href="1875_08">1875_08</a> <a class="ref" href="1879_14">1879_14</a></td>
+		</tr>
+		<tr about="#2314" id="2314">
+			<td><a class="local-row" href="#2314">#2314</a></td>
+			<td property="schema:name">Balzac, Honoré de</td>
+			<td><a class="ref" href="1869_01">1869_01</a> <a class="ref" href="1876_01">1876_01</a> <a class="ref" href="1878_13">1878_13</a> <a class="ref" href="1878_14">1878_14</a> <a class="ref" href="1879_07">1879_07</a> <a class="ref" href="1898_03">1898_03</a></td>
+		</tr>
+		<tr about="#11813" id="11813">
+			<td><a class="local-row" href="#11813">#11813</a></td>
+			<td property="schema:name">Fitz James,</td>
+			<td><a class="ref" href="1869_02">1869_02</a></td>
+		</tr>
+		<tr about="#1186" id="1186">
+			<td><a class="local-row" href="#1186">#1186</a></td>
+			<td property="schema:name">Napoleon III.</td>
+			<td><a class="ref" href="1870_02">1870_02</a></td>
+		</tr>
+		<tr about="#10285" id="10285">
+			<td><a class="local-row" href="#10285">#10285</a></td>
+			<td property="schema:name">Benedetti, Vincent</td>
+			<td><a class="ref" href="1870_02">1870_02</a></td>
+		</tr>
+		<tr about="#10330" id="10330">
+			<td><a class="local-row" href="#10330">#10330</a></td>
+			<td property="schema:name">Graan, Jan de</td>
+			<td><a class="ref" href="1870_02">1870_02</a> <a class="ref" href="1870_03">1870_03</a> <a class="ref" href="1870_04">1870_04</a> <a class="ref" href="1871_02">1871_02</a> <a class="ref" href="1871_05">1871_05</a></td>
+		</tr>
+		<tr about="#10278" id="10278">
+			<td><a class="local-row" href="#10278">#10278</a></td>
+			<td property="schema:name">Artz, Constant</td>
+			<td><a class="ref" href="1870_02">1870_02</a> <a class="ref" href="1870_03">1870_03</a> <a class="ref" href="1870_04">1870_04</a> <a class="ref" href="1871_02">1871_02</a> <a class="ref" href="1871_05">1871_05</a> <a class="ref" href="1871_08">1871_08</a> <a class="ref" href="1871_09">1871_09</a> <a class="ref" href="1873_02">1873_02</a> <a class="ref" href="1889_04">1889_04</a></td>
+		</tr>
+		<tr about="#2416" id="2416">
+			<td><a class="local-row" href="#2416">#2416</a></td>
+			<td property="schema:name">Bismarck, Otto von</td>
+			<td><a class="ref" href="1870_02">1870_02</a> <a class="ref" href="1871_01">1871_01</a> <a class="ref" href="1871_02">1871_02</a> <a class="ref" href="1882_01">1882_01</a></td>
+		</tr>
+		<tr about="#11820" id="11820">
+			<td><a class="local-row" href="#11820">#11820</a></td>
+			<td property="schema:name">Müller, Otto-Victor</td>
+			<td><a class="ref" href="1870_02">1870_02</a> <a class="ref" href="1892_02">1892_02</a> <a class="ref" href="1898_07">1898_07</a></td>
+		</tr>
+		<tr about="#11824" id="11824">
+			<td><a class="local-row" href="#11824">#11824</a></td>
+			<td property="schema:name">Napoléon, Gerome</td>
+			<td><a class="ref" href="1871_02">1871_02</a></td>
+		</tr>
+		<tr about="#10411" id="10411">
+			<td><a class="local-row" href="#10411">#10411</a></td>
+			<td property="schema:name">Hook, James Clarke</td>
+			<td><a class="ref" href="1871_02">1871_02</a></td>
+		</tr>
+		<tr about="#5297" id="5297">
+			<td><a class="local-row" href="#5297">#5297</a></td>
+			<td property="schema:name">Eyssen, Louis</td>
+			<td><a class="ref" href="1871_02">1871_02</a></td>
+		</tr>
+		<tr about="#5617" id="5617">
+			<td><a class="local-row" href="#5617">#5617</a></td>
+			<td property="schema:name">Favre, Jules</td>
+			<td><a class="ref" href="1871_02">1871_02</a></td>
+		</tr>
+		<tr about="#11822" id="11822">
+			<td><a class="local-row" href="#11822">#11822</a></td>
+			<td property="schema:name">Piloty, Carl Theodor</td>
+			<td><a class="ref" href="1871_02">1871_02</a></td>
+		</tr>
+		<tr about="#10324" id="10324">
+			<td><a class="local-row" href="#10324">#10324</a></td>
+			<td property="schema:name">Crome, John</td>
+			<td><a class="ref" href="1871_02">1871_02</a></td>
+		</tr>
+		<tr about="#10575" id="10575">
+			<td><a class="local-row" href="#10575">#10575</a></td>
+			<td property="schema:name">Trochu, Louis Jules</td>
+			<td><a class="ref" href="1871_01">1871_01</a> <a class="ref" href="1871_02">1871_02</a></td>
+		</tr>
+		<tr about="#4410" id="4410">
+			<td><a class="local-row" href="#4410">#4410</a></td>
+			<td property="schema:name">Moltke</td>
+			<td><a class="ref" href="1871_01">1871_01</a> <a class="ref" href="1871_02">1871_02</a></td>
+		</tr>
+		<tr about="#10571" id="10571">
+			<td><a class="local-row" href="#10571">#10571</a></td>
+			<td property="schema:name">Thiers, Louis Adolphe</td>
+			<td><a class="ref" href="1871_02">1871_02</a> <a class="ref" href="1872_04">1872_04</a></td>
+		</tr>
+		<tr about="#10459" id="10459">
+			<td><a class="local-row" href="#10459">#10459</a></td>
+			<td property="schema:name">McLean, Thomas</td>
+			<td><a class="ref" href="1871_02">1871_02</a> <a class="ref" href="1871_08">1871_08</a> <a class="ref" href="1874_01">1874_01</a> <a class="ref" href="1874_02">1874_02</a> <a class="ref" href="1878_04">1878_04</a></td>
+		</tr>
+		<tr about="#5377" id="5377">
+			<td><a class="local-row" href="#5377">#5377</a></td>
+			<td property="schema:name">Gambetta</td>
+			<td><a class="ref" href="1871_01">1871_01</a> <a class="ref" href="1871_02">1871_02</a> <a class="ref" href="1882_01">1882_01</a></td>
+		</tr>
+		<tr about="#9347" id="9347">
+			<td><a class="local-row" href="#9347">#9347</a></td>
+			<td property="schema:name">Mantegna, Andrea</td>
+			<td><a class="ref" href="1871_04">1871_04</a></td>
+		</tr>
+		<tr about="#8343" id="8343">
+			<td><a class="local-row" href="#8343">#8343</a></td>
+			<td property="schema:name">Raphaël</td>
+			<td><a class="ref" href="1859_03">1859_03</a> <a class="ref" href="1871_04">1871_04</a></td>
+		</tr>
+		<tr about="#1267" id="1267">
+			<td><a class="local-row" href="#1267">#1267</a></td>
+			<td property="schema:name">Legros, Alphonse</td>
+			<td><a class="ref" href="1858_02">1858_02</a> <a class="ref" href="1858_03">1858_03</a> <a class="ref" href="1858_04">1858_04</a> <a class="ref" href="1858_05">1858_05</a> <a class="ref" href="1859_01">1859_01</a> <a class="ref" href="1859_02">1859_02</a> <a class="ref" href="1859_03">1859_03</a> <a class="ref" href="1860_01">1860_01</a> <a class="ref" href="1862_01">1862_01</a> <a class="ref" href="1865_01">1865_01</a> <a class="ref" href="1865_02">1865_02</a> <a class="ref" href="1869_02">1869_02</a> <a class="ref" href="1871_01">1871_01</a> <a class="ref" href="1871_02">1871_02</a> <a class="ref" href="1871_04">1871_04</a> <a class="ref" href="1871_05">1871_05</a> <a class="ref" href="1871_09">1871_09</a> <a class="ref" href="1872_02">1872_02</a> <a class="ref" href="1872_04">1872_04</a> <a class="ref" href="1873_02">1873_02</a> <a class="ref" href="1873_04">1873_04</a> <a class="ref" href="1874_05">1874_05</a> <a class="ref" href="1874_06">1874_06</a> <a class="ref" href="1874_07">1874_07</a> <a class="ref" href="1874_08">1874_08</a> <a class="ref" href="1875_01">1875_01</a> <a class="ref" href="1875_03">1875_03</a> <a class="ref" href="1875_04">1875_04</a> <a class="ref" href="1875_05">1875_05</a> <a class="ref" href="1876_07">1876_07</a> <a class="ref" href="1877_05">1877_05</a> <a class="ref" href="1877_07">1877_07</a> <a class="ref" href="1877_08">1877_08</a> <a class="ref" href="1878_01">1878_01</a> <a class="ref" href="1878_02">1878_02</a> <a class="ref" href="1878_06">1878_06</a> <a class="ref" href="1879_13">1879_13</a> <a class="ref" href="1879_14">1879_14</a> <a class="ref" href="1879_21">1879_21</a> <a class="ref" href="1880_17">1880_17</a> <a class="ref" href="1883_04">1883_04</a></td>
+		</tr>
+		<tr about="#1079" id="1079">
+			<td><a class="local-row" href="#1079">#1079</a></td>
+			<td property="schema:name">Whistler, James Abbott MacNeill</td>
+			<td><a class="ref" href="1859_02">1859_02</a> <a class="ref" href="1865_02">1865_02</a> <a class="ref" href="1865_03">1865_03</a> <a class="ref" href="1865_07">1865_07</a> <a class="ref" href="1866_02">1866_02</a> <a class="ref" href="1869_02">1869_02</a> <a class="ref" href="1871_01">1871_01</a> <a class="ref" href="1871_02">1871_02</a> <a class="ref" href="1871_04">1871_04</a> <a class="ref" href="1871_05">1871_05</a> <a class="ref" href="1871_06">1871_06</a> <a class="ref" href="1871_08">1871_08</a> <a class="ref" href="1871_09">1871_09</a> <a class="ref" href="1872_02">1872_02</a> <a class="ref" href="1872_03">1872_03</a> <a class="ref" href="1872_04">1872_04</a> <a class="ref" href="1873_01">1873_01</a> <a class="ref" href="1873_02">1873_02</a> <a class="ref" href="1873_03">1873_03</a> <a class="ref" href="1873_04">1873_04</a> <a class="ref" href="1873_05">1873_05</a> <a class="ref" href="1874_01">1874_01</a> <a class="ref" href="1874_03">1874_03</a> <a class="ref" href="1874_05">1874_05</a> <a class="ref" href="1874_06">1874_06</a> <a class="ref" href="1874_07">1874_07</a> <a class="ref" href="1875_01">1875_01</a> <a class="ref" href="1875_03">1875_03</a> <a class="ref" href="1875_04">1875_04</a> <a class="ref" href="1875_05">1875_05</a> <a class="ref" href="1876_03">1876_03</a> <a class="ref" href="1876_05">1876_05</a> <a class="ref" href="1876_11">1876_11</a> <a class="ref" href="1877_08">1877_08</a> <a class="ref" href="1878_01">1878_01</a> <a class="ref" href="1878_02">1878_02</a> <a class="ref" href="1878_06">1878_06</a> <a class="ref" href="1878_17">1878_17</a> <a class="ref" href="1878_18">1878_18</a> <a class="ref" href="1878_19">1878_19</a> <a class="ref" href="1879_11">1879_11</a> <a class="ref" href="1879_13">1879_13</a> <a class="ref" href="1879_14">1879_14</a> <a class="ref" href="1879_20">1879_20</a> <a class="ref" href="1880_07">1880_07</a> <a class="ref" href="1880_08">1880_08</a> <a class="ref" href="1880_10">1880_10</a> <a class="ref" href="1880_16">1880_16</a> <a class="ref" href="1880_17">1880_17</a> <a class="ref" href="1880_18">1880_18</a> <a class="ref" href="1880_19">1880_19</a> <a class="ref" href="1881_03">1881_03</a> <a class="ref" href="1881_04">1881_04</a> <a class="ref" href="1882_04">1882_04</a> <a class="ref" href="1883_02">1883_02</a> <a class="ref" href="1884_08">1884_08</a> <a class="ref" href="1884_12">1884_12</a> <a class="ref" href="1885_02">1885_02</a> <a class="ref" href="1891_03">1891_03</a> <a class="ref" href="1891_05">1891_05</a> <a class="ref" href="1892_01">1892_01</a> <a class="ref" href="1892_02">1892_02</a> <a class="ref" href="1896_10">1896_10</a> <a class="ref" href="1898_05">1898_05</a></td>
+		</tr>
+		<tr about="#5917" id="5917">
+			<td><a class="local-row" href="#5917">#5917</a></td>
+			<td property="schema:name">Millais</td>
+			<td><a class="ref" href="1871_02">1871_02</a> <a class="ref" href="1871_04">1871_04</a> <a class="ref" href="1872_01">1872_01</a> <a class="ref" href="1872_02">1872_02</a> <a class="ref" href="1878_06">1878_06</a> <a class="ref" href="1878_07">1878_07</a> <a class="ref" href="1878_10">1878_10</a> <a class="ref" href="1879_09">1879_09</a> <a class="ref" href="1879_13">1879_13</a> <a class="ref" href="1880_05">1880_05</a> <a class="ref" href="1880_06">1880_06</a> <a class="ref" href="1880_07">1880_07</a> <a class="ref" href="1881_03">1881_03</a> <a class="ref" href="1881_04">1881_04</a> <a class="ref" href="1882_04">1882_04</a> <a class="ref" href="1884_07">1884_07</a> <a class="ref" href="1885_02">1885_02</a> <a class="ref" href="1896_05">1896_05</a> <a class="ref" href="1896_07">1896_07</a> <a class="ref" href="1896_09">1896_09</a> <a class="ref" href="1896_11">1896_11</a> <a class="ref" href="1897_02">1897_02</a> <a class="ref" href="1898_01">1898_01</a> <a class="ref" href="1898_02">1898_02</a> <a class="ref" href="1898_03">1898_03</a></td>
+		</tr>
+		<tr about="#10543" id="10543">
+			<td><a class="local-row" href="#10543">#10543</a></td>
+			<td property="schema:name">Scholderer, Luise Philippine Conradine</td>
+			<td><a class="ref" href="1871_01">1871_01</a> <a class="ref" href="1871_02">1871_02</a> <a class="ref" href="1871_04">1871_04</a> <a class="ref" href="1871_05">1871_05</a> <a class="ref" href="1871_06">1871_06</a> <a class="ref" href="1871_08">1871_08</a> <a class="ref" href="1871_09">1871_09</a> <a class="ref" href="1872_01">1872_01</a> <a class="ref" href="1872_02">1872_02</a> <a class="ref" href="1872_03">1872_03</a> <a class="ref" href="1872_04">1872_04</a> <a class="ref" href="1873_01">1873_01</a> <a class="ref" href="1873_02">1873_02</a> <a class="ref" href="1873_03">1873_03</a> <a class="ref" href="1873_04">1873_04</a> <a class="ref" href="1873_05">1873_05</a> <a class="ref" href="1874_01">1874_01</a> <a class="ref" href="1874_02">1874_02</a> <a class="ref" href="1874_04">1874_04</a> <a class="ref" href="1874_05">1874_05</a> <a class="ref" href="1874_07">1874_07</a> <a class="ref" href="1874_08">1874_08</a> <a class="ref" href="1875_01">1875_01</a> <a class="ref" href="1875_02">1875_02</a> <a class="ref" href="1875_03">1875_03</a> <a class="ref" href="1875_04">1875_04</a> <a class="ref" href="1875_06">1875_06</a> <a class="ref" href="1875_07">1875_07</a> <a class="ref" href="1875_08">1875_08</a> <a class="ref" href="1875_09">1875_09</a> <a class="ref" href="1875_10">1875_10</a> <a class="ref" href="1875_11">1875_11</a> <a class="ref" href="1875_12">1875_12</a> <a class="ref" href="1875_13">1875_13</a> <a class="ref" href="1875_15">1875_15</a> <a class="ref" href="1875_16">1875_16</a> <a class="ref" href="1875_17">1875_17</a> <a class="ref" href="1875_18">1875_18</a> <a class="ref" href="1876_01">1876_01</a> <a class="ref" href="1876_02">1876_02</a> <a class="ref" href="1876_03">1876_03</a> <a class="ref" href="1876_04">1876_04</a> <a class="ref" href="1876_05">1876_05</a> <a class="ref" href="1876_06">1876_06</a> <a class="ref" href="1876_07">1876_07</a> <a class="ref" href="1876_08">1876_08</a> <a class="ref" href="1876_09">1876_09</a> <a class="ref" href="1876_10">1876_10</a> <a class="ref" href="1876_11">1876_11</a> <a class="ref" href="1876_12">1876_12</a> <a class="ref" href="1876_13">1876_13</a> <a class="ref" href="1876_14">1876_14</a> <a class="ref" href="1876_15">1876_15</a> <a class="ref" href="1876_16">1876_16</a> <a class="ref" href="1876_17">1876_17</a> <a class="ref" href="1877_01">1877_01</a> <a class="ref" href="1877_02">1877_02</a> <a class="ref" href="1877_03">1877_03</a> <a class="ref" href="1877_04">1877_04</a> <a class="ref" href="1877_05">1877_05</a> <a class="ref" href="1877_07">1877_07</a> <a class="ref" href="1877_09">1877_09</a> <a class="ref" href="1878_02">1878_02</a> <a class="ref" href="1878_03">1878_03</a> <a class="ref" href="1878_04">1878_04</a> <a class="ref" href="1878_05">1878_05</a> <a class="ref" href="1878_06">1878_06</a> <a class="ref" href="1878_08">1878_08</a> <a class="ref" href="1878_09">1878_09</a> <a class="ref" href="1878_10">1878_10</a> <a class="ref" href="1878_11">1878_11</a> <a class="ref" href="1878_12">1878_12</a> <a class="ref" href="1878_13">1878_13</a> <a class="ref" href="1878_15">1878_15</a> <a class="ref" href="1878_16">1878_16</a> <a class="ref" href="1878_17">1878_17</a> <a class="ref" href="1878_18">1878_18</a> <a class="ref" href="1878_19">1878_19</a> <a class="ref" href="1879_01">1879_01</a> <a class="ref" href="1879_02">1879_02</a> <a class="ref" href="1879_04">1879_04</a> <a class="ref" href="1879_05">1879_05</a> <a class="ref" href="1879_06">1879_06</a> <a class="ref" href="1879_07">1879_07</a> <a class="ref" href="1879_08">1879_08</a> <a class="ref" href="1879_09">1879_09</a> <a class="ref" href="1879_10">1879_10</a> <a class="ref" href="1879_11">1879_11</a> <a class="ref" href="1879_13">1879_13</a> <a class="ref" href="1879_14">1879_14</a> <a class="ref" href="1879_15">1879_15</a> <a class="ref" href="1879_16">1879_16</a> <a class="ref" href="1879_17">1879_17</a> <a class="ref" href="1879_18">1879_18</a> <a class="ref" href="1879_22">1879_22</a> <a class="ref" href="1880_02">1880_02</a> <a class="ref" href="1880_05">1880_05</a> <a class="ref" href="1880_06">1880_06</a> <a class="ref" href="1880_07">1880_07</a> <a class="ref" href="1880_11">1880_11</a> <a class="ref" href="1880_12">1880_12</a> <a class="ref" href="1880_13">1880_13</a> <a class="ref" href="1880_14">1880_14</a> <a class="ref" href="1880_15">1880_15</a> <a class="ref" href="1880_16">1880_16</a> <a class="ref" href="1880_18">1880_18</a> <a class="ref" href="1881_01">1881_01</a> <a class="ref" href="1881_02">1881_02</a> <a class="ref" href="1881_03">1881_03</a> <a class="ref" href="1881_06">1881_06</a> <a class="ref" href="1881_08">1881_08</a> <a class="ref" href="1881_11">1881_11</a> <a class="ref" href="1881_12">1881_12</a> <a class="ref" href="1881_13">1881_13</a> <a class="ref" href="1881_14">1881_14</a> <a class="ref" href="1882_01">1882_01</a> <a class="ref" href="1882_03">1882_03</a> <a class="ref" href="1882_06">1882_06</a> <a class="ref" href="1883_02">1883_02</a> <a class="ref" href="1883_03">1883_03</a> <a class="ref" href="1884_02">1884_02</a> <a class="ref" href="1884_07">1884_07</a> <a class="ref" href="1884_09">1884_09</a> <a class="ref" href="1884_10">1884_10</a> <a class="ref" href="1884_11">1884_11</a> <a class="ref" href="1884_12">1884_12</a> <a class="ref" href="1885_01">1885_01</a> <a class="ref" href="1885_03">1885_03</a> <a class="ref" href="1886_01">1886_01</a> <a class="ref" href="1886_02">1886_02</a> <a class="ref" href="1886_06">1886_06</a> <a class="ref" href="1887_02">1887_02</a> <a class="ref" href="1887_04">1887_04</a> <a class="ref" href="1887_06">1887_06</a> <a class="ref" href="1887_07">1887_07</a> <a class="ref" href="1887_08">1887_08</a> <a class="ref" href="1887_09">1887_09</a> <a class="ref" href="1888_04">1888_04</a> <a class="ref" href="1888_05">1888_05</a> <a class="ref" href="1888_06">1888_06</a> <a class="ref" href="1888_07">1888_07</a> <a class="ref" href="1889_01">1889_01</a> <a class="ref" href="1889_04">1889_04</a> <a class="ref" href="1889_05">1889_05</a> <a class="ref" href="1889_06">1889_06</a> <a class="ref" href="1890_01">1890_01</a> <a class="ref" href="1890_02">1890_02</a> <a class="ref" href="1890_03">1890_03</a> <a class="ref" href="1890_04">1890_04</a> <a class="ref" href="1890_06">1890_06</a> <a class="ref" href="1891_01">1891_01</a> <a class="ref" href="1891_03">1891_03</a> <a class="ref" href="1891_04">1891_04</a> <a class="ref" href="1892_01">1892_01</a> <a class="ref" href="1892_02">1892_02</a> <a class="ref" href="1892_03">1892_03</a> <a class="ref" href="1892_04">1892_04</a> <a class="ref" href="1892_05">1892_05</a> <a class="ref" href="1893_01">1893_01</a> <a class="ref" href="1893_02">1893_02</a> <a class="ref" href="1894_02">1894_02</a> <a class="ref" href="1894_03">1894_03</a> <a class="ref" href="1894_04">1894_04</a> <a class="ref" href="1894_05">1894_05</a> <a class="ref" href="1894_06">1894_06</a> <a class="ref" href="1895_01">1895_01</a> <a class="ref" href="1895_02">1895_02</a> <a class="ref" href="1895_03">1895_03</a> <a class="ref" href="1896_03">1896_03</a> <a class="ref" href="1896_05">1896_05</a> <a class="ref" href="1896_06">1896_06</a> <a class="ref" href="1896_07">1896_07</a> <a class="ref" href="1896_08">1896_08</a> <a class="ref" href="1896_09">1896_09</a> <a class="ref" href="1896_10">1896_10</a> <a class="ref" href="1896_11">1896_11</a> <a class="ref" href="1896_12">1896_12</a> <a class="ref" href="1897_01">1897_01</a> <a class="ref" href="1897_02">1897_02</a> <a class="ref" href="1898_01">1898_01</a> <a class="ref" href="1898_03">1898_03</a> <a class="ref" href="1898_04">1898_04</a> <a class="ref" href="1898_05">1898_05</a> <a class="ref" href="1898_07">1898_07</a> <a class="ref" href="1899_02">1899_02</a> <a class="ref" href="1899_04">1899_04</a> <a class="ref" href="1899_05">1899_05</a> <a class="ref" href="1900_01">1900_01</a> <a class="ref" href="1900_02">1900_02</a> <a class="ref" href="1900_03">1900_03</a> <a class="ref" href="1900_04">1900_04</a> <a class="ref" href="1901_01">1901_01</a> <a class="ref" href="1901_02">1901_02</a> <a class="ref" href="1901_03">1901_03</a> <a class="ref" href="1901_04">1901_04</a> <a class="ref" href="1901_05">1901_05</a> <a class="ref" href="1901_06">1901_06</a> <a class="ref" href="1901_08">1901_08</a> <a class="ref" href="1902_01">1902_01</a></td>
+		</tr>
+		<tr about="#7427" id="7427">
+			<td><a class="local-row" href="#7427">#7427</a></td>
+			<td property="schema:name">Ingres, Jean-Auguste-Dominique</td>
+			<td><a class="ref" href="1865_05">1865_05</a> <a class="ref" href="1865_07">1865_07</a> <a class="ref" href="1871_04">1871_04</a> <a class="ref" href="1874_04">1874_04</a> <a class="ref" href="1874_05">1874_05</a> <a class="ref" href="1875_02">1875_02</a> <a class="ref" href="1875_03">1875_03</a> <a class="ref" href="1877_04">1877_04</a> <a class="ref" href="1879_11">1879_11</a> <a class="ref" href="1880_09">1880_09</a> <a class="ref" href="1898_01">1898_01</a> <a class="ref" href="1898_03">1898_03</a></td>
+		</tr>
+		<tr about="#10449" id="10449">
+			<td><a class="local-row" href="#10449">#10449</a></td>
+			<td property="schema:name">Maître, Edmond</td>
+			<td><a class="ref" href="1870_04">1870_04</a> <a class="ref" href="1871_02">1871_02</a> <a class="ref" href="1871_04">1871_04</a> <a class="ref" href="1871_06">1871_06</a> <a class="ref" href="1871_09">1871_09</a> <a class="ref" href="1873_02">1873_02</a> <a class="ref" href="1873_03">1873_03</a> <a class="ref" href="1874_01">1874_01</a> <a class="ref" href="1874_02">1874_02</a> <a class="ref" href="1874_03">1874_03</a> <a class="ref" href="1874_04">1874_04</a> <a class="ref" href="1874_07">1874_07</a> <a class="ref" href="1875_01">1875_01</a> <a class="ref" href="1875_02">1875_02</a> <a class="ref" href="1875_03">1875_03</a> <a class="ref" href="1875_04">1875_04</a> <a class="ref" href="1875_05">1875_05</a> <a class="ref" href="1875_09">1875_09</a> <a class="ref" href="1876_07">1876_07</a> <a class="ref" href="1876_13">1876_13</a> <a class="ref" href="1877_04">1877_04</a> <a class="ref" href="1878_01">1878_01</a> <a class="ref" href="1878_02">1878_02</a> <a class="ref" href="1879_17">1879_17</a> <a class="ref" href="1881_05">1881_05</a> <a class="ref" href="1881_06">1881_06</a> <a class="ref" href="1886_04">1886_04</a> <a class="ref" href="1898_05">1898_05</a></td>
+		</tr>
+		<tr about="#463" id="463">
+			<td><a class="local-row" href="#463">#463</a></td>
+			<td property="schema:name">Degas, Edgar</td>
+			<td><a class="ref" href="1871_04">1871_04</a> <a class="ref" href="1871_05">1871_05</a> <a class="ref" href="1871_08">1871_08</a> <a class="ref" href="1874_04">1874_04</a> <a class="ref" href="1874_07">1874_07</a> <a class="ref" href="1875_01">1875_01</a> <a class="ref" href="1876_03">1876_03</a> <a class="ref" href="1876_05">1876_05</a> <a class="ref" href="1876_15">1876_15</a> <a class="ref" href="1877_02">1877_02</a> <a class="ref" href="1877_03">1877_03</a> <a class="ref" href="1877_04">1877_04</a> <a class="ref" href="1877_07">1877_07</a> <a class="ref" href="1877_08">1877_08</a> <a class="ref" href="1878_08">1878_08</a> <a class="ref" href="1879_11">1879_11</a> <a class="ref" href="1880_06">1880_06</a> <a class="ref" href="1880_16">1880_16</a> <a class="ref" href="1881_01">1881_01</a></td>
+		</tr>
+		<tr about="#163" id="163">
+			<td><a class="local-row" href="#163">#163</a></td>
+			<td property="schema:name">Delacroix, Eugène</td>
+			<td><a class="ref" href="1859_02">1859_02</a> <a class="ref" href="1862_01">1862_01</a> <a class="ref" href="1865_02">1865_02</a> <a class="ref" href="1865_05">1865_05</a> <a class="ref" href="1865_07">1865_07</a> <a class="ref" href="1865_08">1865_08</a> <a class="ref" href="1868_01">1868_01</a> <a class="ref" href="1871_04">1871_04</a> <a class="ref" href="1871_07">1871_07</a> <a class="ref" href="1874_08">1874_08</a> <a class="ref" href="1875_01">1875_01</a> <a class="ref" href="1876_04">1876_04</a> <a class="ref" href="1877_04">1877_04</a> <a class="ref" href="1877_07">1877_07</a> <a class="ref" href="1877_08">1877_08</a> <a class="ref" href="1878_12">1878_12</a> <a class="ref" href="1878_13">1878_13</a> <a class="ref" href="1878_14">1878_14</a> <a class="ref" href="1878_15">1878_15</a> <a class="ref" href="1879_11">1879_11</a> <a class="ref" href="1879_15">1879_15</a> <a class="ref" href="1881_07">1881_07</a> <a class="ref" href="1881_08">1881_08</a> <a class="ref" href="1888_05">1888_05</a> <a class="ref" href="1888_07">1888_07</a></td>
+		</tr>
+		<tr about="#1063" id="1063">
+			<td><a class="local-row" href="#1063">#1063</a></td>
+			<td property="schema:name">Millet, Jean-François</td>
+			<td><a class="ref" href="1859_02">1859_02</a> <a class="ref" href="1862_01">1862_01</a> <a class="ref" href="1865_02">1865_02</a> <a class="ref" href="1865_05">1865_05</a> <a class="ref" href="1865_07">1865_07</a> <a class="ref" href="1865_08">1865_08</a> <a class="ref" href="1867_01">1867_01</a> <a class="ref" href="1868_01">1868_01</a> <a class="ref" href="1871_04">1871_04</a> <a class="ref" href="1873_04">1873_04</a> <a class="ref" href="1874_03">1874_03</a> <a class="ref" href="1874_07">1874_07</a> <a class="ref" href="1874_08">1874_08</a> <a class="ref" href="1875_02">1875_02</a> <a class="ref" href="1875_03">1875_03</a> <a class="ref" href="1875_05">1875_05</a> <a class="ref" href="1875_09">1875_09</a> <a class="ref" href="1875_10">1875_10</a> <a class="ref" href="1875_11">1875_11</a> <a class="ref" href="1876_03">1876_03</a> <a class="ref" href="1877_04">1877_04</a> <a class="ref" href="1877_07">1877_07</a> <a class="ref" href="1877_08">1877_08</a> <a class="ref" href="1878_07">1878_07</a> <a class="ref" href="1878_13">1878_13</a> <a class="ref" href="1878_14">1878_14</a> <a class="ref" href="1878_15">1878_15</a> <a class="ref" href="1878_16">1878_16</a> <a class="ref" href="1878_17">1878_17</a> <a class="ref" href="1879_20">1879_20</a> <a class="ref" href="1896_03">1896_03</a></td>
+		</tr>
+		<tr about="#134" id="134">
+			<td><a class="local-row" href="#134">#134</a></td>
+			<td property="schema:name">Baudelaire, Charles</td>
+			<td><a class="ref" href="1871_04">1871_04</a> <a class="ref" href="1871_07">1871_07</a> <a class="ref" href="1877_05">1877_05</a> <a class="ref" href="1877_06">1877_06</a></td>
+		</tr>
+		<tr about="#2390" id="2390">
+			<td><a class="local-row" href="#2390">#2390</a></td>
+			<td property="schema:name">Goethe, Johann Wolfgang von</td>
+			<td><a class="ref" href="1871_04">1871_04</a> <a class="ref" href="1874_08">1874_08</a> <a class="ref" href="1875_01">1875_01</a> <a class="ref" href="1875_11">1875_11</a> <a class="ref" href="1879_02">1879_02</a> <a class="ref" href="1879_05">1879_05</a> <a class="ref" href="1879_06">1879_06</a> <a class="ref" href="1880_01">1880_01</a> <a class="ref" href="1880_02">1880_02</a></td>
+		</tr>
+		<tr about="#8318" id="8318">
+			<td><a class="local-row" href="#8318">#8318</a></td>
+			<td property="schema:name">Tintoret</td>
+			<td><a class="ref" href="1871_05">1871_05</a></td>
+		</tr>
+		<tr about="#10424" id="10424">
+			<td><a class="local-row" href="#10424">#10424</a></td>
+			<td property="schema:name">Kauffmann, Hugo Wilhelm</td>
+			<td><a class="ref" href="1871_05">1871_05</a></td>
+		</tr>
+		<tr about="#11830" id="11830">
+			<td><a class="local-row" href="#11830">#11830</a></td>
+			<td property="schema:name">Degas, Auguste</td>
+			<td><a class="ref" href="1871_05">1871_05</a></td>
+		</tr>
+		<tr about="#5579" id="5579">
+			<td><a class="local-row" href="#5579">#5579</a></td>
+			<td property="schema:name">Michel Ange</td>
+			<td><a class="ref" href="1871_05">1871_05</a> <a class="ref" href="1898_03">1898_03</a></td>
+		</tr>
+		<tr about="#10301" id="10301">
+			<td><a class="local-row" href="#10301">#10301</a></td>
+			<td property="schema:name">Burnitz, Karl Peter</td>
+			<td><a class="ref" href="1858_05">1858_05</a> <a class="ref" href="1859_02">1859_02</a> <a class="ref" href="1862_01">1862_01</a> <a class="ref" href="1863_01">1863_01</a> <a class="ref" href="1865_01">1865_01</a> <a class="ref" href="1865_05">1865_05</a> <a class="ref" href="1865_06">1865_06</a> <a class="ref" href="1865_10">1865_10</a> <a class="ref" href="1865_11">1865_11</a> <a class="ref" href="1865_12">1865_12</a> <a class="ref" href="1865_14">1865_14</a> <a class="ref" href="1865_15">1865_15</a> <a class="ref" href="1865_16">1865_16</a> <a class="ref" href="1866_01">1866_01</a> <a class="ref" href="1866_02">1866_02</a> <a class="ref" href="1867_03">1867_03</a> <a class="ref" href="1871_02">1871_02</a> <a class="ref" href="1872_01">1872_01</a> <a class="ref" href="1886_06">1886_06</a></td>
+		</tr>
+		<tr about="#6243" id="6243">
+			<td><a class="local-row" href="#6243">#6243</a></td>
+			<td property="schema:name">Cazin, Jean-Charles</td>
+			<td><a class="ref" href="1872_01">1872_01</a> <a class="ref" href="1872_02">1872_02</a> <a class="ref" href="1872_03">1872_03</a> <a class="ref" href="1872_04">1872_04</a> <a class="ref" href="1873_04">1873_04</a> <a class="ref" href="1874_01">1874_01</a> <a class="ref" href="1874_03">1874_03</a> <a class="ref" href="1874_05">1874_05</a> <a class="ref" href="1874_07">1874_07</a> <a class="ref" href="1875_01">1875_01</a> <a class="ref" href="1875_05">1875_05</a> <a class="ref" href="1875_09">1875_09</a> <a class="ref" href="1877_01">1877_01</a> <a class="ref" href="1877_03">1877_03</a> <a class="ref" href="1877_04">1877_04</a> <a class="ref" href="1877_07">1877_07</a> <a class="ref" href="1877_08">1877_08</a> <a class="ref" href="1878_08">1878_08</a> <a class="ref" href="1878_09">1878_09</a> <a class="ref" href="1878_10">1878_10</a> <a class="ref" href="1879_14">1879_14</a> <a class="ref" href="1879_16">1879_16</a> <a class="ref" href="1879_17">1879_17</a></td>
+		</tr>
+		<tr about="#1232" id="1232">
+			<td><a class="local-row" href="#1232">#1232</a></td>
+			<td property="schema:name">Durand-Ruel, Paul</td>
+			<td><a class="ref" href="1872_01">1872_01</a> <a class="ref" href="1872_03">1872_03</a> <a class="ref" href="1872_04">1872_04</a> <a class="ref" href="1873_01">1873_01</a> <a class="ref" href="1873_02">1873_02</a> <a class="ref" href="1873_04">1873_04</a> <a class="ref" href="1874_01">1874_01</a> <a class="ref" href="1874_07">1874_07</a> <a class="ref" href="1874_08">1874_08</a> <a class="ref" href="1875_01">1875_01</a> <a class="ref" href="1876_08">1876_08</a> <a class="ref" href="1878_12">1878_12</a> <a class="ref" href="1878_13">1878_13</a> <a class="ref" href="1878_14">1878_14</a> <a class="ref" href="1878_15">1878_15</a> <a class="ref" href="1878_16">1878_16</a></td>
+		</tr>
+		<tr about="#1456" id="1456">
+			<td><a class="local-row" href="#1456">#1456</a></td>
+			<td property="schema:name">Jacquemart, Jules Ferdinand</td>
+			<td><a class="ref" href="1872_02">1872_02</a></td>
+		</tr>
+		<tr about="#10281" id="10281">
+			<td><a class="local-row" href="#10281">#10281</a></td>
+			<td property="schema:name">Balleroy, Albert de</td>
+			<td><a class="ref" href="1867_03">1867_03</a> <a class="ref" href="1871_08">1871_08</a> <a class="ref" href="1872_03">1872_03</a> <a class="ref" href="1872_04">1872_04</a></td>
+		</tr>
+		<tr about="#11942" id="11942">
+			<td><a class="local-row" href="#11942">#11942</a></td>
+			<td property="schema:name">Bernheim, Georges</td>
+			<td><a class="ref" href="1872_04">1872_04</a></td>
+		</tr>
+		<tr about="#2204" id="2204">
+			<td><a class="local-row" href="#2204">#2204</a></td>
+			<td property="schema:name">Gonzales, Eva</td>
+			<td><a class="ref" href="1872_04">1872_04</a></td>
+		</tr>
+		<tr about="#10505" id="10505">
+			<td><a class="local-row" href="#10505">#10505</a></td>
+			<td property="schema:name">Powerscourt, vicomte</td>
+			<td><a class="ref" href="1873_04">1873_04</a></td>
+		</tr>
+		<tr about="#10516" id="10516">
+			<td><a class="local-row" href="#10516">#10516</a></td>
+			<td property="schema:name">Reignier, Jean-François</td>
+			<td><a class="ref" href="1873_04">1873_04</a></td>
+		</tr>
+		<tr about="#11947" id="11947">
+			<td><a class="local-row" href="#11947">#11947</a></td>
+			<td property="schema:name">Cazin, Marie</td>
+			<td><a class="ref" href="1874_01">1874_01</a> <a class="ref" href="1880_02">1880_02</a> <a class="ref" href="1880_09">1880_09</a></td>
+		</tr>
+		<tr about="#4862" id="4862">
+			<td><a class="local-row" href="#4862">#4862</a></td>
+			<td property="schema:name">Winkler, Friedrich</td>
+			<td><a class="ref" href="1874_02">1874_02</a></td>
+		</tr>
+		<tr about="#10509" id="10509">
+			<td><a class="local-row" href="#10509">#10509</a></td>
+			<td property="schema:name">Prud’hon, Pierre Paul</td>
+			<td><a class="ref" href="1874_04">1874_04</a></td>
+		</tr>
+		<tr about="#10367" id="10367">
+			<td><a class="local-row" href="#10367">#10367</a></td>
+			<td property="schema:name">Fantin-Latour, Nathalie</td>
+			<td><a class="ref" href="1858_04">1858_04</a> <a class="ref" href="1862_01">1862_01</a> <a class="ref" href="1872_04">1872_04</a> <a class="ref" href="1873_01">1873_01</a> <a class="ref" href="1874_04">1874_04</a> <a class="ref" href="1879_14">1879_14</a></td>
+		</tr>
+		<tr about="#1154" id="1154">
+			<td><a class="local-row" href="#1154">#1154</a></td>
+			<td property="schema:name">Renoir, Auguste</td>
+			<td><a class="ref" href="1874_04">1874_04</a> <a class="ref" href="1874_07">1874_07</a> <a class="ref" href="1874_08">1874_08</a> <a class="ref" href="1875_05">1875_05</a> <a class="ref" href="1877_04">1877_04</a> <a class="ref" href="1879_11">1879_11</a></td>
+		</tr>
+		<tr about="#558" id="558">
+			<td><a class="local-row" href="#558">#558</a></td>
+			<td property="schema:name">Sisley, Alfred</td>
+			<td><a class="ref" href="1874_02">1874_02</a> <a class="ref" href="1874_03">1874_03</a> <a class="ref" href="1874_04">1874_04</a> <a class="ref" href="1875_05">1875_05</a> <a class="ref" href="1877_04">1877_04</a> <a class="ref" href="1879_11">1879_11</a></td>
+		</tr>
+		<tr about="#1072" id="1072">
+			<td><a class="local-row" href="#1072">#1072</a></td>
+			<td property="schema:name">Pissarro, Camille</td>
+			<td><a class="ref" href="1871_01">1871_01</a> <a class="ref" href="1874_02">1874_02</a> <a class="ref" href="1874_03">1874_03</a> <a class="ref" href="1874_04">1874_04</a> <a class="ref" href="1875_05">1875_05</a> <a class="ref" href="1876_08">1876_08</a> <a class="ref" href="1877_04">1877_04</a> <a class="ref" href="1879_11">1879_11</a> <a class="ref" href="1880_16">1880_16</a></td>
+		</tr>
+		<tr about="#1078" id="1078">
+			<td><a class="local-row" href="#1078">#1078</a></td>
+			<td property="schema:name">Monet, Claude</td>
+			<td><a class="ref" href="1874_02">1874_02</a> <a class="ref" href="1874_03">1874_03</a> <a class="ref" href="1874_04">1874_04</a> <a class="ref" href="1875_05">1875_05</a> <a class="ref" href="1876_08">1876_08</a> <a class="ref" href="1877_04">1877_04</a> <a class="ref" href="1879_11">1879_11</a> <a class="ref" href="1883_03">1883_03</a></td>
+		</tr>
+		<tr about="#7755" id="7755">
+			<td><a class="local-row" href="#7755">#7755</a></td>
+			<td property="schema:name">Tassaert, Octave</td>
+			<td><a class="ref" href="1874_04">1874_04</a> <a class="ref" href="1878_07">1878_07</a> <a class="ref" href="1878_12">1878_12</a> <a class="ref" href="1878_13">1878_13</a> <a class="ref" href="1878_14">1878_14</a> <a class="ref" href="1878_15">1878_15</a></td>
+		</tr>
+		<tr about="#3693" id="3693">
+			<td><a class="local-row" href="#3693">#3693</a></td>
+			<td property="schema:name">Lecoq de Boisbaudran, Horace</td>
+			<td><a class="ref" href="1874_06">1874_06</a></td>
+		</tr>
+		<tr about="#7782" id="7782">
+			<td><a class="local-row" href="#7782">#7782</a></td>
+			<td property="schema:name">Valton, Edmond Eugène</td>
+			<td><a class="ref" href="1874_06">1874_06</a></td>
+		</tr>
+		<tr about="#10550" id="10550">
+			<td><a class="local-row" href="#10550">#10550</a></td>
+			<td property="schema:name">Sinet, Louis René Hippolyte</td>
+			<td><a class="ref" href="1858_02">1858_02</a> <a class="ref" href="1874_06">1874_06</a></td>
+		</tr>
+		<tr about="#10422" id="10422">
+			<td><a class="local-row" href="#10422">#10422</a></td>
+			<td property="schema:name">Jullien, Adolphe</td>
+			<td><a class="ref" href="1871_09">1871_09</a> <a class="ref" href="1875_01">1875_01</a> <a class="ref" href="1875_03">1875_03</a> <a class="ref" href="1886_01">1886_01</a> <a class="ref" href="1887_01">1887_01</a> <a class="ref" href="1887_02">1887_02</a> <a class="ref" href="1888_01">1888_01</a> <a class="ref" href="1888_05">1888_05</a></td>
+		</tr>
+		<tr about="#1176" id="1176">
+			<td><a class="local-row" href="#1176">#1176</a></td>
+			<td property="schema:name">Regnault, Henri</td>
+			<td><a class="ref" href="1875_02">1875_02</a></td>
+		</tr>
+		<tr about="#7599" id="7599">
+			<td><a class="local-row" href="#7599">#7599</a></td>
+			<td property="schema:name">Fortuny y Carbó, Mariano-Jose-Maria-Bernardo</td>
+			<td><a class="ref" href="1873_04">1873_04</a> <a class="ref" href="1875_02">1875_02</a></td>
+		</tr>
+		<tr about="#9226" id="9226">
+			<td><a class="local-row" href="#9226">#9226</a></td>
+			<td property="schema:name">Mérimée, Prosper</td>
+			<td><a class="ref" href="1875_02">1875_02</a> <a class="ref" href="1875_03">1875_03</a> <a class="ref" href="1875_04">1875_04</a> <a class="ref" href="1875_05">1875_05</a></td>
+		</tr>
+		<tr about="#10305" id="10305">
+			<td><a class="local-row" href="#10305">#10305</a></td>
+			<td property="schema:name">Carlyle, Thomas</td>
+			<td><a class="ref" href="1875_04">1875_04</a></td>
+		</tr>
+		<tr about="#10290" id="10290">
+			<td><a class="local-row" href="#10290">#10290</a></td>
+			<td property="schema:name">Boehm, Joseph Edgar Sir</td>
+			<td><a class="ref" href="1875_04">1875_04</a></td>
+		</tr>
+		<tr about="#10453" id="10453">
+			<td><a class="local-row" href="#10453">#10453</a></td>
+			<td property="schema:name">Manet, Eugène</td>
+			<td><a class="ref" href="1875_05">1875_05</a></td>
+		</tr>
+		<tr about="#5248" id="5248">
+			<td><a class="local-row" href="#5248">#5248</a></td>
+			<td property="schema:name">Napoléon III</td>
+			<td><a class="ref" href="1875_11">1875_11</a></td>
+		</tr>
+		<tr about="#10546" id="10546">
+			<td><a class="local-row" href="#10546">#10546</a></td>
+			<td property="schema:name">Schuré, Édouard</td>
+			<td><a class="ref" href="1875_11">1875_11</a></td>
+		</tr>
+		<tr about="#10405" id="10405">
+			<td><a class="local-row" href="#10405">#10405</a></td>
+			<td property="schema:name">Heem, Jan</td>
+			<td><a class="ref" href="1875_15">1875_15</a></td>
+		</tr>
+		<tr about="#10512" id="10512">
+			<td><a class="local-row" href="#10512">#10512</a></td>
+			<td property="schema:name">Raff, Joachim</td>
+			<td><a class="ref" href="1875_15">1875_15</a></td>
+		</tr>
+		<tr about="#8335" id="8335">
+			<td><a class="local-row" href="#8335">#8335</a></td>
+			<td property="schema:name">Brouwer, Adriaen</td>
+			<td><a class="ref" href="1875_15">1875_15</a></td>
+		</tr>
+		<tr about="#1323" id="1323">
+			<td><a class="local-row" href="#1323">#1323</a></td>
+			<td property="schema:name">Schopenhauer, Arthur</td>
+			<td><a class="ref" href="1875_15">1875_15</a> <a class="ref" href="1875_17">1875_17</a></td>
+		</tr>
+		<tr about="#2109" id="2109">
+			<td><a class="local-row" href="#2109">#2109</a></td>
+			<td property="schema:name">Böcklin</td>
+			<td><a class="ref" href="1875_17">1875_17</a></td>
+		</tr>
+		<tr about="#10469" id="10469">
+			<td><a class="local-row" href="#10469">#10469</a></td>
+			<td property="schema:name">Meyerbeer, Giacomo</td>
+			<td><a class="ref" href="1875_17">1875_17</a></td>
+		</tr>
+		<tr about="#10481" id="10481">
+			<td><a class="local-row" href="#10481">#10481</a></td>
+			<td property="schema:name">Morrison, famille</td>
+			<td><a class="ref" href="1873_04">1873_04</a> <a class="ref" href="1876_01">1876_01</a></td>
+		</tr>
+		<tr about="#11950" id="11950">
+			<td><a class="local-row" href="#11950">#11950</a></td>
+			<td property="schema:name">Dubourg, Jean-Theodore</td>
+			<td><a class="ref" href="1875_15">1875_15</a> <a class="ref" href="1875_16">1875_16</a> <a class="ref" href="1875_17">1875_17</a> <a class="ref" href="1876_01">1876_01</a> <a class="ref" href="1876_02">1876_02</a> <a class="ref" href="1876_07">1876_07</a> <a class="ref" href="1876_08">1876_08</a> <a class="ref" href="1876_12">1876_12</a> <a class="ref" href="1877_07">1877_07</a> <a class="ref" href="1878_01">1878_01</a> <a class="ref" href="1878_02">1878_02</a> <a class="ref" href="1878_03">1878_03</a> <a class="ref" href="1878_13">1878_13</a> <a class="ref" href="1879_21">1879_21</a> <a class="ref" href="1880_01">1880_01</a> <a class="ref" href="1880_02">1880_02</a> <a class="ref" href="1880_09">1880_09</a> <a class="ref" href="1880_10">1880_10</a> <a class="ref" href="1882_04">1882_04</a> <a class="ref" href="1882_06">1882_06</a> <a class="ref" href="1883_01">1883_01</a> <a class="ref" href="1883_04">1883_04</a> <a class="ref" href="1883_05">1883_05</a> <a class="ref" href="1884_07">1884_07</a> <a class="ref" href="1884_08">1884_08</a> <a class="ref" href="1884_09">1884_09</a> <a class="ref" href="1884_11">1884_11</a> <a class="ref" href="1884_12">1884_12</a> <a class="ref" href="1885_02">1885_02</a> <a class="ref" href="1885_03">1885_03</a> <a class="ref" href="1886_01">1886_01</a> <a class="ref" href="1886_02">1886_02</a> <a class="ref" href="1886_06">1886_06</a> <a class="ref" href="1888_01">1888_01</a> <a class="ref" href="1888_02">1888_02</a> <a class="ref" href="1888_05">1888_05</a> <a class="ref" href="1888_06">1888_06</a> <a class="ref" href="1889_03">1889_03</a> <a class="ref" href="1891_04">1891_04</a> <a class="ref" href="1894_06">1894_06</a></td>
+		</tr>
+		<tr about="#10583" id="10583">
+			<td><a class="local-row" href="#10583">#10583</a></td>
+			<td property="schema:name">White, Mrs.</td>
+			<td><a class="ref" href="1876_03">1876_03</a> <a class="ref" href="1876_17">1876_17</a> <a class="ref" href="1880_07">1880_07</a></td>
+		</tr>
+		<tr about="#10482" id="10482">
+			<td><a class="local-row" href="#10482">#10482</a></td>
+			<td property="schema:name">Morrison, Madame</td>
+			<td><a class="ref" href="1875_08">1875_08</a> <a class="ref" href="1875_17">1875_17</a> <a class="ref" href="1876_03">1876_03</a> <a class="ref" href="1884_09">1884_09</a></td>
+		</tr>
+		<tr about="#8314" id="8314">
+			<td><a class="local-row" href="#8314">#8314</a></td>
+			<td property="schema:name">Rubens, Pierre-Paul</td>
+			<td><a class="ref" href="1876_04">1876_04</a></td>
+		</tr>
+		<tr about="#1249" id="1249">
+			<td><a class="local-row" href="#1249">#1249</a></td>
+			<td property="schema:name">Lhermitte, Léon</td>
+			<td><a class="ref" href="1872_04">1872_04</a> <a class="ref" href="1873_01">1873_01</a> <a class="ref" href="1874_05">1874_05</a> <a class="ref" href="1875_09">1875_09</a> <a class="ref" href="1875_10">1875_10</a> <a class="ref" href="1876_06">1876_06</a> <a class="ref" href="1876_07">1876_07</a> <a class="ref" href="1877_07">1877_07</a> <a class="ref" href="1877_08">1877_08</a> <a class="ref" href="1878_05">1878_05</a> <a class="ref" href="1878_08">1878_08</a> <a class="ref" href="1878_09">1878_09</a> <a class="ref" href="1878_10">1878_10</a> <a class="ref" href="1879_21">1879_21</a> <a class="ref" href="1880_05">1880_05</a> <a class="ref" href="1880_06">1880_06</a> <a class="ref" href="1880_07">1880_07</a> <a class="ref" href="1880_08">1880_08</a> <a class="ref" href="1880_09">1880_09</a></td>
+		</tr>
+		<tr about="#10357" id="10357">
+			<td><a class="local-row" href="#10357">#10357</a></td>
+			<td property="schema:name">Edwards, Edwin</td>
+			<td><a class="ref" href="1865_02">1865_02</a> <a class="ref" href="1871_01">1871_01</a> <a class="ref" href="1871_02">1871_02</a> <a class="ref" href="1871_03">1871_03</a> <a class="ref" href="1871_05">1871_05</a> <a class="ref" href="1871_06">1871_06</a> <a class="ref" href="1871_07">1871_07</a> <a class="ref" href="1871_08">1871_08</a> <a class="ref" href="1871_09">1871_09</a> <a class="ref" href="1872_01">1872_01</a> <a class="ref" href="1872_02">1872_02</a> <a class="ref" href="1872_03">1872_03</a> <a class="ref" href="1872_04">1872_04</a> <a class="ref" href="1873_01">1873_01</a> <a class="ref" href="1873_02">1873_02</a> <a class="ref" href="1873_03">1873_03</a> <a class="ref" href="1873_04">1873_04</a> <a class="ref" href="1873_05">1873_05</a> <a class="ref" href="1874_01">1874_01</a> <a class="ref" href="1874_02">1874_02</a> <a class="ref" href="1874_03">1874_03</a> <a class="ref" href="1874_05">1874_05</a> <a class="ref" href="1874_07">1874_07</a> <a class="ref" href="1874_08">1874_08</a> <a class="ref" href="1875_01">1875_01</a> <a class="ref" href="1875_02">1875_02</a> <a class="ref" href="1875_03">1875_03</a> <a class="ref" href="1875_04">1875_04</a> <a class="ref" href="1875_05">1875_05</a> <a class="ref" href="1875_06">1875_06</a> <a class="ref" href="1875_08">1875_08</a> <a class="ref" href="1875_09">1875_09</a> <a class="ref" href="1875_10">1875_10</a> <a class="ref" href="1875_11">1875_11</a> <a class="ref" href="1875_12">1875_12</a> <a class="ref" href="1875_13">1875_13</a> <a class="ref" href="1875_16">1875_16</a> <a class="ref" href="1875_17">1875_17</a> <a class="ref" href="1875_18">1875_18</a> <a class="ref" href="1876_01">1876_01</a> <a class="ref" href="1876_02">1876_02</a> <a class="ref" href="1876_03">1876_03</a> <a class="ref" href="1876_05">1876_05</a> <a class="ref" href="1876_06">1876_06</a> <a class="ref" href="1876_07">1876_07</a> <a class="ref" href="1876_09">1876_09</a> <a class="ref" href="1876_10">1876_10</a> <a class="ref" href="1876_11">1876_11</a> <a class="ref" href="1876_14">1876_14</a> <a class="ref" href="1876_15">1876_15</a> <a class="ref" href="1876_16">1876_16</a> <a class="ref" href="1876_17">1876_17</a> <a class="ref" href="1876_18">1876_18</a> <a class="ref" href="1877_01">1877_01</a> <a class="ref" href="1877_02">1877_02</a> <a class="ref" href="1877_03">1877_03</a> <a class="ref" href="1877_04">1877_04</a> <a class="ref" href="1877_05">1877_05</a> <a class="ref" href="1877_06">1877_06</a> <a class="ref" href="1877_07">1877_07</a> <a class="ref" href="1877_08">1877_08</a> <a class="ref" href="1877_09">1877_09</a> <a class="ref" href="1878_01">1878_01</a> <a class="ref" href="1878_02">1878_02</a> <a class="ref" href="1878_03">1878_03</a> <a class="ref" href="1878_04">1878_04</a> <a class="ref" href="1878_05">1878_05</a> <a class="ref" href="1878_06">1878_06</a> <a class="ref" href="1878_07">1878_07</a> <a class="ref" href="1878_13">1878_13</a> <a class="ref" href="1878_14">1878_14</a> <a class="ref" href="1878_15">1878_15</a> <a class="ref" href="1878_16">1878_16</a> <a class="ref" href="1878_17">1878_17</a> <a class="ref" href="1879_05">1879_05</a> <a class="ref" href="1879_06">1879_06</a> <a class="ref" href="1879_07">1879_07</a> <a class="ref" href="1879_09">1879_09</a> <a class="ref" href="1879_10">1879_10</a> <a class="ref" href="1879_11">1879_11</a> <a class="ref" href="1879_13">1879_13</a> <a class="ref" href="1879_14">1879_14</a> <a class="ref" href="1879_15">1879_15</a> <a class="ref" href="1879_19">1879_19</a> <a class="ref" href="1879_21">1879_21</a> <a class="ref" href="1879_22">1879_22</a> <a class="ref" href="1880_17">1880_17</a> <a class="ref" href="1880_18">1880_18</a></td>
+		</tr>
+		<tr about="#286" id="286">
+			<td><a class="local-row" href="#286">#286</a></td>
+			<td property="schema:name">Thoma, Hans</td>
+			<td><a class="ref" href="1867_01">1867_01</a> <a class="ref" href="1867_03">1867_03</a> <a class="ref" href="1870_02">1870_02</a> <a class="ref" href="1871_02">1871_02</a> <a class="ref" href="1871_06">1871_06</a> <a class="ref" href="1872_01">1872_01</a> <a class="ref" href="1873_02">1873_02</a> <a class="ref" href="1873_03">1873_03</a> <a class="ref" href="1873_04">1873_04</a> <a class="ref" href="1874_01">1874_01</a> <a class="ref" href="1875_15">1875_15</a> <a class="ref" href="1875_17">1875_17</a> <a class="ref" href="1876_14">1876_14</a> <a class="ref" href="1878_01">1878_01</a> <a class="ref" href="1878_02">1878_02</a> <a class="ref" href="1879_04">1879_04</a> <a class="ref" href="1879_05">1879_05</a> <a class="ref" href="1879_06">1879_06</a> <a class="ref" href="1879_22">1879_22</a> <a class="ref" href="1880_01">1880_01</a> <a class="ref" href="1880_02">1880_02</a> <a class="ref" href="1880_05">1880_05</a> <a class="ref" href="1881_01">1881_01</a> <a class="ref" href="1881_02">1881_02</a> <a class="ref" href="1883_04">1883_04</a> <a class="ref" href="1886_03">1886_03</a> <a class="ref" href="1886_06">1886_06</a> <a class="ref" href="1887_09">1887_09</a> <a class="ref" href="1890_04">1890_04</a> <a class="ref" href="1892_02">1892_02</a> <a class="ref" href="1892_03">1892_03</a> <a class="ref" href="1894_02">1894_02</a> <a class="ref" href="1894_03">1894_03</a> <a class="ref" href="1894_06">1894_06</a> <a class="ref" href="1897_01">1897_01</a> <a class="ref" href="1898_07">1898_07</a> <a class="ref" href="1899_01">1899_01</a> <a class="ref" href="1899_02">1899_02</a> <a class="ref" href="1900_01">1900_01</a> <a class="ref" href="1900_03">1900_03</a> <a class="ref" href="1900_04">1900_04</a> <a class="ref" href="1901_03">1901_03</a></td>
+		</tr>
+		<tr about="#1080" id="1080">
+			<td><a class="local-row" href="#1080">#1080</a></td>
+			<td property="schema:name">Lenbach, Franz Seraph von</td>
+			<td><a class="ref" href="1876_14">1876_14</a> <a class="ref" href="1876_15">1876_15</a> <a class="ref" href="1878_08">1878_08</a> <a class="ref" href="1883_04">1883_04</a> <a class="ref" href="1884_11">1884_11</a> <a class="ref" href="1886_06">1886_06</a> <a class="ref" href="1899_03">1899_03</a></td>
+		</tr>
+		<tr about="#4546" id="4546">
+			<td><a class="local-row" href="#4546">#4546</a></td>
+			<td property="schema:name">Cornelius, Peter von</td>
+			<td><a class="ref" href="1858_05">1858_05</a> <a class="ref" href="1876_13">1876_13</a> <a class="ref" href="1876_14">1876_14</a> <a class="ref" href="1876_15">1876_15</a> <a class="ref" href="1879_04">1879_04</a> <a class="ref" href="1879_05">1879_05</a> <a class="ref" href="1879_07">1879_07</a> <a class="ref" href="1879_13">1879_13</a></td>
+		</tr>
+		<tr about="#1238" id="1238">
+			<td><a class="local-row" href="#1238">#1238</a></td>
+			<td property="schema:name">Wagner, Richard</td>
+			<td><a class="ref" href="1862_01">1862_01</a> <a class="ref" href="1868_01">1868_01</a> <a class="ref" href="1871_02">1871_02</a> <a class="ref" href="1871_09">1871_09</a> <a class="ref" href="1875_11">1875_11</a> <a class="ref" href="1875_15">1875_15</a> <a class="ref" href="1876_02">1876_02</a> <a class="ref" href="1876_06">1876_06</a> <a class="ref" href="1876_13">1876_13</a> <a class="ref" href="1876_14">1876_14</a> <a class="ref" href="1876_15">1876_15</a> <a class="ref" href="1876_16">1876_16</a> <a class="ref" href="1877_04">1877_04</a> <a class="ref" href="1877_05">1877_05</a> <a class="ref" href="1877_09">1877_09</a> <a class="ref" href="1878_01">1878_01</a> <a class="ref" href="1879_01">1879_01</a> <a class="ref" href="1879_04">1879_04</a> <a class="ref" href="1879_05">1879_05</a> <a class="ref" href="1879_06">1879_06</a> <a class="ref" href="1880_02">1880_02</a> <a class="ref" href="1884_10">1884_10</a> <a class="ref" href="1887_01">1887_01</a> <a class="ref" href="1887_02">1887_02</a> <a class="ref" href="1890_04">1890_04</a> <a class="ref" href="1891_03">1891_03</a></td>
+		</tr>
+		<tr about="#8316" id="8316">
+			<td><a class="local-row" href="#8316">#8316</a></td>
+			<td property="schema:name">Rembrandt</td>
+			<td><a class="ref" href="1858_03">1858_03</a> <a class="ref" href="1859_03">1859_03</a> <a class="ref" href="1863_01">1863_01</a> <a class="ref" href="1865_01">1865_01</a> <a class="ref" href="1865_03">1865_03</a> <a class="ref" href="1865_05">1865_05</a> <a class="ref" href="1865_07">1865_07</a> <a class="ref" href="1865_15">1865_15</a> <a class="ref" href="1866_01">1866_01</a> <a class="ref" href="1875_01">1875_01</a> <a class="ref" href="1875_03">1875_03</a> <a class="ref" href="1876_14">1876_14</a> <a class="ref" href="1877_01">1877_01</a> <a class="ref" href="1880_17">1880_17</a> <a class="ref" href="1881_10">1881_10</a> <a class="ref" href="1882_01">1882_01</a> <a class="ref" href="1899_01">1899_01</a></td>
+		</tr>
+		<tr about="#6852" id="6852">
+			<td><a class="local-row" href="#6852">#6852</a></td>
+			<td property="schema:name">Mendelssohn</td>
+			<td><a class="ref" href="1876_15">1876_15</a></td>
+		</tr>
+		<tr about="#9230" id="9230">
+			<td><a class="local-row" href="#9230">#9230</a></td>
+			<td property="schema:name">Frédéric II de Prusse</td>
+			<td><a class="ref" href="1876_15">1876_15</a></td>
+		</tr>
+		<tr about="#1196" id="1196">
+			<td><a class="local-row" href="#1196">#1196</a></td>
+			<td property="schema:name">Leibl, Wilhelm</td>
+			<td><a class="ref" href="1871_02">1871_02</a> <a class="ref" href="1876_15">1876_15</a></td>
+		</tr>
+		<tr about="#1171" id="1171">
+			<td><a class="local-row" href="#1171">#1171</a></td>
+			<td property="schema:name">Menzel, Adolph</td>
+			<td><a class="ref" href="1876_15">1876_15</a> <a class="ref" href="1878_10">1878_10</a> <a class="ref" href="1878_18">1878_18</a> <a class="ref" href="1878_19">1878_19</a> <a class="ref" href="1879_02">1879_02</a> <a class="ref" href="1879_03">1879_03</a> <a class="ref" href="1879_04">1879_04</a> <a class="ref" href="1879_05">1879_05</a> <a class="ref" href="1879_06">1879_06</a> <a class="ref" href="1879_07">1879_07</a> <a class="ref" href="1879_13">1879_13</a></td>
+		</tr>
+		<tr about="#10477" id="10477">
+			<td><a class="local-row" href="#10477">#10477</a></td>
+			<td property="schema:name">Moretto da Brescia,</td>
+			<td><a class="ref" href="1876_17">1876_17</a></td>
+		</tr>
+		<tr about="#10479" id="10479">
+			<td><a class="local-row" href="#10479">#10479</a></td>
+			<td property="schema:name">Moroni, Giovanni Battista</td>
+			<td><a class="ref" href="1876_17">1876_17</a></td>
+		</tr>
+		<tr about="#11940" id="11940">
+			<td><a class="local-row" href="#11940">#11940</a></td>
+			<td property="schema:name">Véronèse, Paul</td>
+			<td><a class="ref" href="1871_09">1871_09</a> <a class="ref" href="1877_01">1877_01</a> <a class="ref" href="1891_04">1891_04</a></td>
+		</tr>
+		<tr about="#10336" id="10336">
+			<td><a class="local-row" href="#10336">#10336</a></td>
+			<td property="schema:name">Deschamps, Charles W.</td>
+			<td><a class="ref" href="1872_04">1872_04</a> <a class="ref" href="1873_02">1873_02</a> <a class="ref" href="1873_03">1873_03</a> <a class="ref" href="1874_01">1874_01</a> <a class="ref" href="1874_02">1874_02</a> <a class="ref" href="1874_03">1874_03</a> <a class="ref" href="1874_07">1874_07</a> <a class="ref" href="1874_08">1874_08</a> <a class="ref" href="1875_01">1875_01</a> <a class="ref" href="1875_05">1875_05</a> <a class="ref" href="1875_08">1875_08</a> <a class="ref" href="1875_09">1875_09</a> <a class="ref" href="1875_10">1875_10</a> <a class="ref" href="1875_17">1875_17</a> <a class="ref" href="1876_01">1876_01</a> <a class="ref" href="1876_02">1876_02</a> <a class="ref" href="1876_05">1876_05</a> <a class="ref" href="1876_06">1876_06</a> <a class="ref" href="1876_17">1876_17</a> <a class="ref" href="1877_01">1877_01</a> <a class="ref" href="1877_02">1877_02</a> <a class="ref" href="1877_03">1877_03</a> <a class="ref" href="1877_07">1877_07</a> <a class="ref" href="1880_15">1880_15</a> <a class="ref" href="1897_01">1897_01</a></td>
+		</tr>
+		<tr about="#10548" id="10548">
+			<td><a class="local-row" href="#10548">#10548</a></td>
+			<td property="schema:name">Sickert, Oswald Adalbert</td>
+			<td><a class="ref" href="1876_03">1876_03</a> <a class="ref" href="1877_01">1877_01</a> <a class="ref" href="1877_03">1877_03</a> <a class="ref" href="1879_08">1879_08</a> <a class="ref" href="1879_09">1879_09</a> <a class="ref" href="1879_19">1879_19</a> <a class="ref" href="1881_06">1881_06</a> <a class="ref" href="1881_10">1881_10</a> <a class="ref" href="1881_11">1881_11</a> <a class="ref" href="1886_02">1886_02</a> <a class="ref" href="1888_05">1888_05</a></td>
+		</tr>
+		<tr about="#10314" id="10314">
+			<td><a class="local-row" href="#10314">#10314</a></td>
+			<td property="schema:name">Colonne, Édouard</td>
+			<td><a class="ref" href="1877_04">1877_04</a></td>
+		</tr>
+		<tr about="#1216" id="1216">
+			<td><a class="local-row" href="#1216">#1216</a></td>
+			<td property="schema:name">Hugo, Victor</td>
+			<td><a class="ref" href="1870_02">1870_02</a> <a class="ref" href="1871_01">1871_01</a> <a class="ref" href="1877_04">1877_04</a> <a class="ref" href="1885_03">1885_03</a> <a class="ref" href="1886_01">1886_01</a> <a class="ref" href="1894_03">1894_03</a> <a class="ref" href="1894_04">1894_04</a> <a class="ref" href="1898_03">1898_03</a></td>
+		</tr>
+		<tr about="#2918" id="2918">
+			<td><a class="local-row" href="#2918">#2918</a></td>
+			<td property="schema:name">Bazille, Frédéric</td>
+			<td><a class="ref" href="1870_04">1870_04</a> <a class="ref" href="1871_01">1871_01</a> <a class="ref" href="1871_02">1871_02</a> <a class="ref" href="1871_09">1871_09</a> <a class="ref" href="1875_03">1875_03</a> <a class="ref" href="1877_04">1877_04</a> <a class="ref" href="1879_11">1879_11</a></td>
+		</tr>
+		<tr about="#1152" id="1152">
+			<td><a class="local-row" href="#1152">#1152</a></td>
+			<td property="schema:name">Morisot, Berthe</td>
+			<td><a class="ref" href="1873_03">1873_03</a> <a class="ref" href="1875_05">1875_05</a> <a class="ref" href="1877_04">1877_04</a> <a class="ref" href="1879_11">1879_11</a></td>
+		</tr>
+		<tr about="#10432" id="10432">
+			<td><a class="local-row" href="#10432">#10432</a></td>
+			<td property="schema:name">Lascoux, Antoine</td>
+			<td><a class="ref" href="1875_01">1875_01</a> <a class="ref" href="1876_13">1876_13</a> <a class="ref" href="1877_04">1877_04</a> <a class="ref" href="1877_05">1877_05</a> <a class="ref" href="1877_09">1877_09</a> <a class="ref" href="1878_01">1878_01</a> <a class="ref" href="1878_02">1878_02</a></td>
+		</tr>
+		<tr about="#1986" id="1986">
+			<td><a class="local-row" href="#1986">#1986</a></td>
+			<td property="schema:name">Berlioz, Hector</td>
+			<td><a class="ref" href="1874_08">1874_08</a> <a class="ref" href="1875_03">1875_03</a> <a class="ref" href="1875_18">1875_18</a> <a class="ref" href="1876_01">1876_01</a> <a class="ref" href="1876_02">1876_02</a> <a class="ref" href="1876_03">1876_03</a> <a class="ref" href="1876_08">1876_08</a> <a class="ref" href="1877_04">1877_04</a> <a class="ref" href="1877_05">1877_05</a> <a class="ref" href="1879_05">1879_05</a> <a class="ref" href="1879_06">1879_06</a> <a class="ref" href="1879_22">1879_22</a> <a class="ref" href="1880_01">1880_01</a> <a class="ref" href="1880_02">1880_02</a> <a class="ref" href="1880_18">1880_18</a> <a class="ref" href="1891_03">1891_03</a></td>
+		</tr>
+		<tr about="#10360" id="10360">
+			<td><a class="local-row" href="#10360">#10360</a></td>
+			<td property="schema:name">Esch, Mlle</td>
+			<td><a class="ref" href="1874_07">1874_07</a> <a class="ref" href="1874_08">1874_08</a> <a class="ref" href="1875_01">1875_01</a> <a class="ref" href="1875_02">1875_02</a> <a class="ref" href="1875_03">1875_03</a> <a class="ref" href="1875_04">1875_04</a> <a class="ref" href="1875_05">1875_05</a> <a class="ref" href="1875_07">1875_07</a> <a class="ref" href="1875_08">1875_08</a> <a class="ref" href="1875_12">1875_12</a> <a class="ref" href="1875_13">1875_13</a> <a class="ref" href="1875_14">1875_14</a> <a class="ref" href="1875_15">1875_15</a> <a class="ref" href="1876_01">1876_01</a> <a class="ref" href="1876_06">1876_06</a> <a class="ref" href="1876_07">1876_07</a> <a class="ref" href="1876_11">1876_11</a> <a class="ref" href="1877_04">1877_04</a> <a class="ref" href="1877_05">1877_05</a> <a class="ref" href="1877_06">1877_06</a> <a class="ref" href="1877_07">1877_07</a> <a class="ref" href="1878_02">1878_02</a> <a class="ref" href="1878_03">1878_03</a> <a class="ref" href="1878_04">1878_04</a> <a class="ref" href="1878_05">1878_05</a> <a class="ref" href="1878_06">1878_06</a> <a class="ref" href="1878_07">1878_07</a> <a class="ref" href="1878_08">1878_08</a> <a class="ref" href="1878_09">1878_09</a> <a class="ref" href="1878_10">1878_10</a> <a class="ref" href="1878_11">1878_11</a> <a class="ref" href="1878_12">1878_12</a> <a class="ref" href="1878_13">1878_13</a> <a class="ref" href="1878_14">1878_14</a> <a class="ref" href="1878_15">1878_15</a> <a class="ref" href="1878_16">1878_16</a> <a class="ref" href="1878_17">1878_17</a> <a class="ref" href="1878_19">1878_19</a> <a class="ref" href="1879_01">1879_01</a> <a class="ref" href="1879_02">1879_02</a> <a class="ref" href="1879_04">1879_04</a> <a class="ref" href="1879_05">1879_05</a> <a class="ref" href="1879_06">1879_06</a> <a class="ref" href="1879_07">1879_07</a> <a class="ref" href="1879_08">1879_08</a> <a class="ref" href="1879_09">1879_09</a> <a class="ref" href="1879_10">1879_10</a> <a class="ref" href="1879_11">1879_11</a> <a class="ref" href="1879_13">1879_13</a> <a class="ref" href="1879_14">1879_14</a> <a class="ref" href="1879_15">1879_15</a> <a class="ref" href="1879_16">1879_16</a> <a class="ref" href="1879_17">1879_17</a> <a class="ref" href="1879_18">1879_18</a> <a class="ref" href="1879_20">1879_20</a> <a class="ref" href="1879_21">1879_21</a> <a class="ref" href="1879_22">1879_22</a> <a class="ref" href="1880_01">1880_01</a> <a class="ref" href="1880_03">1880_03</a> <a class="ref" href="1880_05">1880_05</a> <a class="ref" href="1880_06">1880_06</a> <a class="ref" href="1880_07">1880_07</a> <a class="ref" href="1880_08">1880_08</a> <a class="ref" href="1880_09">1880_09</a> <a class="ref" href="1880_10">1880_10</a> <a class="ref" href="1880_11">1880_11</a> <a class="ref" href="1880_14">1880_14</a> <a class="ref" href="1880_15">1880_15</a> <a class="ref" href="1880_16">1880_16</a> <a class="ref" href="1880_18">1880_18</a> <a class="ref" href="1880_19">1880_19</a> <a class="ref" href="1881_01">1881_01</a> <a class="ref" href="1881_02">1881_02</a> <a class="ref" href="1881_11">1881_11</a> <a class="ref" href="1882_01">1882_01</a> <a class="ref" href="1882_06">1882_06</a> <a class="ref" href="1883_01">1883_01</a> <a class="ref" href="1884_01">1884_01</a> <a class="ref" href="1884_10">1884_10</a> <a class="ref" href="1888_01">1888_01</a> <a class="ref" href="1890_02">1890_02</a></td>
+		</tr>
+		<tr about="#6750" id="6750">
+			<td><a class="local-row" href="#6750">#6750</a></td>
+			<td property="schema:name">Schumann, Robert</td>
+			<td><a class="ref" href="1862_01">1862_01</a> <a class="ref" href="1871_09">1871_09</a> <a class="ref" href="1873_03">1873_03</a> <a class="ref" href="1874_02">1874_02</a> <a class="ref" href="1874_08">1874_08</a> <a class="ref" href="1877_04">1877_04</a> <a class="ref" href="1878_11">1878_11</a> <a class="ref" href="1879_04">1879_04</a> <a class="ref" href="1879_06">1879_06</a> <a class="ref" href="1879_15">1879_15</a> <a class="ref" href="1879_21">1879_21</a> <a class="ref" href="1880_02">1880_02</a> <a class="ref" href="1884_10">1884_10</a></td>
+		</tr>
+		<tr about="#5508" id="5508">
+			<td><a class="local-row" href="#5508">#5508</a></td>
+			<td property="schema:name">Brahms, Johannes</td>
+			<td><a class="ref" href="1871_09">1871_09</a> <a class="ref" href="1874_08">1874_08</a> <a class="ref" href="1875_15">1875_15</a> <a class="ref" href="1877_04">1877_04</a> <a class="ref" href="1878_08">1878_08</a> <a class="ref" href="1879_21">1879_21</a> <a class="ref" href="1880_02">1880_02</a> <a class="ref" href="1884_10">1884_10</a> <a class="ref" href="1887_02">1887_02</a></td>
+		</tr>
+		<tr about="#7081" id="7081">
+			<td><a class="local-row" href="#7081">#7081</a></td>
+			<td property="schema:name">Poe, Edgar Allan</td>
+			<td><a class="ref" href="1877_05">1877_05</a> <a class="ref" href="1877_06">1877_06</a></td>
+		</tr>
+		<tr about="#6118" id="6118">
+			<td><a class="local-row" href="#6118">#6118</a></td>
+			<td property="schema:name">Fabre</td>
+			<td><a class="ref" href="1877_05">1877_05</a> <a class="ref" href="1877_06">1877_06</a> <a class="ref" href="1877_07">1877_07</a> <a class="ref" href="1877_08">1877_08</a> <a class="ref" href="1879_09">1879_09</a> <a class="ref" href="1879_11">1879_11</a> <a class="ref" href="1879_12">1879_12</a> <a class="ref" href="1879_13">1879_13</a> <a class="ref" href="1879_14">1879_14</a> <a class="ref" href="1879_15">1879_15</a> <a class="ref" href="1879_16">1879_16</a> <a class="ref" href="1880_05">1880_05</a> <a class="ref" href="1880_07">1880_07</a> <a class="ref" href="1880_14">1880_14</a></td>
+		</tr>
+		<tr about="#1168" id="1168">
+			<td><a class="local-row" href="#1168">#1168</a></td>
+			<td property="schema:name">Rembrandt</td>
+			<td><a class="ref" href="1877_06">1877_06</a> <a class="ref" href="1898_07">1898_07</a></td>
+		</tr>
+		<tr about="#10317" id="10317">
+			<td><a class="local-row" href="#10317">#10317</a></td>
+			<td property="schema:name">Cornill,</td>
+			<td><a class="ref" href="1877_07">1877_07</a></td>
+		</tr>
+		<tr about="#10320" id="10320">
+			<td><a class="local-row" href="#10320">#10320</a></td>
+			<td property="schema:name">Coutts-Lindsay, Sir</td>
+			<td><a class="ref" href="1877_08">1877_08</a></td>
+		</tr>
+		<tr about="#11826" id="11826">
+			<td><a class="local-row" href="#11826">#11826</a></td>
+			<td property="schema:name">Leighton, Frédérick</td>
+			<td><a class="ref" href="1871_02">1871_02</a> <a class="ref" href="1877_08">1877_08</a> <a class="ref" href="1881_03">1881_03</a> <a class="ref" href="1885_02">1885_02</a> <a class="ref" href="1886_06">1886_06</a> <a class="ref" href="1896_02">1896_02</a> <a class="ref" href="1896_03">1896_03</a> <a class="ref" href="1896_04">1896_04</a> <a class="ref" href="1896_07">1896_07</a> <a class="ref" href="1896_11">1896_11</a> <a class="ref" href="1896_12">1896_12</a></td>
+		</tr>
+		<tr about="#10503" id="10503">
+			<td><a class="local-row" href="#10503">#10503</a></td>
+			<td property="schema:name">Poynter, Edward James</td>
+			<td><a class="ref" href="1877_08">1877_08</a> <a class="ref" href="1896_02">1896_02</a> <a class="ref" href="1896_11">1896_11</a> <a class="ref" href="1896_12">1896_12</a></td>
+		</tr>
+		<tr about="#10272" id="10272">
+			<td><a class="local-row" href="#10272">#10272</a></td>
+			<td property="schema:name">Agnew, Thomas</td>
+			<td><a class="ref" href="1878_04">1878_04</a></td>
+		</tr>
+		<tr about="#10273" id="10273">
+			<td><a class="local-row" href="#10273">#10273</a></td>
+			<td property="schema:name">Agnew, William</td>
+			<td><a class="ref" href="1878_04">1878_04</a></td>
+		</tr>
+		<tr about="#10578" id="10578">
+			<td><a class="local-row" href="#10578">#10578</a></td>
+			<td property="schema:name">Wallis, Mr.</td>
+			<td><a class="ref" href="1871_08">1871_08</a> <a class="ref" href="1878_04">1878_04</a></td>
+		</tr>
+		<tr about="#2171" id="2171">
+			<td><a class="local-row" href="#2171">#2171</a></td>
+			<td property="schema:name">Meissonier</td>
+			<td><a class="ref" href="1878_05">1878_05</a></td>
+		</tr>
+		<tr about="#5726" id="5726">
+			<td><a class="local-row" href="#5726">#5726</a></td>
+			<td property="schema:name">Cabanel</td>
+			<td><a class="ref" href="1878_05">1878_05</a></td>
+		</tr>
+		<tr about="#1609" id="1609">
+			<td><a class="local-row" href="#1609">#1609</a></td>
+			<td property="schema:name">Carolus-Duran</td>
+			<td><a class="ref" href="1878_05">1878_05</a></td>
+		</tr>
+		<tr about="#10389" id="10389">
+			<td><a class="local-row" href="#10389">#10389</a></td>
+			<td property="schema:name">Goldschmidt, Madame de</td>
+			<td><a class="ref" href="1878_07">1878_07</a></td>
+		</tr>
+		<tr about="#10408" id="10408">
+			<td><a class="local-row" href="#10408">#10408</a></td>
+			<td property="schema:name">Henkes, Gerke</td>
+			<td><a class="ref" href="1878_07">1878_07</a></td>
+		</tr>
+		<tr about="#1204" id="1204">
+			<td><a class="local-row" href="#1204">#1204</a></td>
+			<td property="schema:name">Mauve, Anton</td>
+			<td><a class="ref" href="1878_07">1878_07</a></td>
+		</tr>
+		<tr about="#6338" id="6338">
+			<td><a class="local-row" href="#6338">#6338</a></td>
+			<td property="schema:name">Mesdag</td>
+			<td><a class="ref" href="1878_07">1878_07</a></td>
+		</tr>
+		<tr about="#81" id="81">
+			<td><a class="local-row" href="#81">#81</a></td>
+			<td property="schema:name">Israels, Jozef</td>
+			<td><a class="ref" href="1878_07">1878_07</a> <a class="ref" href="1885_03">1885_03</a></td>
+		</tr>
+		<tr about="#10455" id="10455">
+			<td><a class="local-row" href="#10455">#10455</a></td>
+			<td property="schema:name">Maris, Jacob</td>
+			<td><a class="ref" href="1878_07">1878_07</a> <a class="ref" href="1889_04">1889_04</a></td>
+		</tr>
+		<tr about="#3498" id="3498">
+			<td><a class="local-row" href="#3498">#3498</a></td>
+			<td property="schema:name">Laibl</td>
+			<td><a class="ref" href="1878_08">1878_08</a></td>
+		</tr>
+		<tr about="#10353" id="10353">
+			<td><a class="local-row" href="#10353">#10353</a></td>
+			<td property="schema:name">Duranty, Louis</td>
+			<td><a class="ref" href="1878_08">1878_08</a> <a class="ref" href="1878_09">1878_09</a> <a class="ref" href="1879_21">1879_21</a></td>
+		</tr>
+		<tr about="#2292" id="2292">
+			<td><a class="local-row" href="#2292">#2292</a></td>
+			<td property="schema:name">Decamps</td>
+			<td><a class="ref" href="1878_13">1878_13</a></td>
+		</tr>
+		<tr about="#5434" id="5434">
+			<td><a class="local-row" href="#5434">#5434</a></td>
+			<td property="schema:name">Memling, Hans</td>
+			<td><a class="ref" href="1878_13">1878_13</a></td>
+		</tr>
+		<tr about="#2021" id="2021">
+			<td><a class="local-row" href="#2021">#2021</a></td>
+			<td property="schema:name">Rousseau, Théodore</td>
+			<td><a class="ref" href="1867_03">1867_03</a> <a class="ref" href="1878_07">1878_07</a> <a class="ref" href="1878_12">1878_12</a> <a class="ref" href="1878_13">1878_13</a> <a class="ref" href="1878_14">1878_14</a> <a class="ref" href="1878_15">1878_15</a> <a class="ref" href="1879_20">1879_20</a></td>
+		</tr>
+		<tr about="#1085" id="1085">
+			<td><a class="local-row" href="#1085">#1085</a></td>
+			<td property="schema:name">Troyon, Constant</td>
+			<td><a class="ref" href="1867_03">1867_03</a> <a class="ref" href="1878_12">1878_12</a> <a class="ref" href="1878_13">1878_13</a> <a class="ref" href="1878_14">1878_14</a> <a class="ref" href="1878_15">1878_15</a></td>
+		</tr>
+		<tr about="#9110" id="9110">
+			<td><a class="local-row" href="#9110">#9110</a></td>
+			<td property="schema:name">Flaubert, Gustave</td>
+			<td><a class="ref" href="1878_13">1878_13</a> <a class="ref" href="1878_14">1878_14</a></td>
+		</tr>
+		<tr about="#10520" id="10520">
+			<td><a class="local-row" href="#10520">#10520</a></td>
+			<td property="schema:name">Ricard, Louis Gustave</td>
+			<td><a class="ref" href="1878_12">1878_12</a> <a class="ref" href="1878_13">1878_13</a> <a class="ref" href="1878_14">1878_14</a> <a class="ref" href="1878_15">1878_15</a></td>
+		</tr>
+		<tr about="#2455" id="2455">
+			<td><a class="local-row" href="#2455">#2455</a></td>
+			<td property="schema:name">Diaz de la Pena, Narcisse</td>
+			<td><a class="ref" href="1878_12">1878_12</a> <a class="ref" href="1878_13">1878_13</a> <a class="ref" href="1878_14">1878_14</a> <a class="ref" href="1878_15">1878_15</a> <a class="ref" href="1879_20">1879_20</a> <a class="ref" href="1896_02">1896_02</a></td>
+		</tr>
+		<tr about="#9825" id="9825">
+			<td><a class="local-row" href="#9825">#9825</a></td>
+			<td property="schema:name">Barye, Antoine-Louis</td>
+			<td><a class="ref" href="1878_12">1878_12</a> <a class="ref" href="1878_13">1878_13</a> <a class="ref" href="1878_14">1878_14</a> <a class="ref" href="1878_15">1878_15</a> <a class="ref" href="1881_07">1881_07</a></td>
+		</tr>
+		<tr about="#1313" id="1313">
+			<td><a class="local-row" href="#1313">#1313</a></td>
+			<td property="schema:name">Huet, Paul</td>
+			<td><a class="ref" href="1878_15">1878_15</a></td>
+		</tr>
+		<tr about="#10464" id="10464">
+			<td><a class="local-row" href="#10464">#10464</a></td>
+			<td property="schema:name">Mewburn, Francis</td>
+			<td><a class="ref" href="1878_15">1878_15</a> <a class="ref" href="1878_17">1878_17</a> <a class="ref" href="1878_18">1878_18</a> <a class="ref" href="1878_19">1878_19</a></td>
+		</tr>
+		<tr about="#10541" id="10541">
+			<td><a class="local-row" href="#10541">#10541</a></td>
+			<td property="schema:name">Scholderer, Emilie</td>
+			<td><a class="ref" href="1866_01">1866_01</a> <a class="ref" href="1870_02">1870_02</a> <a class="ref" href="1871_06">1871_06</a> <a class="ref" href="1875_12">1875_12</a> <a class="ref" href="1875_14">1875_14</a> <a class="ref" href="1878_01">1878_01</a> <a class="ref" href="1878_08">1878_08</a> <a class="ref" href="1878_11">1878_11</a> <a class="ref" href="1878_13">1878_13</a> <a class="ref" href="1878_14">1878_14</a> <a class="ref" href="1879_02">1879_02</a> <a class="ref" href="1880_09">1880_09</a> <a class="ref" href="1881_12">1881_12</a> <a class="ref" href="1887_09">1887_09</a> <a class="ref" href="1888_01">1888_01</a> <a class="ref" href="1888_05">1888_05</a> <a class="ref" href="1888_06">1888_06</a> <a class="ref" href="1889_01">1889_01</a> <a class="ref" href="1889_02">1889_02</a></td>
+		</tr>
+		<tr about="#10283" id="10283">
+			<td><a class="local-row" href="#10283">#10283</a></td>
+			<td property="schema:name">Becker von Worms, Jakob</td>
+			<td><a class="ref" href="1865_02">1865_02</a> <a class="ref" href="1874_03">1874_03</a> <a class="ref" href="1879_04">1879_04</a></td>
+		</tr>
+		<tr about="#1428" id="1428">
+			<td><a class="local-row" href="#1428">#1428</a></td>
+			<td property="schema:name">Beethoven, Ludwig van</td>
+			<td><a class="ref" href="1868_01">1868_01</a> <a class="ref" href="1879_04">1879_04</a> <a class="ref" href="1879_05">1879_05</a> <a class="ref" href="1881_09">1881_09</a> <a class="ref" href="1884_10">1884_10</a></td>
+		</tr>
+		<tr about="#1427" id="1427">
+			<td><a class="local-row" href="#1427">#1427</a></td>
+			<td property="schema:name">Bach, Johann Sebastian</td>
+			<td><a class="ref" href="1875_17">1875_17</a> <a class="ref" href="1879_04">1879_04</a></td>
+		</tr>
+		<tr about="#10347" id="10347">
+			<td><a class="local-row" href="#10347">#10347</a></td>
+			<td property="schema:name">Eiser, Otto</td>
+			<td><a class="ref" href="1878_01">1878_01</a> <a class="ref" href="1878_02">1878_02</a> <a class="ref" href="1878_11">1878_11</a> <a class="ref" href="1878_13">1878_13</a> <a class="ref" href="1878_14">1878_14</a> <a class="ref" href="1878_15">1878_15</a> <a class="ref" href="1879_01">1879_01</a> <a class="ref" href="1879_04">1879_04</a> <a class="ref" href="1879_05">1879_05</a> <a class="ref" href="1879_06">1879_06</a> <a class="ref" href="1899_05">1899_05</a></td>
+		</tr>
+		<tr about="#10587" id="10587">
+			<td><a class="local-row" href="#10587">#10587</a></td>
+			<td property="schema:name">Wilt, Marianne</td>
+			<td><a class="ref" href="1879_05">1879_05</a></td>
+		</tr>
+		<tr about="#10387" id="10387">
+			<td><a class="local-row" href="#10387">#10387</a></td>
+			<td property="schema:name">Goff,</td>
+			<td><a class="ref" href="1879_05">1879_05</a> <a class="ref" href="1879_06">1879_06</a></td>
+		</tr>
+		<tr about="#10303" id="10303">
+			<td><a class="local-row" href="#10303">#10303</a></td>
+			<td property="schema:name">Callimaki-Catargi, Eva</td>
+			<td><a class="ref" href="1879_06">1879_06</a> <a class="ref" href="1880_09">1880_09</a> <a class="ref" href="1880_10">1880_10</a> <a class="ref" href="1880_17">1880_17</a> <a class="ref" href="1880_18">1880_18</a> <a class="ref" href="1880_19">1880_19</a> <a class="ref" href="1881_04">1881_04</a></td>
+		</tr>
+		<tr about="#10523" id="10523">
+			<td><a class="local-row" href="#10523">#10523</a></td>
+			<td property="schema:name">Riesener, Mlle</td>
+			<td><a class="ref" href="1879_06">1879_06</a> <a class="ref" href="1880_03">1880_03</a> <a class="ref" href="1881_03">1881_03</a> <a class="ref" href="1881_04">1881_04</a></td>
+		</tr>
+		<tr about="#2886" id="2886">
+			<td><a class="local-row" href="#2886">#2886</a></td>
+			<td property="schema:name">Hals, Franz</td>
+			<td><a class="ref" href="1879_07">1879_07</a></td>
+		</tr>
+		<tr about="#5820" id="5820">
+			<td><a class="local-row" href="#5820">#5820</a></td>
+			<td property="schema:name">Bellini, Giovanni</td>
+			<td><a class="ref" href="1879_07">1879_07</a></td>
+		</tr>
+		<tr about="#10311" id="10311">
+			<td><a class="local-row" href="#10311">#10311</a></td>
+			<td property="schema:name">Gellée, Claude</td>
+			<td><a class="ref" href="1879_07">1879_07</a></td>
+		</tr>
+		<tr about="#7079" id="7079">
+			<td><a class="local-row" href="#7079">#7079</a></td>
+			<td property="schema:name">Richter, Jean-Paul</td>
+			<td><a class="ref" href="1879_07">1879_07</a></td>
+		</tr>
+		<tr about="#3277" id="3277">
+			<td><a class="local-row" href="#3277">#3277</a></td>
+			<td property="schema:name">Steen, Jan</td>
+			<td><a class="ref" href="1879_07">1879_07</a></td>
+		</tr>
+		<tr about="#5169" id="5169">
+			<td><a class="local-row" href="#5169">#5169</a></td>
+			<td property="schema:name">Ruskin</td>
+			<td><a class="ref" href="1878_17">1878_17</a> <a class="ref" href="1878_18">1878_18</a> <a class="ref" href="1878_19">1878_19</a> <a class="ref" href="1879_09">1879_09</a> <a class="ref" href="1879_11">1879_11</a></td>
+		</tr>
+		<tr about="#5435" id="5435">
+			<td><a class="local-row" href="#5435">#5435</a></td>
+			<td property="schema:name">Whistler</td>
+			<td><a class="ref" href="1879_09">1879_09</a> <a class="ref" href="1884_06">1884_06</a></td>
+		</tr>
+		<tr about="#716" id="716">
+			<td><a class="local-row" href="#716">#716</a></td>
+			<td property="schema:name">Cézanne, Paul</td>
+			<td><a class="ref" href="1879_11">1879_11</a></td>
+		</tr>
+		<tr about="#10391" id="10391">
+			<td><a class="local-row" href="#10391">#10391</a></td>
+			<td property="schema:name">Goupil, Adolphe</td>
+			<td><a class="ref" href="1879_13">1879_13</a></td>
+		</tr>
+		<tr about="#7818" id="7818">
+			<td><a class="local-row" href="#7818">#7818</a></td>
+			<td property="schema:name">Bonvin, Francois</td>
+			<td><a class="ref" href="1879_14">1879_14</a></td>
+		</tr>
+		<tr about="#1074" id="1074">
+			<td><a class="local-row" href="#1074">#1074</a></td>
+			<td property="schema:name">Boudin, Eugène</td>
+			<td><a class="ref" href="1879_14">1879_14</a></td>
+		</tr>
+		<tr about="#1266" id="1266">
+			<td><a class="local-row" href="#1266">#1266</a></td>
+			<td property="schema:name">Bracquemond, Felix</td>
+			<td><a class="ref" href="1871_05">1871_05</a> <a class="ref" href="1879_14">1879_14</a></td>
+		</tr>
+		<tr about="#10276" id="10276">
+			<td><a class="local-row" href="#10276">#10276</a></td>
+			<td property="schema:name">Armitage, Edwards</td>
+			<td><a class="ref" href="1879_14">1879_14</a> <a class="ref" href="1885_02">1885_02</a></td>
+		</tr>
+		<tr about="#5139" id="5139">
+			<td><a class="local-row" href="#5139">#5139</a></td>
+			<td property="schema:name">Riesener</td>
+			<td><a class="ref" href="1879_18">1879_18</a></td>
+		</tr>
+		<tr about="#4416" id="4416">
+			<td><a class="local-row" href="#4416">#4416</a></td>
+			<td property="schema:name">Titien</td>
+			<td><a class="ref" href="1871_02">1871_02</a> <a class="ref" href="1879_18">1879_18</a></td>
+		</tr>
+		<tr about="#3673" id="3673">
+			<td><a class="local-row" href="#3673">#3673</a></td>
+			<td property="schema:name">Duranty, Louis</td>
+			<td><a class="ref" href="1877_05">1877_05</a> <a class="ref" href="1879_22">1879_22</a> <a class="ref" href="1880_03">1880_03</a> <a class="ref" href="1880_05">1880_05</a> <a class="ref" href="1880_06">1880_06</a> <a class="ref" href="1880_07">1880_07</a> <a class="ref" href="1880_12">1880_12</a> <a class="ref" href="1880_15">1880_15</a> <a class="ref" href="1880_16">1880_16</a> <a class="ref" href="1881_01">1881_01</a> <a class="ref" href="1881_02">1881_02</a> <a class="ref" href="1884_07">1884_07</a> <a class="ref" href="1884_08">1884_08</a> <a class="ref" href="1884_09">1884_09</a></td>
+		</tr>
+		<tr about="#11842" id="11842">
+			<td><a class="local-row" href="#11842">#11842</a></td>
+			<td property="schema:name">Menzel, Adolph Friedrich Erdmann von</td>
+			<td><a class="ref" href="1880_05">1880_05</a> <a class="ref" href="1880_06">1880_06</a> <a class="ref" href="1880_12">1880_12</a> <a class="ref" href="1880_13">1880_13</a> <a class="ref" href="1880_15">1880_15</a> <a class="ref" href="1880_16">1880_16</a> <a class="ref" href="1881_01">1881_01</a> <a class="ref" href="1881_02">1881_02</a> <a class="ref" href="1886_06">1886_06</a></td>
+		</tr>
+		<tr about="#3900" id="3900">
+			<td><a class="local-row" href="#3900">#3900</a></td>
+			<td property="schema:name">Roth, Joseph</td>
+			<td><a class="ref" href="1880_07">1880_07</a></td>
+		</tr>
+		<tr about="#10532" id="10532">
+			<td><a class="local-row" href="#10532">#10532</a></td>
+			<td property="schema:name">Roth, Madame</td>
+			<td><a class="ref" href="1880_08">1880_08</a></td>
+		</tr>
+		<tr about="#10467" id="10467">
+			<td><a class="local-row" href="#10467">#10467</a></td>
+			<td property="schema:name">Meyer, Madame</td>
+			<td><a class="ref" href="1880_08">1880_08</a></td>
+		</tr>
+		<tr about="#10419" id="10419">
+			<td><a class="local-row" href="#10419">#10419</a></td>
+			<td property="schema:name">Jones, Madame</td>
+			<td><a class="ref" href="1880_07">1880_07</a> <a class="ref" href="1880_08">1880_08</a></td>
+		</tr>
+		<tr about="#10567" id="10567">
+			<td><a class="local-row" href="#10567">#10567</a></td>
+			<td property="schema:name">Taylor, Tom</td>
+			<td><a class="ref" href="1880_09">1880_09</a></td>
+		</tr>
+		<tr about="#2083" id="2083">
+			<td><a class="local-row" href="#2083">#2083</a></td>
+			<td property="schema:name">Bastien-Lepage</td>
+			<td><a class="ref" href="1880_09">1880_09</a></td>
+		</tr>
+		<tr about="#1161" id="1161">
+			<td><a class="local-row" href="#1161">#1161</a></td>
+			<td property="schema:name">Bastien-Lepage, Jules</td>
+			<td><a class="ref" href="1880_09">1880_09</a> <a class="ref" href="1880_10">1880_10</a></td>
+		</tr>
+		<tr about="#1153" id="1153">
+			<td><a class="local-row" href="#1153">#1153</a></td>
+			<td property="schema:name">Cassatt, Mary</td>
+			<td><a class="ref" href="1880_16">1880_16</a></td>
+		</tr>
+		<tr about="#12203" id="12203">
+			<td><a class="local-row" href="#12203">#12203</a></td>
+			<td property="schema:name">Desboutin,</td>
+			<td><a class="ref" href="1880_16">1880_16</a></td>
+		</tr>
+		<tr about="#6041" id="6041">
+			<td><a class="local-row" href="#6041">#6041</a></td>
+			<td property="schema:name">Rochefort, Henri</td>
+			<td><a class="ref" href="1880_17">1880_17</a> <a class="ref" href="1880_18">1880_18</a></td>
+		</tr>
+		<tr about="#6242" id="6242">
+			<td><a class="local-row" href="#6242">#6242</a></td>
+			<td property="schema:name">Gebhardt, Edward Karl Franz</td>
+			<td><a class="ref" href="1881_01">1881_01</a> <a class="ref" href="1881_02">1881_02</a></td>
+		</tr>
+		<tr about="#12202" id="12202">
+			<td><a class="local-row" href="#12202">#12202</a></td>
+			<td property="schema:name">Duranty, Madame</td>
+			<td><a class="ref" href="1880_16">1880_16</a> <a class="ref" href="1881_01">1881_01</a> <a class="ref" href="1881_02">1881_02</a></td>
+		</tr>
+		<tr about="#12199" id="12199">
+			<td><a class="local-row" href="#12199">#12199</a></td>
+			<td property="schema:name">Beaconsfield,</td>
+			<td><a class="ref" href="1881_03">1881_03</a></td>
+		</tr>
+		<tr about="#12198" id="12198">
+			<td><a class="local-row" href="#12198">#12198</a></td>
+			<td property="schema:name">Tennyson, Alfred</td>
+			<td><a class="ref" href="1881_03">1881_03</a></td>
+		</tr>
+		<tr about="#12266" id="12266">
+			<td><a class="local-row" href="#12266">#12266</a></td>
+			<td property="schema:name">Sickert,</td>
+			<td><a class="ref" href="1881_06">1881_06</a> <a class="ref" href="1881_11">1881_11</a></td>
+		</tr>
+		<tr about="#1341" id="1341">
+			<td><a class="local-row" href="#1341">#1341</a></td>
+			<td property="schema:name">Chassériau, Théodore</td>
+			<td><a class="ref" href="1881_07">1881_07</a></td>
+		</tr>
+		<tr about="#1136" id="1136">
+			<td><a class="local-row" href="#1136">#1136</a></td>
+			<td property="schema:name">Dupré, Jules</td>
+			<td><a class="ref" href="1878_07">1878_07</a> <a class="ref" href="1881_07">1881_07</a></td>
+		</tr>
+		<tr about="#1291" id="1291">
+			<td><a class="local-row" href="#1291">#1291</a></td>
+			<td property="schema:name">Rousseau, Théodor Auguste</td>
+			<td><a class="ref" href="1881_07">1881_07</a> <a class="ref" href="1881_08">1881_08</a></td>
+		</tr>
+		<tr about="#2164" id="2164">
+			<td><a class="local-row" href="#2164">#2164</a></td>
+			<td property="schema:name">Diaz</td>
+			<td><a class="ref" href="1881_07">1881_07</a> <a class="ref" href="1881_08">1881_08</a></td>
+		</tr>
+		<tr about="#2389" id="2389">
+			<td><a class="local-row" href="#2389">#2389</a></td>
+			<td property="schema:name">Schiller, Johann Christoph Friedrich von</td>
+			<td><a class="ref" href="1881_09">1881_09</a></td>
+		</tr>
+		<tr about="#2991" id="2991">
+			<td><a class="local-row" href="#2991">#2991</a></td>
+			<td property="schema:name">Teniers, David dit le jeune</td>
+			<td><a class="ref" href="1881_10">1881_10</a></td>
+		</tr>
+		<tr about="#3082" id="3082">
+			<td><a class="local-row" href="#3082">#3082</a></td>
+			<td property="schema:name">Ostade, Adrien van</td>
+			<td><a class="ref" href="1881_10">1881_10</a></td>
+		</tr>
+		<tr about="#10426" id="10426">
+			<td><a class="local-row" href="#10426">#10426</a></td>
+			<td property="schema:name">Keene, Charles Samuel</td>
+			<td><a class="ref" href="1871_06">1871_06</a> <a class="ref" href="1876_11">1876_11</a> <a class="ref" href="1879_21">1879_21</a> <a class="ref" href="1880_12">1880_12</a> <a class="ref" href="1880_15">1880_15</a> <a class="ref" href="1880_19">1880_19</a> <a class="ref" href="1881_12">1881_12</a> <a class="ref" href="1884_07">1884_07</a></td>
+		</tr>
+		<tr about="#10522" id="10522">
+			<td><a class="local-row" href="#10522">#10522</a></td>
+			<td property="schema:name">Riesener, Léon</td>
+			<td><a class="ref" href="1879_11">1879_11</a> <a class="ref" href="1879_13">1879_13</a> <a class="ref" href="1879_14">1879_14</a> <a class="ref" href="1879_15">1879_15</a> <a class="ref" href="1881_12">1881_12</a></td>
+		</tr>
+		<tr about="#6605" id="6605">
+			<td><a class="local-row" href="#6605">#6605</a></td>
+			<td property="schema:name">Sickert</td>
+			<td><a class="ref" href="1881_05">1881_05</a> <a class="ref" href="1881_12">1881_12</a> <a class="ref" href="1882_02">1882_02</a></td>
+		</tr>
+		<tr about="#1169" id="1169">
+			<td><a class="local-row" href="#1169">#1169</a></td>
+			<td property="schema:name">Rubens, Peter Paul</td>
+			<td><a class="ref" href="1882_01">1882_01</a></td>
+		</tr>
+		<tr about="#2091" id="2091">
+			<td><a class="local-row" href="#2091">#2091</a></td>
+			<td property="schema:name">David</td>
+			<td><a class="ref" href="1882_04">1882_04</a></td>
+		</tr>
+		<tr about="#10398" id="10398">
+			<td><a class="local-row" href="#10398">#10398</a></td>
+			<td property="schema:name">Hamer, W. E.</td>
+			<td><a class="ref" href="1882_04">1882_04</a></td>
+		</tr>
+		<tr about="#10396" id="10396">
+			<td><a class="local-row" href="#10396">#10396</a></td>
+			<td property="schema:name">Hague, Joshua Anderson</td>
+			<td><a class="ref" href="1882_04">1882_04</a></td>
+		</tr>
+		<tr about="#10530" id="10530">
+			<td><a class="local-row" href="#10530">#10530</a></td>
+			<td property="schema:name">Rossetti, Dante Gabriel</td>
+			<td><a class="ref" href="1882_06">1882_06</a></td>
+		</tr>
+		<tr about="#12205" id="12205">
+			<td><a class="local-row" href="#12205">#12205</a></td>
+			<td property="schema:name">Lawes, Charles Bennett</td>
+			<td><a class="ref" href="1882_06">1882_06</a></td>
+		</tr>
+		<tr about="#12204" id="12204">
+			<td><a class="local-row" href="#12204">#12204</a></td>
+			<td property="schema:name">Belt, Richard Claude</td>
+			<td><a class="ref" href="1882_06">1882_06</a></td>
+		</tr>
+		<tr about="#4522" id="4522">
+			<td><a class="local-row" href="#4522">#4522</a></td>
+			<td property="schema:name">Bela Uiz</td>
+			<td><a class="ref" href="1882_06">1882_06</a></td>
+		</tr>
+		<tr about="#1075" id="1075">
+			<td><a class="local-row" href="#1075">#1075</a></td>
+			<td property="schema:name">Cazin, Jean Charles</td>
+			<td><a class="ref" href="1880_02">1880_02</a> <a class="ref" href="1880_05">1880_05</a> <a class="ref" href="1880_06">1880_06</a> <a class="ref" href="1880_07">1880_07</a> <a class="ref" href="1880_08">1880_08</a> <a class="ref" href="1880_09">1880_09</a> <a class="ref" href="1880_17">1880_17</a> <a class="ref" href="1880_18">1880_18</a> <a class="ref" href="1880_19">1880_19</a> <a class="ref" href="1881_03">1881_03</a> <a class="ref" href="1881_04">1881_04</a> <a class="ref" href="1882_06">1882_06</a> <a class="ref" href="1883_01">1883_01</a> <a class="ref" href="1883_02">1883_02</a> <a class="ref" href="1883_03">1883_03</a> <a class="ref" href="1884_06">1884_06</a> <a class="ref" href="1901_03">1901_03</a></td>
+		</tr>
+		<tr about="#10299" id="10299">
+			<td><a class="local-row" href="#10299">#10299</a></td>
+			<td property="schema:name">Budgett, Sarah</td>
+			<td><a class="ref" href="1883_02">1883_02</a> <a class="ref" href="1884_06">1884_06</a> <a class="ref" href="1885_02">1885_02</a></td>
+		</tr>
+		<tr about="#88" id="88">
+			<td><a class="local-row" href="#88">#88</a></td>
+			<td property="schema:name">Duret, Théodore</td>
+			<td><a class="ref" href="1883_03">1883_03</a></td>
+		</tr>
+		<tr about="#3772" id="3772">
+			<td><a class="local-row" href="#3772">#3772</a></td>
+			<td property="schema:name">Burty, Philippe</td>
+			<td><a class="ref" href="1883_03">1883_03</a></td>
+		</tr>
+		<tr about="#421" id="421">
+			<td><a class="local-row" href="#421">#421</a></td>
+			<td property="schema:name">Proust, Antonin</td>
+			<td><a class="ref" href="1883_03">1883_03</a></td>
+		</tr>
+		<tr about="#2480" id="2480">
+			<td><a class="local-row" href="#2480">#2480</a></td>
+			<td property="schema:name">Zola, Émile</td>
+			<td><a class="ref" href="1876_02">1876_02</a> <a class="ref" href="1879_11">1879_11</a> <a class="ref" href="1883_03">1883_03</a> <a class="ref" href="1888_01">1888_01</a></td>
+		</tr>
+		<tr about="#4978" id="4978">
+			<td><a class="local-row" href="#4978">#4978</a></td>
+			<td property="schema:name">Israël, Ferdinand</td>
+			<td><a class="ref" href="1882_01">1882_01</a> <a class="ref" href="1883_03">1883_03</a></td>
+		</tr>
+		<tr about="#10326" id="10326">
+			<td><a class="local-row" href="#10326">#10326</a></td>
+			<td property="schema:name">Cuisin, Charles</td>
+			<td><a class="ref" href="1884_01">1884_01</a></td>
+		</tr>
+		<tr about="#12206" id="12206">
+			<td><a class="local-row" href="#12206">#12206</a></td>
+			<td property="schema:name">Maître, Léon Mme</td>
+			<td><a class="ref" href="1884_07">1884_07</a></td>
+		</tr>
+		<tr about="#5445" id="5445">
+			<td><a class="local-row" href="#5445">#5445</a></td>
+			<td property="schema:name">Burne-Jones</td>
+			<td><a class="ref" href="1877_08">1877_08</a> <a class="ref" href="1884_01">1884_01</a> <a class="ref" href="1884_09">1884_09</a> <a class="ref" href="1889_04">1889_04</a> <a class="ref" href="1892_02">1892_02</a> <a class="ref" href="1897_01">1897_01</a> <a class="ref" href="1898_05">1898_05</a></td>
+		</tr>
+		<tr about="#2850" id="2850">
+			<td><a class="local-row" href="#2850">#2850</a></td>
+			<td property="schema:name">Blanc, Charles</td>
+			<td><a class="ref" href="1884_07">1884_07</a> <a class="ref" href="1884_09">1884_09</a></td>
+		</tr>
+		<tr about="#5602" id="5602">
+			<td><a class="local-row" href="#5602">#5602</a></td>
+			<td property="schema:name">Haydn</td>
+			<td><a class="ref" href="1884_10">1884_10</a></td>
+		</tr>
+		<tr about="#10064" id="10064">
+			<td><a class="local-row" href="#10064">#10064</a></td>
+			<td property="schema:name">Schubert</td>
+			<td><a class="ref" href="1862_01">1862_01</a> <a class="ref" href="1884_10">1884_10</a></td>
+		</tr>
+		<tr about="#4490" id="4490">
+			<td><a class="local-row" href="#4490">#4490</a></td>
+			<td property="schema:name">Schumann</td>
+			<td><a class="ref" href="1883_04">1883_04</a> <a class="ref" href="1884_10">1884_10</a> <a class="ref" href="1893_01">1893_01</a></td>
+		</tr>
+		<tr about="#6431" id="6431">
+			<td><a class="local-row" href="#6431">#6431</a></td>
+			<td property="schema:name">Liszt, Franz</td>
+			<td><a class="ref" href="1884_11">1884_11</a></td>
+		</tr>
+		<tr about="#2090" id="2090">
+			<td><a class="local-row" href="#2090">#2090</a></td>
+			<td property="schema:name">Lenbach</td>
+			<td><a class="ref" href="1884_12">1884_12</a></td>
+		</tr>
+		<tr about="#6427" id="6427">
+			<td><a class="local-row" href="#6427">#6427</a></td>
+			<td property="schema:name">Gladstone</td>
+			<td><a class="ref" href="1885_02">1885_02</a></td>
+		</tr>
+		<tr about="#12207" id="12207">
+			<td><a class="local-row" href="#12207">#12207</a></td>
+			<td property="schema:name">Murray, David</td>
+			<td><a class="ref" href="1885_03">1885_03</a></td>
+		</tr>
+		<tr about="#10413" id="10413">
+			<td><a class="local-row" href="#10413">#10413</a></td>
+			<td property="schema:name">Israëls, Isaac</td>
+			<td><a class="ref" href="1885_03">1885_03</a></td>
+		</tr>
+		<tr about="#1284" id="1284">
+			<td><a class="local-row" href="#1284">#1284</a></td>
+			<td property="schema:name">Uhde, Fritz von</td>
+			<td><a class="ref" href="1885_03">1885_03</a> <a class="ref" href="1889_04">1889_04</a></td>
+		</tr>
+		<tr about="#12201" id="12201">
+			<td><a class="local-row" href="#12201">#12201</a></td>
+			<td property="schema:name">Maître,</td>
+			<td><a class="ref" href="1886_01">1886_01</a></td>
+		</tr>
+		<tr about="#12208" id="12208">
+			<td><a class="local-row" href="#12208">#12208</a></td>
+			<td property="schema:name">Chabrier, Emmanuel</td>
+			<td><a class="ref" href="1886_01">1886_01</a></td>
+		</tr>
+		<tr about="#3925" id="3925">
+			<td><a class="local-row" href="#3925">#3925</a></td>
+			<td property="schema:name">Pigeon, Amédée</td>
+			<td><a class="ref" href="1886_01">1886_01</a></td>
+		</tr>
+		<tr about="#3379" id="3379">
+			<td><a class="local-row" href="#3379">#3379</a></td>
+			<td property="schema:name">Chodowiecki, Daniel Nikolaus</td>
+			<td><a class="ref" href="1886_01">1886_01</a> <a class="ref" href="1886_02">1886_02</a></td>
+		</tr>
+		<tr about="#10563" id="10563">
+			<td><a class="local-row" href="#10563">#10563</a></td>
+			<td property="schema:name">Steinle, Eduard Jakob von</td>
+			<td><a class="ref" href="1886_06">1886_06</a></td>
+		</tr>
+		<tr about="#10451" id="10451">
+			<td><a class="local-row" href="#10451">#10451</a></td>
+			<td property="schema:name">Malss, Gerhard</td>
+			<td><a class="ref" href="1886_06">1886_06</a></td>
+		</tr>
+		<tr about="#3236" id="3236">
+			<td><a class="local-row" href="#3236">#3236</a></td>
+			<td property="schema:name">Schreyer, Adolf</td>
+			<td><a class="ref" href="1886_06">1886_06</a></td>
+		</tr>
+		<tr about="#10340" id="10340">
+			<td><a class="local-row" href="#10340">#10340</a></td>
+			<td property="schema:name">Dielmann, Jakob Fürchtegott</td>
+			<td><a class="ref" href="1886_06">1886_06</a></td>
+		</tr>
+		<tr about="#12209" id="12209">
+			<td><a class="local-row" href="#12209">#12209</a></td>
+			<td property="schema:name">Maître, Léon</td>
+			<td><a class="ref" href="1887_03">1887_03</a> <a class="ref" href="1898_06">1898_06</a></td>
+		</tr>
+		<tr about="#10446" id="10446">
+			<td><a class="local-row" href="#10446">#10446</a></td>
+			<td property="schema:name">Magnus, Hermann</td>
+			<td><a class="ref" href="1883_04">1883_04</a> <a class="ref" href="1887_07">1887_07</a></td>
+		</tr>
+		<tr about="#12210" id="12210">
+			<td><a class="local-row" href="#12210">#12210</a></td>
+			<td property="schema:name">Magnus, Rose</td>
+			<td><a class="ref" href="1887_07">1887_07</a> <a class="ref" href="1887_08">1887_08</a></td>
+		</tr>
+		<tr about="#10447" id="10447">
+			<td><a class="local-row" href="#10447">#10447</a></td>
+			<td property="schema:name">Magnus, Emma</td>
+			<td><a class="ref" href="1887_07">1887_07</a> <a class="ref" href="1887_08">1887_08</a></td>
+		</tr>
+		<tr about="#10573" id="10573">
+			<td><a class="local-row" href="#10573">#10573</a></td>
+			<td property="schema:name">Tolstoï, Léon</td>
+			<td><a class="ref" href="1888_02">1888_02</a></td>
+		</tr>
+		<tr about="#204" id="204">
+			<td><a class="local-row" href="#204">#204</a></td>
+			<td property="schema:name">Zola, Emile</td>
+			<td><a class="ref" href="1884_07">1884_07</a> <a class="ref" href="1888_02">1888_02</a> <a class="ref" href="1898_04">1898_04</a></td>
+		</tr>
+		<tr about="#2453" id="2453">
+			<td><a class="local-row" href="#2453">#2453</a></td>
+			<td property="schema:name">Blanche, Jacques Émile</td>
+			<td><a class="ref" href="1888_05">1888_05</a></td>
+		</tr>
+		<tr about="#5075" id="5075">
+			<td><a class="local-row" href="#5075">#5075</a></td>
+			<td property="schema:name">Berlioz</td>
+			<td><a class="ref" href="1884_06">1884_06</a> <a class="ref" href="1884_10">1884_10</a> <a class="ref" href="1888_05">1888_05</a> <a class="ref" href="1894_02">1894_02</a> <a class="ref" href="1896_04">1896_04</a></td>
+		</tr>
+		<tr about="#515" id="515">
+			<td><a class="local-row" href="#515">#515</a></td>
+			<td property="schema:name">Rousseau, Henri</td>
+			<td><a class="ref" href="1888_05">1888_05</a> <a class="ref" href="1896_02">1896_02</a> <a class="ref" href="1896_03">1896_03</a></td>
+		</tr>
+		<tr about="#2917" id="2917">
+			<td><a class="local-row" href="#2917">#2917</a></td>
+			<td property="schema:name">Fabre, François-Xavier</td>
+			<td><a class="ref" href="1888_07">1888_07</a></td>
+		</tr>
+		<tr about="#7791" id="7791">
+			<td><a class="local-row" href="#7791">#7791</a></td>
+			<td property="schema:name">Etty, William</td>
+			<td><a class="ref" href="1888_05">1888_05</a> <a class="ref" href="1888_07">1888_07</a> <a class="ref" href="1889_01">1889_01</a> <a class="ref" href="1889_02">1889_02</a> <a class="ref" href="1894_01">1894_01</a> <a class="ref" href="1894_02">1894_02</a> <a class="ref" href="1896_01">1896_01</a> <a class="ref" href="1896_11">1896_11</a></td>
+		</tr>
+		<tr about="#7009" id="7009">
+			<td><a class="local-row" href="#7009">#7009</a></td>
+			<td property="schema:name">Heyerdahl</td>
+			<td><a class="ref" href="1889_04">1889_04</a></td>
+		</tr>
+		<tr about="#2006" id="2006">
+			<td><a class="local-row" href="#2006">#2006</a></td>
+			<td property="schema:name">Watts, George Frederick</td>
+			<td><a class="ref" href="1889_04">1889_04</a></td>
+		</tr>
+		<tr about="#84" id="84">
+			<td><a class="local-row" href="#84">#84</a></td>
+			<td property="schema:name">Liebermann, Max</td>
+			<td><a class="ref" href="1889_04">1889_04</a></td>
+		</tr>
+		<tr about="#8529" id="8529">
+			<td><a class="local-row" href="#8529">#8529</a></td>
+			<td property="schema:name">Fischer</td>
+			<td><a class="ref" href="1890_03">1890_03</a> <a class="ref" href="1890_04">1890_04</a></td>
+		</tr>
+		<tr about="#12212" id="12212">
+			<td><a class="local-row" href="#12212">#12212</a></td>
+			<td property="schema:name">Del Mazo, Juan Bautista Martinez</td>
+			<td><a class="ref" href="1890_06">1890_06</a></td>
+		</tr>
+		<tr about="#8312" id="8312">
+			<td><a class="local-row" href="#8312">#8312</a></td>
+			<td property="schema:name">Holbein, Hans</td>
+			<td><a class="ref" href="1880_05">1880_05</a> <a class="ref" href="1890_06">1890_06</a></td>
+		</tr>
+		<tr about="#12213" id="12213">
+			<td><a class="local-row" href="#12213">#12213</a></td>
+			<td property="schema:name">Booth, William</td>
+			<td><a class="ref" href="1891_02">1891_02</a></td>
+		</tr>
+		<tr about="#10351" id="10351">
+			<td><a class="local-row" href="#10351">#10351</a></td>
+			<td property="schema:name">Dubourg, Victoria</td>
+			<td><a class="ref" href="1871_05">1871_05</a> <a class="ref" href="1871_06">1871_06</a> <a class="ref" href="1871_08">1871_08</a> <a class="ref" href="1872_02">1872_02</a> <a class="ref" href="1872_03">1872_03</a> <a class="ref" href="1872_04">1872_04</a> <a class="ref" href="1873_02">1873_02</a> <a class="ref" href="1873_03">1873_03</a> <a class="ref" href="1873_04">1873_04</a> <a class="ref" href="1873_05">1873_05</a> <a class="ref" href="1874_01">1874_01</a> <a class="ref" href="1874_02">1874_02</a> <a class="ref" href="1874_03">1874_03</a> <a class="ref" href="1874_04">1874_04</a> <a class="ref" href="1874_05">1874_05</a> <a class="ref" href="1874_06">1874_06</a> <a class="ref" href="1874_07">1874_07</a> <a class="ref" href="1874_08">1874_08</a> <a class="ref" href="1875_01">1875_01</a> <a class="ref" href="1875_02">1875_02</a> <a class="ref" href="1875_03">1875_03</a> <a class="ref" href="1875_04">1875_04</a> <a class="ref" href="1875_05">1875_05</a> <a class="ref" href="1875_08">1875_08</a> <a class="ref" href="1875_09">1875_09</a> <a class="ref" href="1875_10">1875_10</a> <a class="ref" href="1875_12">1875_12</a> <a class="ref" href="1875_13">1875_13</a> <a class="ref" href="1875_14">1875_14</a> <a class="ref" href="1875_15">1875_15</a> <a class="ref" href="1875_16">1875_16</a> <a class="ref" href="1875_17">1875_17</a> <a class="ref" href="1875_18">1875_18</a> <a class="ref" href="1876_01">1876_01</a> <a class="ref" href="1876_02">1876_02</a> <a class="ref" href="1876_03">1876_03</a> <a class="ref" href="1876_04">1876_04</a> <a class="ref" href="1876_05">1876_05</a> <a class="ref" href="1876_06">1876_06</a> <a class="ref" href="1876_07">1876_07</a> <a class="ref" href="1876_08">1876_08</a> <a class="ref" href="1876_09">1876_09</a> <a class="ref" href="1876_10">1876_10</a> <a class="ref" href="1876_11">1876_11</a> <a class="ref" href="1876_12">1876_12</a> <a class="ref" href="1876_14">1876_14</a> <a class="ref" href="1876_15">1876_15</a> <a class="ref" href="1876_16">1876_16</a> <a class="ref" href="1876_17">1876_17</a> <a class="ref" href="1877_01">1877_01</a> <a class="ref" href="1877_02">1877_02</a> <a class="ref" href="1877_03">1877_03</a> <a class="ref" href="1877_04">1877_04</a> <a class="ref" href="1877_05">1877_05</a> <a class="ref" href="1877_06">1877_06</a> <a class="ref" href="1877_07">1877_07</a> <a class="ref" href="1878_01">1878_01</a> <a class="ref" href="1878_02">1878_02</a> <a class="ref" href="1878_04">1878_04</a> <a class="ref" href="1878_05">1878_05</a> <a class="ref" href="1878_06">1878_06</a> <a class="ref" href="1878_07">1878_07</a> <a class="ref" href="1878_08">1878_08</a> <a class="ref" href="1878_09">1878_09</a> <a class="ref" href="1878_10">1878_10</a> <a class="ref" href="1878_11">1878_11</a> <a class="ref" href="1878_12">1878_12</a> <a class="ref" href="1878_13">1878_13</a> <a class="ref" href="1878_14">1878_14</a> <a class="ref" href="1878_15">1878_15</a> <a class="ref" href="1878_16">1878_16</a> <a class="ref" href="1878_17">1878_17</a> <a class="ref" href="1878_18">1878_18</a> <a class="ref" href="1878_19">1878_19</a> <a class="ref" href="1879_02">1879_02</a> <a class="ref" href="1879_04">1879_04</a> <a class="ref" href="1879_05">1879_05</a> <a class="ref" href="1879_06">1879_06</a> <a class="ref" href="1879_07">1879_07</a> <a class="ref" href="1879_08">1879_08</a> <a class="ref" href="1879_10">1879_10</a> <a class="ref" href="1879_11">1879_11</a> <a class="ref" href="1879_13">1879_13</a> <a class="ref" href="1879_14">1879_14</a> <a class="ref" href="1879_15">1879_15</a> <a class="ref" href="1879_16">1879_16</a> <a class="ref" href="1879_18">1879_18</a> <a class="ref" href="1879_19">1879_19</a> <a class="ref" href="1879_20">1879_20</a> <a class="ref" href="1879_21">1879_21</a> <a class="ref" href="1879_22">1879_22</a> <a class="ref" href="1880_01">1880_01</a> <a class="ref" href="1880_02">1880_02</a> <a class="ref" href="1880_03">1880_03</a> <a class="ref" href="1880_05">1880_05</a> <a class="ref" href="1880_06">1880_06</a> <a class="ref" href="1880_07">1880_07</a> <a class="ref" href="1880_10">1880_10</a> <a class="ref" href="1880_11">1880_11</a> <a class="ref" href="1880_12">1880_12</a> <a class="ref" href="1880_13">1880_13</a> <a class="ref" href="1880_14">1880_14</a> <a class="ref" href="1880_15">1880_15</a> <a class="ref" href="1880_16">1880_16</a> <a class="ref" href="1880_17">1880_17</a> <a class="ref" href="1880_18">1880_18</a> <a class="ref" href="1880_19">1880_19</a> <a class="ref" href="1881_02">1881_02</a> <a class="ref" href="1881_04">1881_04</a> <a class="ref" href="1881_08">1881_08</a> <a class="ref" href="1881_09">1881_09</a> <a class="ref" href="1881_10">1881_10</a> <a class="ref" href="1881_11">1881_11</a> <a class="ref" href="1881_12">1881_12</a> <a class="ref" href="1881_13">1881_13</a> <a class="ref" href="1881_14">1881_14</a> <a class="ref" href="1882_01">1882_01</a> <a class="ref" href="1882_03">1882_03</a> <a class="ref" href="1882_04">1882_04</a> <a class="ref" href="1882_06">1882_06</a> <a class="ref" href="1883_01">1883_01</a> <a class="ref" href="1883_02">1883_02</a> <a class="ref" href="1883_04">1883_04</a> <a class="ref" href="1883_05">1883_05</a> <a class="ref" href="1884_01">1884_01</a> <a class="ref" href="1884_03">1884_03</a> <a class="ref" href="1884_04">1884_04</a> <a class="ref" href="1884_06">1884_06</a> <a class="ref" href="1884_07">1884_07</a> <a class="ref" href="1884_08">1884_08</a> <a class="ref" href="1884_09">1884_09</a> <a class="ref" href="1884_10">1884_10</a> <a class="ref" href="1884_11">1884_11</a> <a class="ref" href="1884_12">1884_12</a> <a class="ref" href="1884_13">1884_13</a> <a class="ref" href="1885_02">1885_02</a> <a class="ref" href="1885_03">1885_03</a> <a class="ref" href="1886_02">1886_02</a> <a class="ref" href="1886_03">1886_03</a> <a class="ref" href="1886_04">1886_04</a> <a class="ref" href="1886_05">1886_05</a> <a class="ref" href="1886_06">1886_06</a> <a class="ref" href="1887_02">1887_02</a> <a class="ref" href="1887_04">1887_04</a> <a class="ref" href="1887_05">1887_05</a> <a class="ref" href="1887_07">1887_07</a> <a class="ref" href="1887_09">1887_09</a> <a class="ref" href="1888_01">1888_01</a> <a class="ref" href="1888_02">1888_02</a> <a class="ref" href="1888_05">1888_05</a> <a class="ref" href="1888_06">1888_06</a> <a class="ref" href="1888_07">1888_07</a> <a class="ref" href="1889_01">1889_01</a> <a class="ref" href="1889_03">1889_03</a> <a class="ref" href="1889_05">1889_05</a> <a class="ref" href="1889_06">1889_06</a> <a class="ref" href="1890_01">1890_01</a> <a class="ref" href="1890_02">1890_02</a> <a class="ref" href="1890_04">1890_04</a> <a class="ref" href="1890_06">1890_06</a> <a class="ref" href="1891_02">1891_02</a> <a class="ref" href="1891_03">1891_03</a> <a class="ref" href="1891_04">1891_04</a> <a class="ref" href="1891_05">1891_05</a> <a class="ref" href="1892_04">1892_04</a> <a class="ref" href="1892_05">1892_05</a> <a class="ref" href="1893_01">1893_01</a> <a class="ref" href="1893_02">1893_02</a> <a class="ref" href="1894_01">1894_01</a> <a class="ref" href="1894_02">1894_02</a> <a class="ref" href="1894_03">1894_03</a> <a class="ref" href="1894_04">1894_04</a> <a class="ref" href="1894_05">1894_05</a> <a class="ref" href="1894_06">1894_06</a> <a class="ref" href="1895_02">1895_02</a> <a class="ref" href="1896_01">1896_01</a> <a class="ref" href="1896_05">1896_05</a> <a class="ref" href="1896_07">1896_07</a> <a class="ref" href="1896_08">1896_08</a> <a class="ref" href="1896_10">1896_10</a> <a class="ref" href="1896_11">1896_11</a> <a class="ref" href="1897_01">1897_01</a> <a class="ref" href="1897_02">1897_02</a> <a class="ref" href="1898_01">1898_01</a> <a class="ref" href="1898_02">1898_02</a> <a class="ref" href="1898_04">1898_04</a> <a class="ref" href="1898_05">1898_05</a> <a class="ref" href="1898_06">1898_06</a> <a class="ref" href="1898_07">1898_07</a> <a class="ref" href="1899_01">1899_01</a> <a class="ref" href="1899_02">1899_02</a> <a class="ref" href="1899_03">1899_03</a> <a class="ref" href="1899_04">1899_04</a> <a class="ref" href="1899_05">1899_05</a> <a class="ref" href="1900_02">1900_02</a> <a class="ref" href="1900_04">1900_04</a> <a class="ref" href="1901_01">1901_01</a> <a class="ref" href="1901_03">1901_03</a> <a class="ref" href="1901_04">1901_04</a> <a class="ref" href="1901_08">1901_08</a> <a class="ref" href="1902_01">1902_01</a></td>
+		</tr>
+		<tr about="#11949" id="11949">
+			<td><a class="local-row" href="#11949">#11949</a></td>
+			<td property="schema:name">Dubourg, Hélène</td>
+			<td><a class="ref" href="1875_15">1875_15</a> <a class="ref" href="1875_16">1875_16</a> <a class="ref" href="1875_17">1875_17</a> <a class="ref" href="1876_03">1876_03</a> <a class="ref" href="1876_07">1876_07</a> <a class="ref" href="1876_08">1876_08</a> <a class="ref" href="1876_12">1876_12</a> <a class="ref" href="1877_07">1877_07</a> <a class="ref" href="1878_01">1878_01</a> <a class="ref" href="1878_02">1878_02</a> <a class="ref" href="1878_03">1878_03</a> <a class="ref" href="1878_13">1878_13</a> <a class="ref" href="1879_21">1879_21</a> <a class="ref" href="1880_01">1880_01</a> <a class="ref" href="1880_02">1880_02</a> <a class="ref" href="1880_09">1880_09</a> <a class="ref" href="1880_10">1880_10</a> <a class="ref" href="1881_08">1881_08</a> <a class="ref" href="1882_04">1882_04</a> <a class="ref" href="1882_06">1882_06</a> <a class="ref" href="1883_01">1883_01</a> <a class="ref" href="1883_04">1883_04</a> <a class="ref" href="1883_05">1883_05</a> <a class="ref" href="1884_07">1884_07</a> <a class="ref" href="1884_08">1884_08</a> <a class="ref" href="1884_09">1884_09</a> <a class="ref" href="1884_12">1884_12</a> <a class="ref" href="1885_01">1885_01</a> <a class="ref" href="1885_02">1885_02</a> <a class="ref" href="1885_03">1885_03</a> <a class="ref" href="1886_01">1886_01</a> <a class="ref" href="1886_02">1886_02</a> <a class="ref" href="1886_06">1886_06</a> <a class="ref" href="1888_01">1888_01</a> <a class="ref" href="1888_02">1888_02</a> <a class="ref" href="1888_05">1888_05</a> <a class="ref" href="1888_06">1888_06</a> <a class="ref" href="1889_03">1889_03</a> <a class="ref" href="1889_06">1889_06</a> <a class="ref" href="1890_01">1890_01</a> <a class="ref" href="1890_06">1890_06</a> <a class="ref" href="1891_01">1891_01</a> <a class="ref" href="1891_02">1891_02</a> <a class="ref" href="1891_04">1891_04</a> <a class="ref" href="1891_05">1891_05</a> <a class="ref" href="1892_01">1892_01</a> <a class="ref" href="1892_02">1892_02</a> <a class="ref" href="1893_01">1893_01</a> <a class="ref" href="1893_02">1893_02</a> <a class="ref" href="1894_01">1894_01</a> <a class="ref" href="1894_02">1894_02</a> <a class="ref" href="1894_03">1894_03</a> <a class="ref" href="1894_05">1894_05</a> <a class="ref" href="1894_06">1894_06</a> <a class="ref" href="1895_02">1895_02</a> <a class="ref" href="1895_03">1895_03</a> <a class="ref" href="1896_03">1896_03</a> <a class="ref" href="1896_05">1896_05</a></td>
+		</tr>
+		<tr about="#10358" id="10358">
+			<td><a class="local-row" href="#10358">#10358</a></td>
+			<td property="schema:name">Edwards, Ruth</td>
+			<td><a class="ref" href="1871_03">1871_03</a> <a class="ref" href="1871_05">1871_05</a> <a class="ref" href="1871_06">1871_06</a> <a class="ref" href="1871_08">1871_08</a> <a class="ref" href="1872_01">1872_01</a> <a class="ref" href="1872_02">1872_02</a> <a class="ref" href="1872_04">1872_04</a> <a class="ref" href="1873_02">1873_02</a> <a class="ref" href="1873_04">1873_04</a> <a class="ref" href="1874_02">1874_02</a> <a class="ref" href="1875_01">1875_01</a> <a class="ref" href="1875_02">1875_02</a> <a class="ref" href="1875_03">1875_03</a> <a class="ref" href="1875_04">1875_04</a> <a class="ref" href="1875_05">1875_05</a> <a class="ref" href="1875_06">1875_06</a> <a class="ref" href="1875_08">1875_08</a> <a class="ref" href="1875_09">1875_09</a> <a class="ref" href="1875_10">1875_10</a> <a class="ref" href="1875_11">1875_11</a> <a class="ref" href="1875_12">1875_12</a> <a class="ref" href="1875_13">1875_13</a> <a class="ref" href="1875_16">1875_16</a> <a class="ref" href="1875_17">1875_17</a> <a class="ref" href="1875_18">1875_18</a> <a class="ref" href="1876_01">1876_01</a> <a class="ref" href="1876_02">1876_02</a> <a class="ref" href="1876_03">1876_03</a> <a class="ref" href="1876_04">1876_04</a> <a class="ref" href="1876_05">1876_05</a> <a class="ref" href="1876_06">1876_06</a> <a class="ref" href="1876_07">1876_07</a> <a class="ref" href="1876_08">1876_08</a> <a class="ref" href="1876_10">1876_10</a> <a class="ref" href="1876_11">1876_11</a> <a class="ref" href="1876_12">1876_12</a> <a class="ref" href="1876_14">1876_14</a> <a class="ref" href="1876_16">1876_16</a> <a class="ref" href="1876_17">1876_17</a> <a class="ref" href="1876_18">1876_18</a> <a class="ref" href="1877_02">1877_02</a> <a class="ref" href="1877_03">1877_03</a> <a class="ref" href="1877_05">1877_05</a> <a class="ref" href="1877_06">1877_06</a> <a class="ref" href="1877_07">1877_07</a> <a class="ref" href="1877_08">1877_08</a> <a class="ref" href="1877_09">1877_09</a> <a class="ref" href="1878_01">1878_01</a> <a class="ref" href="1878_02">1878_02</a> <a class="ref" href="1878_03">1878_03</a> <a class="ref" href="1878_04">1878_04</a> <a class="ref" href="1878_05">1878_05</a> <a class="ref" href="1878_06">1878_06</a> <a class="ref" href="1878_07">1878_07</a> <a class="ref" href="1878_08">1878_08</a> <a class="ref" href="1878_09">1878_09</a> <a class="ref" href="1878_13">1878_13</a> <a class="ref" href="1878_14">1878_14</a> <a class="ref" href="1878_15">1878_15</a> <a class="ref" href="1878_16">1878_16</a> <a class="ref" href="1879_05">1879_05</a> <a class="ref" href="1879_06">1879_06</a> <a class="ref" href="1879_07">1879_07</a> <a class="ref" href="1879_09">1879_09</a> <a class="ref" href="1879_10">1879_10</a> <a class="ref" href="1879_11">1879_11</a> <a class="ref" href="1879_13">1879_13</a> <a class="ref" href="1879_14">1879_14</a> <a class="ref" href="1879_15">1879_15</a> <a class="ref" href="1879_18">1879_18</a> <a class="ref" href="1879_21">1879_21</a> <a class="ref" href="1879_22">1879_22</a> <a class="ref" href="1880_01">1880_01</a> <a class="ref" href="1880_02">1880_02</a> <a class="ref" href="1880_04">1880_04</a> <a class="ref" href="1880_05">1880_05</a> <a class="ref" href="1880_07">1880_07</a> <a class="ref" href="1880_08">1880_08</a> <a class="ref" href="1880_11">1880_11</a> <a class="ref" href="1880_12">1880_12</a> <a class="ref" href="1880_13">1880_13</a> <a class="ref" href="1880_15">1880_15</a> <a class="ref" href="1880_17">1880_17</a> <a class="ref" href="1880_18">1880_18</a> <a class="ref" href="1880_19">1880_19</a> <a class="ref" href="1881_01">1881_01</a> <a class="ref" href="1881_03">1881_03</a> <a class="ref" href="1881_04">1881_04</a> <a class="ref" href="1881_07">1881_07</a> <a class="ref" href="1881_11">1881_11</a> <a class="ref" href="1881_12">1881_12</a> <a class="ref" href="1881_13">1881_13</a> <a class="ref" href="1882_02">1882_02</a> <a class="ref" href="1882_03">1882_03</a> <a class="ref" href="1882_04">1882_04</a> <a class="ref" href="1883_02">1883_02</a> <a class="ref" href="1883_03">1883_03</a> <a class="ref" href="1883_04">1883_04</a> <a class="ref" href="1883_05">1883_05</a> <a class="ref" href="1884_01">1884_01</a> <a class="ref" href="1884_04">1884_04</a> <a class="ref" href="1884_06">1884_06</a> <a class="ref" href="1884_07">1884_07</a> <a class="ref" href="1884_08">1884_08</a> <a class="ref" href="1884_10">1884_10</a> <a class="ref" href="1884_12">1884_12</a> <a class="ref" href="1885_01">1885_01</a> <a class="ref" href="1885_02">1885_02</a> <a class="ref" href="1886_01">1886_01</a> <a class="ref" href="1886_03">1886_03</a> <a class="ref" href="1887_02">1887_02</a> <a class="ref" href="1887_03">1887_03</a> <a class="ref" href="1887_04">1887_04</a> <a class="ref" href="1887_08">1887_08</a> <a class="ref" href="1887_09">1887_09</a> <a class="ref" href="1888_01">1888_01</a> <a class="ref" href="1888_02">1888_02</a> <a class="ref" href="1888_04">1888_04</a> <a class="ref" href="1888_05">1888_05</a> <a class="ref" href="1888_07">1888_07</a> <a class="ref" href="1889_04">1889_04</a> <a class="ref" href="1889_05">1889_05</a> <a class="ref" href="1889_06">1889_06</a> <a class="ref" href="1890_01">1890_01</a> <a class="ref" href="1890_04">1890_04</a> <a class="ref" href="1890_06">1890_06</a> <a class="ref" href="1891_01">1891_01</a> <a class="ref" href="1891_02">1891_02</a> <a class="ref" href="1891_03">1891_03</a> <a class="ref" href="1891_04">1891_04</a> <a class="ref" href="1892_01">1892_01</a> <a class="ref" href="1892_02">1892_02</a> <a class="ref" href="1892_03">1892_03</a> <a class="ref" href="1892_04">1892_04</a> <a class="ref" href="1894_02">1894_02</a> <a class="ref" href="1894_03">1894_03</a> <a class="ref" href="1894_06">1894_06</a> <a class="ref" href="1895_01">1895_01</a> <a class="ref" href="1895_02">1895_02</a> <a class="ref" href="1895_03">1895_03</a> <a class="ref" href="1896_03">1896_03</a> <a class="ref" href="1896_06">1896_06</a> <a class="ref" href="1896_07">1896_07</a> <a class="ref" href="1896_10">1896_10</a> <a class="ref" href="1896_11">1896_11</a> <a class="ref" href="1897_01">1897_01</a> <a class="ref" href="1897_02">1897_02</a> <a class="ref" href="1898_01">1898_01</a> <a class="ref" href="1898_02">1898_02</a> <a class="ref" href="1898_05">1898_05</a> <a class="ref" href="1898_07">1898_07</a> <a class="ref" href="1899_01">1899_01</a> <a class="ref" href="1899_02">1899_02</a> <a class="ref" href="1899_03">1899_03</a> <a class="ref" href="1899_04">1899_04</a> <a class="ref" href="1899_05">1899_05</a> <a class="ref" href="1901_01">1901_01</a> <a class="ref" href="1901_02">1901_02</a></td>
+		</tr>
+		<tr about="#10349" id="10349">
+			<td><a class="local-row" href="#10349">#10349</a></td>
+			<td property="schema:name">Dubourg, Charlotte</td>
+			<td><a class="ref" href="1875_11">1875_11</a> <a class="ref" href="1875_15">1875_15</a> <a class="ref" href="1876_08">1876_08</a> <a class="ref" href="1876_12">1876_12</a> <a class="ref" href="1877_02">1877_02</a> <a class="ref" href="1877_04">1877_04</a> <a class="ref" href="1877_06">1877_06</a> <a class="ref" href="1877_07">1877_07</a> <a class="ref" href="1878_01">1878_01</a> <a class="ref" href="1878_02">1878_02</a> <a class="ref" href="1878_03">1878_03</a> <a class="ref" href="1878_13">1878_13</a> <a class="ref" href="1879_11">1879_11</a> <a class="ref" href="1879_20">1879_20</a> <a class="ref" href="1879_21">1879_21</a> <a class="ref" href="1880_01">1880_01</a> <a class="ref" href="1880_02">1880_02</a> <a class="ref" href="1880_09">1880_09</a> <a class="ref" href="1880_10">1880_10</a> <a class="ref" href="1881_04">1881_04</a> <a class="ref" href="1881_08">1881_08</a> <a class="ref" href="1881_09">1881_09</a> <a class="ref" href="1882_04">1882_04</a> <a class="ref" href="1882_06">1882_06</a> <a class="ref" href="1883_01">1883_01</a> <a class="ref" href="1883_04">1883_04</a> <a class="ref" href="1883_05">1883_05</a> <a class="ref" href="1884_07">1884_07</a> <a class="ref" href="1884_08">1884_08</a> <a class="ref" href="1884_09">1884_09</a> <a class="ref" href="1884_12">1884_12</a> <a class="ref" href="1885_02">1885_02</a> <a class="ref" href="1885_03">1885_03</a> <a class="ref" href="1886_01">1886_01</a> <a class="ref" href="1886_02">1886_02</a> <a class="ref" href="1886_06">1886_06</a> <a class="ref" href="1887_03">1887_03</a> <a class="ref" href="1888_01">1888_01</a> <a class="ref" href="1888_02">1888_02</a> <a class="ref" href="1888_05">1888_05</a> <a class="ref" href="1888_06">1888_06</a> <a class="ref" href="1889_03">1889_03</a> <a class="ref" href="1889_06">1889_06</a> <a class="ref" href="1890_01">1890_01</a> <a class="ref" href="1890_06">1890_06</a> <a class="ref" href="1891_02">1891_02</a> <a class="ref" href="1891_05">1891_05</a> <a class="ref" href="1892_01">1892_01</a> <a class="ref" href="1892_02">1892_02</a> <a class="ref" href="1892_04">1892_04</a> <a class="ref" href="1892_05">1892_05</a> <a class="ref" href="1893_01">1893_01</a> <a class="ref" href="1893_02">1893_02</a> <a class="ref" href="1894_01">1894_01</a> <a class="ref" href="1894_02">1894_02</a> <a class="ref" href="1894_03">1894_03</a> <a class="ref" href="1894_05">1894_05</a> <a class="ref" href="1895_02">1895_02</a> <a class="ref" href="1895_03">1895_03</a> <a class="ref" href="1896_01">1896_01</a> <a class="ref" href="1896_02">1896_02</a> <a class="ref" href="1896_03">1896_03</a> <a class="ref" href="1896_05">1896_05</a> <a class="ref" href="1896_07">1896_07</a> <a class="ref" href="1896_08">1896_08</a> <a class="ref" href="1896_09">1896_09</a> <a class="ref" href="1896_11">1896_11</a> <a class="ref" href="1896_12">1896_12</a> <a class="ref" href="1897_01">1897_01</a> <a class="ref" href="1898_01">1898_01</a> <a class="ref" href="1898_02">1898_02</a> <a class="ref" href="1898_03">1898_03</a> <a class="ref" href="1898_05">1898_05</a> <a class="ref" href="1898_06">1898_06</a> <a class="ref" href="1898_07">1898_07</a> <a class="ref" href="1899_05">1899_05</a> <a class="ref" href="1900_02">1900_02</a> <a class="ref" href="1900_04">1900_04</a> <a class="ref" href="1901_01">1901_01</a> <a class="ref" href="1901_04">1901_04</a> <a class="ref" href="1901_06">1901_06</a> <a class="ref" href="1901_08">1901_08</a></td>
+		</tr>
+		<tr about="#10368" id="10368">
+			<td><a class="local-row" href="#10368">#10368</a></td>
+			<td property="schema:name">Fantin-Latour, Marie</td>
+			<td><a class="ref" href="1858_04">1858_04</a> <a class="ref" href="1872_04">1872_04</a> <a class="ref" href="1873_01">1873_01</a> <a class="ref" href="1877_02">1877_02</a> <a class="ref" href="1878_01">1878_01</a> <a class="ref" href="1882_05">1882_05</a> <a class="ref" href="1890_03">1890_03</a> <a class="ref" href="1890_06">1890_06</a> <a class="ref" href="1891_02">1891_02</a> <a class="ref" href="1896_01">1896_01</a> <a class="ref" href="1896_11">1896_11</a> <a class="ref" href="1902_01">1902_01</a></td>
+		</tr>
+		<tr about="#10483" id="10483">
+			<td><a class="local-row" href="#10483">#10483</a></td>
+			<td property="schema:name">Morrison, Monsieur</td>
+			<td><a class="ref" href="1873_04">1873_04</a> <a class="ref" href="1884_10">1884_10</a> <a class="ref" href="1891_02">1891_02</a></td>
+		</tr>
+		<tr about="#8581" id="8581">
+			<td><a class="local-row" href="#8581">#8581</a></td>
+			<td property="schema:name">Newman, Barnett</td>
+			<td><a class="ref" href="1891_01">1891_01</a> <a class="ref" href="1891_02">1891_02</a></td>
+		</tr>
+		<tr about="#10394" id="10394">
+			<td><a class="local-row" href="#10394">#10394</a></td>
+			<td property="schema:name">Guthrie, James</td>
+			<td><a class="ref" href="1890_06">1890_06</a> <a class="ref" href="1891_01">1891_01</a> <a class="ref" href="1891_02">1891_02</a> <a class="ref" href="1891_03">1891_03</a> <a class="ref" href="1891_04">1891_04</a></td>
+		</tr>
+		<tr about="#10417" id="10417">
+			<td><a class="local-row" href="#10417">#10417</a></td>
+			<td property="schema:name">Janovski, Sonia</td>
+			<td><a class="ref" href="1889_06">1889_06</a> <a class="ref" href="1890_01">1890_01</a> <a class="ref" href="1891_02">1891_02</a> <a class="ref" href="1896_11">1896_11</a> <a class="ref" href="1896_12">1896_12</a></td>
+		</tr>
+		<tr about="#12197" id="12197">
+			<td><a class="local-row" href="#12197">#12197</a></td>
+			<td property="schema:name">Scholderer, Viktor</td>
+			<td><a class="ref" href="1880_11">1880_11</a> <a class="ref" href="1880_12">1880_12</a> <a class="ref" href="1880_14">1880_14</a> <a class="ref" href="1880_16">1880_16</a> <a class="ref" href="1880_17">1880_17</a> <a class="ref" href="1880_18">1880_18</a> <a class="ref" href="1880_19">1880_19</a> <a class="ref" href="1881_01">1881_01</a> <a class="ref" href="1881_02">1881_02</a> <a class="ref" href="1881_03">1881_03</a> <a class="ref" href="1881_06">1881_06</a> <a class="ref" href="1881_07">1881_07</a> <a class="ref" href="1881_08">1881_08</a> <a class="ref" href="1881_09">1881_09</a> <a class="ref" href="1881_10">1881_10</a> <a class="ref" href="1881_11">1881_11</a> <a class="ref" href="1881_12">1881_12</a> <a class="ref" href="1881_13">1881_13</a> <a class="ref" href="1882_01">1882_01</a> <a class="ref" href="1882_02">1882_02</a> <a class="ref" href="1882_03">1882_03</a> <a class="ref" href="1882_04">1882_04</a> <a class="ref" href="1882_05">1882_05</a> <a class="ref" href="1882_06">1882_06</a> <a class="ref" href="1883_02">1883_02</a> <a class="ref" href="1883_03">1883_03</a> <a class="ref" href="1883_04">1883_04</a> <a class="ref" href="1883_05">1883_05</a> <a class="ref" href="1884_01">1884_01</a> <a class="ref" href="1884_02">1884_02</a> <a class="ref" href="1884_04">1884_04</a> <a class="ref" href="1884_06">1884_06</a> <a class="ref" href="1884_07">1884_07</a> <a class="ref" href="1884_08">1884_08</a> <a class="ref" href="1884_09">1884_09</a> <a class="ref" href="1884_10">1884_10</a> <a class="ref" href="1884_11">1884_11</a> <a class="ref" href="1884_12">1884_12</a> <a class="ref" href="1884_13">1884_13</a> <a class="ref" href="1885_01">1885_01</a> <a class="ref" href="1885_02">1885_02</a> <a class="ref" href="1885_03">1885_03</a> <a class="ref" href="1886_02">1886_02</a> <a class="ref" href="1886_03">1886_03</a> <a class="ref" href="1886_04">1886_04</a> <a class="ref" href="1886_05">1886_05</a> <a class="ref" href="1887_01">1887_01</a> <a class="ref" href="1887_02">1887_02</a> <a class="ref" href="1887_03">1887_03</a> <a class="ref" href="1887_04">1887_04</a> <a class="ref" href="1887_05">1887_05</a> <a class="ref" href="1887_06">1887_06</a> <a class="ref" href="1887_07">1887_07</a> <a class="ref" href="1887_08">1887_08</a> <a class="ref" href="1888_01">1888_01</a> <a class="ref" href="1888_04">1888_04</a> <a class="ref" href="1888_05">1888_05</a> <a class="ref" href="1888_06">1888_06</a> <a class="ref" href="1888_07">1888_07</a> <a class="ref" href="1889_05">1889_05</a> <a class="ref" href="1889_06">1889_06</a> <a class="ref" href="1890_01">1890_01</a> <a class="ref" href="1890_02">1890_02</a> <a class="ref" href="1890_03">1890_03</a> <a class="ref" href="1890_04">1890_04</a> <a class="ref" href="1890_05">1890_05</a> <a class="ref" href="1890_06">1890_06</a> <a class="ref" href="1891_01">1891_01</a> <a class="ref" href="1891_02">1891_02</a> <a class="ref" href="1891_03">1891_03</a> <a class="ref" href="1891_04">1891_04</a> <a class="ref" href="1891_05">1891_05</a> <a class="ref" href="1892_01">1892_01</a> <a class="ref" href="1892_02">1892_02</a> <a class="ref" href="1892_03">1892_03</a> <a class="ref" href="1892_04">1892_04</a> <a class="ref" href="1892_05">1892_05</a> <a class="ref" href="1893_01">1893_01</a> <a class="ref" href="1893_02">1893_02</a> <a class="ref" href="1894_01">1894_01</a> <a class="ref" href="1894_02">1894_02</a> <a class="ref" href="1894_03">1894_03</a> <a class="ref" href="1894_04">1894_04</a> <a class="ref" href="1894_05">1894_05</a> <a class="ref" href="1894_06">1894_06</a> <a class="ref" href="1895_02">1895_02</a> <a class="ref" href="1895_03">1895_03</a> <a class="ref" href="1896_01">1896_01</a> <a class="ref" href="1896_02">1896_02</a> <a class="ref" href="1896_03">1896_03</a> <a class="ref" href="1896_07">1896_07</a> <a class="ref" href="1896_09">1896_09</a> <a class="ref" href="1896_11">1896_11</a> <a class="ref" href="1896_12">1896_12</a> <a class="ref" href="1897_01">1897_01</a> <a class="ref" href="1897_02">1897_02</a> <a class="ref" href="1898_01">1898_01</a> <a class="ref" href="1898_02">1898_02</a> <a class="ref" href="1898_04">1898_04</a> <a class="ref" href="1898_05">1898_05</a> <a class="ref" href="1898_06">1898_06</a> <a class="ref" href="1898_07">1898_07</a> <a class="ref" href="1899_01">1899_01</a> <a class="ref" href="1899_02">1899_02</a> <a class="ref" href="1899_04">1899_04</a> <a class="ref" href="1899_05">1899_05</a> <a class="ref" href="1900_01">1900_01</a> <a class="ref" href="1900_03">1900_03</a> <a class="ref" href="1900_04">1900_04</a> <a class="ref" href="1901_01">1901_01</a> <a class="ref" href="1901_02">1901_02</a> <a class="ref" href="1901_03">1901_03</a> <a class="ref" href="1901_04">1901_04</a> <a class="ref" href="1901_06">1901_06</a> <a class="ref" href="1901_08">1901_08</a> <a class="ref" href="1902_01">1902_01</a></td>
+		</tr>
+		<tr about="#1147" id="1147">
+			<td><a class="local-row" href="#1147">#1147</a></td>
+			<td property="schema:name">Sickert, Walter</td>
+			<td><a class="ref" href="1888_05">1888_05</a> <a class="ref" href="1891_03">1891_03</a></td>
+		</tr>
+		<tr about="#10322" id="10322">
+			<td><a class="local-row" href="#10322">#10322</a></td>
+			<td property="schema:name">Crachanthorpe, Hubert</td>
+			<td><a class="ref" href="1891_03">1891_03</a> <a class="ref" href="1891_05">1891_05</a></td>
+		</tr>
+		<tr about="#2033" id="2033">
+			<td><a class="local-row" href="#2033">#2033</a></td>
+			<td property="schema:name">Dürer, Albrecht</td>
+			<td><a class="ref" href="1892_01">1892_01</a> <a class="ref" href="1894_01">1894_01</a></td>
+		</tr>
+		<tr about="#2088" id="2088">
+			<td><a class="local-row" href="#2088">#2088</a></td>
+			<td property="schema:name">Thoma</td>
+			<td><a class="ref" href="1892_02">1892_02</a> <a class="ref" href="1899_05">1899_05</a></td>
+		</tr>
+		<tr about="#10403" id="10403">
+			<td><a class="local-row" href="#10403">#10403</a></td>
+			<td property="schema:name">Hédiard, Germain</td>
+			<td><a class="ref" href="1892_03">1892_03</a> <a class="ref" href="1892_04">1892_04</a></td>
+		</tr>
+		<tr about="#10565" id="10565">
+			<td><a class="local-row" href="#10565">#10565</a></td>
+			<td property="schema:name">Stothard, Thomas</td>
+			<td><a class="ref" href="1894_01">1894_01</a></td>
+		</tr>
+		<tr about="#10435" id="10435">
+			<td><a class="local-row" href="#10435">#10435</a></td>
+			<td property="schema:name">Leighton, Frederick</td>
+			<td><a class="ref" href="1894_01">1894_01</a></td>
+		</tr>
+		<tr about="#10441" id="10441">
+			<td><a class="local-row" href="#10441">#10441</a></td>
+			<td property="schema:name">Linton, James Dromgole</td>
+			<td><a class="ref" href="1894_01">1894_01</a></td>
+		</tr>
+		<tr about="#11638" id="11638">
+			<td><a class="local-row" href="#11638">#11638</a></td>
+			<td property="schema:name">Rossini, Pascal</td>
+			<td><a class="ref" href="1894_02">1894_02</a></td>
+		</tr>
+		<tr about="#10355" id="10355">
+			<td><a class="local-row" href="#10355">#10355</a></td>
+			<td property="schema:name">Dürer, Albert</td>
+			<td><a class="ref" href="1892_02">1892_02</a> <a class="ref" href="1894_02">1894_02</a> <a class="ref" href="1898_03">1898_03</a></td>
+		</tr>
+		<tr about="#4943" id="4943">
+			<td><a class="local-row" href="#4943">#4943</a></td>
+			<td property="schema:name">Durand-Ruel</td>
+			<td><a class="ref" href="1894_03">1894_03</a></td>
+		</tr>
+		<tr about="#12214" id="12214">
+			<td><a class="local-row" href="#12214">#12214</a></td>
+			<td property="schema:name">Lamartine,</td>
+			<td><a class="ref" href="1894_03">1894_03</a></td>
+		</tr>
+		<tr about="#12215" id="12215">
+			<td><a class="local-row" href="#12215">#12215</a></td>
+			<td property="schema:name">Vigny,</td>
+			<td><a class="ref" href="1894_03">1894_03</a></td>
+		</tr>
+		<tr about="#10539" id="10539">
+			<td><a class="local-row" href="#10539">#10539</a></td>
+			<td property="schema:name">Scholderer, Adolphe</td>
+			<td><a class="ref" href="1862_02">1862_02</a> <a class="ref" href="1865_15">1865_15</a> <a class="ref" href="1865_16">1865_16</a> <a class="ref" href="1875_15">1875_15</a> <a class="ref" href="1878_11">1878_11</a> <a class="ref" href="1883_04">1883_04</a> <a class="ref" href="1886_03">1886_03</a> <a class="ref" href="1886_04">1886_04</a> <a class="ref" href="1886_05">1886_05</a> <a class="ref" href="1886_06">1886_06</a> <a class="ref" href="1887_09">1887_09</a> <a class="ref" href="1888_01">1888_01</a> <a class="ref" href="1892_02">1892_02</a> <a class="ref" href="1894_02">1894_02</a> <a class="ref" href="1894_03">1894_03</a></td>
+		</tr>
+		<tr about="#2218" id="2218">
+			<td><a class="local-row" href="#2218">#2218</a></td>
+			<td property="schema:name">Legros</td>
+			<td><a class="ref" href="1894_04">1894_04</a></td>
+		</tr>
+		<tr about="#10307" id="10307">
+			<td><a class="local-row" href="#10307">#10307</a></td>
+			<td property="schema:name">Carter,</td>
+			<td><a class="ref" href="1890_01">1890_01</a> <a class="ref" href="1890_04">1890_04</a> <a class="ref" href="1894_04">1894_04</a></td>
+		</tr>
+		<tr about="#10569" id="10569">
+			<td><a class="local-row" href="#10569">#10569</a></td>
+			<td property="schema:name">Tempelaere, Gustave</td>
+			<td><a class="ref" href="1891_04">1891_04</a> <a class="ref" href="1894_05">1894_05</a> <a class="ref" href="1896_04">1896_04</a> <a class="ref" href="1901_06">1901_06</a></td>
+		</tr>
+		<tr about="#1430" id="1430">
+			<td><a class="local-row" href="#1430">#1430</a></td>
+			<td property="schema:name">Dupré</td>
+			<td><a class="ref" href="1896_02">1896_02</a></td>
+		</tr>
+		<tr about="#12216" id="12216">
+			<td><a class="local-row" href="#12216">#12216</a></td>
+			<td property="schema:name">Faliero, Marino</td>
+			<td><a class="ref" href="1896_02">1896_02</a></td>
+		</tr>
+		<tr about="#1505" id="1505">
+			<td><a class="local-row" href="#1505">#1505</a></td>
+			<td property="schema:name">Justi, Carl</td>
+			<td><a class="ref" href="1896_02">1896_02</a></td>
+		</tr>
+		<tr about="#10297" id="10297">
+			<td><a class="local-row" href="#10297">#10297</a></td>
+			<td property="schema:name">Breul,</td>
+			<td><a class="ref" href="1896_02">1896_02</a> <a class="ref" href="1896_03">1896_03</a></td>
+		</tr>
+		<tr about="#2470" id="2470">
+			<td><a class="local-row" href="#2470">#2470</a></td>
+			<td property="schema:name">Diaz de la Pena</td>
+			<td><a class="ref" href="1896_03">1896_03</a></td>
+		</tr>
+		<tr about="#12217" id="12217">
+			<td><a class="local-row" href="#12217">#12217</a></td>
+			<td property="schema:name">Sedelmeyer, Charles</td>
+			<td><a class="ref" href="1896_04">1896_04</a></td>
+		</tr>
+		<tr about="#1089" id="1089">
+			<td><a class="local-row" href="#1089">#1089</a></td>
+			<td property="schema:name">Daumier, Honoré</td>
+			<td><a class="ref" href="1896_03">1896_03</a> <a class="ref" href="1896_04">1896_04</a></td>
+		</tr>
+		<tr about="#2106" id="2106">
+			<td><a class="local-row" href="#2106">#2106</a></td>
+			<td property="schema:name">Millet</td>
+			<td><a class="ref" href="1887_06">1887_06</a> <a class="ref" href="1889_04">1889_04</a> <a class="ref" href="1896_04">1896_04</a> <a class="ref" href="1898_05">1898_05</a></td>
+		</tr>
+		<tr about="#12218" id="12218">
+			<td><a class="local-row" href="#12218">#12218</a></td>
+			<td property="schema:name">Hegar, Ernst Ludwig</td>
+			<td><a class="ref" href="1896_07">1896_07</a> <a class="ref" href="1896_08">1896_08</a></td>
+		</tr>
+		<tr about="#12240" id="12240">
+			<td><a class="local-row" href="#12240">#12240</a></td>
+			<td property="schema:name">Way, Thomas-Robert</td>
+			<td><a class="ref" href="1896_10">1896_10</a></td>
+		</tr>
+		<tr about="#12239" id="12239">
+			<td><a class="local-row" href="#12239">#12239</a></td>
+			<td property="schema:name">Way, Thomas</td>
+			<td><a class="ref" href="1896_10">1896_10</a></td>
+		</tr>
+		<tr about="#4810" id="4810">
+			<td><a class="local-row" href="#4810">#4810</a></td>
+			<td property="schema:name">Lawrence, Thomas</td>
+			<td><a class="ref" href="1896_11">1896_11</a></td>
+		</tr>
+		<tr about="#10490" id="10490">
+			<td><a class="local-row" href="#10490">#10490</a></td>
+			<td property="schema:name">Orchardson, William Quiller</td>
+			<td><a class="ref" href="1896_11">1896_11</a></td>
+		</tr>
+		<tr about="#3442" id="3442">
+			<td><a class="local-row" href="#3442">#3442</a></td>
+			<td property="schema:name">Romney, George</td>
+			<td><a class="ref" href="1896_11">1896_11</a></td>
+		</tr>
+		<tr about="#10507" id="10507">
+			<td><a class="local-row" href="#10507">#10507</a></td>
+			<td property="schema:name">Prinsep, Valentine Cameron</td>
+			<td><a class="ref" href="1896_11">1896_11</a></td>
+		</tr>
+		<tr about="#3079" id="3079">
+			<td><a class="local-row" href="#3079">#3079</a></td>
+			<td property="schema:name">Reynolds, Joshua</td>
+			<td><a class="ref" href="1898_01">1898_01</a></td>
+		</tr>
+		<tr about="#4657" id="4657">
+			<td><a class="local-row" href="#4657">#4657</a></td>
+			<td property="schema:name">Turner, Joseph Mallord William</td>
+			<td><a class="ref" href="1871_02">1871_02</a> <a class="ref" href="1878_17">1878_17</a> <a class="ref" href="1898_01">1898_01</a></td>
+		</tr>
+		<tr about="#3372" id="3372">
+			<td><a class="local-row" href="#3372">#3372</a></td>
+			<td property="schema:name">Constable, John</td>
+			<td><a class="ref" href="1871_02">1871_02</a> <a class="ref" href="1879_21">1879_21</a> <a class="ref" href="1882_01">1882_01</a> <a class="ref" href="1898_01">1898_01</a></td>
+		</tr>
+		<tr about="#5307" id="5307">
+			<td><a class="local-row" href="#5307">#5307</a></td>
+			<td property="schema:name">Bertin</td>
+			<td><a class="ref" href="1898_01">1898_01</a> <a class="ref" href="1898_02">1898_02</a></td>
+		</tr>
+		<tr about="#12241" id="12241">
+			<td><a class="local-row" href="#12241">#12241</a></td>
+			<td property="schema:name">Senonnes, Madame</td>
+			<td><a class="ref" href="1898_02">1898_02</a></td>
+		</tr>
+		<tr about="#4399" id="4399">
+			<td><a class="local-row" href="#4399">#4399</a></td>
+			<td property="schema:name">Aeschylos,</td>
+			<td><a class="ref" href="1898_03">1898_03</a></td>
+		</tr>
+		<tr about="#10362" id="10362">
+			<td><a class="local-row" href="#10362">#10362</a></td>
+			<td property="schema:name">Euripide,</td>
+			<td><a class="ref" href="1898_03">1898_03</a></td>
+		</tr>
+		<tr about="#10557" id="10557">
+			<td><a class="local-row" href="#10557">#10557</a></td>
+			<td property="schema:name">Sophocle,</td>
+			<td><a class="ref" href="1898_03">1898_03</a></td>
+		</tr>
+		<tr about="#7506" id="7506">
+			<td><a class="local-row" href="#7506">#7506</a></td>
+			<td property="schema:name">Raffael</td>
+			<td><a class="ref" href="1898_03">1898_03</a></td>
+		</tr>
+		<tr about="#8327" id="8327">
+			<td><a class="local-row" href="#8327">#8327</a></td>
+			<td property="schema:name">Holbein, Hans</td>
+			<td><a class="ref" href="1880_05">1880_05</a> <a class="ref" href="1898_03">1898_03</a></td>
+		</tr>
+		<tr about="#10344" id="10344">
+			<td><a class="local-row" href="#10344">#10344</a></td>
+			<td property="schema:name">Dreyfus, Alfred</td>
+			<td><a class="ref" href="1879_11">1879_11</a> <a class="ref" href="1898_04">1898_04</a></td>
+		</tr>
+		<tr about="#2101" id="2101">
+			<td><a class="local-row" href="#2101">#2101</a></td>
+			<td property="schema:name">Zola</td>
+			<td><a class="ref" href="1898_06">1898_06</a></td>
+		</tr>
+		<tr about="#1336" id="1336">
+			<td><a class="local-row" href="#1336">#1336</a></td>
+			<td property="schema:name">Rethel, Alfred</td>
+			<td><a class="ref" href="1899_01">1899_01</a></td>
+		</tr>
+		<tr about="#10536" id="10536">
+			<td><a class="local-row" href="#10536">#10536</a></td>
+			<td property="schema:name">Schierholz, Mlle</td>
+			<td><a class="ref" href="1899_01">1899_01</a> <a class="ref" href="1901_06">1901_06</a></td>
+		</tr>
+		<tr about="#12242" id="12242">
+			<td><a class="local-row" href="#12242">#12242</a></td>
+			<td property="schema:name">Eiser, Madame</td>
+			<td><a class="ref" href="1899_05">1899_05</a></td>
+		</tr>
+		<tr about="#290" id="290">
+			<td><a class="local-row" href="#290">#290</a></td>
+			<td property="schema:name">Dreyfus, Albert</td>
+			<td><a class="ref" href="1898_06">1898_06</a> <a class="ref" href="1899_05">1899_05</a></td>
+		</tr>
+		<tr about="#4267" id="4267">
+			<td><a class="local-row" href="#4267">#4267</a></td>
+			<td property="schema:name">Müller</td>
+			<td><a class="ref" href="1900_04">1900_04</a></td>
+		</tr>
+		<tr about="#42" id="42">
+			<td><a class="local-row" href="#42">#42</a></td>
+			<td property="schema:name">Spier, Anna</td>
+			<td><a class="ref" href="1899_03">1899_03</a> <a class="ref" href="1899_04">1899_04</a> <a class="ref" href="1900_03">1900_03</a> <a class="ref" href="1900_04">1900_04</a> <a class="ref" href="1901_01">1901_01</a></td>
+		</tr>
+		<tr about="#12604" id="12604">
+			<td><a class="local-row" href="#12604">#12604</a></td>
+			<td property="schema:name">Schienholz,</td>
+			<td><a class="ref" href="1901_04">1901_04</a></td>
+		</tr>
+		<tr about="#12211" id="12211">
+			<td><a class="local-row" href="#12211">#12211</a></td>
+			<td property="schema:name">Janovski, Marie</td>
+			<td><a class="ref" href="1889_04">1889_04</a> <a class="ref" href="1889_06">1889_06</a> <a class="ref" href="1890_01">1890_01</a> <a class="ref" href="1896_12">1896_12</a> <a class="ref" href="1901_05">1901_05</a></td>
+		</tr>
+	</tbody>
+</table>
+</article>

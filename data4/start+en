@@ -1,0 +1,23 @@
+<div class="non-source" data-template_id="start.tpl">
+	<article class="cover" style="background:url(icons/cover.png);background-size:cover;" title="Henri Fantin-Latour, fleurs et objets diverse, F.706, 1874, huile sur toile, Göteborg, Museum of Art.">
+		<section class="covertitle">
+			<h1 property="schema:alternativeHeadline">Correspondence <br/>between Henri Fantin-Latour <br/>and Otto Scholderer (1858-1902)</h1>
+			<p>
+				Edited by <br/>
+				<a class="creator" href="http://d-nb.info/gnd/133014444" property="schema:editor">Mathilde Arnoux</a> <br/>
+				<a class="creator" href="http://d-nb.info/gnd/180144316" property="schema:editor">Thomas W. Gaehtgens</a> <br/>
+				<a class="creator" href="http://d-nb.info/gnd/14380295X" property="schema:editor">Anne Tempelaere-Panzani</a>
+			</p>
+			<p class="release">
+				Critical Online Edition <span datatype="schema:Date" property="schema:datePublished">2014</span> <br/>
+				<a href="http://quellen-perspectivia.net/fantin-scholderer" property="schema:url">http://quellen-perspectivia.net/fantin-scholderer</a>
+			</p>
+			<p class="organization"><a href="http://www.dtforum.org/index.php?id=7&amp;L=2" property="schema:sourceOrganization">Deutsches Forum für Kunstgeschichte</a></p>
+		</section>
+	</article>
+	<p>
+		License: <a href="http://creativecommons.org/licenses/by-sa/4.0" property="schema:license">CC BY-SA</a> <br/>
+		Language:
+		 <span content="fr" datatype="schema:Text" property="schema:inLanguage">French</span>
+	</p>
+</div>
